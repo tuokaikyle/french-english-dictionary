@@ -24,13 +24,3 @@ or
 两种词性
 没有解释
 translation has leading ,
-
-{
-"word": "attract-eur",
-"pos": "adj.",
-"translation": ", attractile.",
-"metadata": {
-"suffix": "-rice"
-},
-"type": "BaseWithFeminine"
-}

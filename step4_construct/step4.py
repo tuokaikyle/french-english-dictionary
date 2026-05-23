@@ -165,6 +165,7 @@ def extract_translation_and_usage(seq, start_idx):
             i += 1
 
     translation = ' '.join(p for p in translation_parts if p)
+    translation = translation.lstrip(', ')  # strip structural comma after pos
     return translation, usage, plural
 
 
