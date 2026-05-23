@@ -92,3 +92,8 @@ type BaseWithAltSpelling = Base & {
     altSpelling: string;    // e.g. "aboîment", "acarus", "antiphonaire"
   }
 }
+
+type Other = {
+  word: string;
+  text: string;
+}
