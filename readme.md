@@ -22,3 +22,13 @@ translation has leading , - no more
 
 两种词性
 没有解释
+
+## more to come
+
+Complicated pattern words
+
+附录一 redirects
+附录二 old words
+附录三 OCABULARY OF PROPER NAMES. INCLUDING THOSE OF HISTORY AND MYTHOLOGY. (Aaron (aarōn), m., Aaron.) - (Zosime, m., Zosimus.)
+附录四 VOCABULARY OF ANCIENT AND MODERN GEOGRAPHICAL NAMES. (Abdère, f., Abdera.) - (Zollverein, Le, m., the Zollverein.)
+附录五 TABLE OF IRREGULAR AND DEFECTIVE VERBS.
