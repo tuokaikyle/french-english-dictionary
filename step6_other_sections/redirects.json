@@ -1,0 +1,6717 @@
+[
+  {
+    "word": "abait",
+    "pos": "n.m.",
+    "translation": "bait. V. appât.",
+    "type": "Base"
+  },
+  {
+    "word": "abaiter",
+    "pos": "v.a.",
+    "translation": "to bait. V. appâter.",
+    "type": "Base"
+  },
+  {
+    "word": "abas",
+    "pos": "n.m.",
+    "translation": "shower (bath), blight (in wheat). V. teigne.",
+    "type": "Base"
+  },
+  {
+    "word": "abcisse",
+    "pos": "n.f.",
+    "translation": "V. abscisse.",
+    "type": "Base"
+  },
+  {
+    "word": "abéquer",
+    "pos": "",
+    "translation": ". V. abecquer.",
+    "type": "Base"
+  },
+  {
+    "word": "abêtir",
+    "pos": "v.a.",
+    "translation": "to stupefy; to stultify. V. hébéter.",
+    "type": "Base"
+  },
+  {
+    "word": "abornement",
+    "pos": "n.m.",
+    "translation": "V. délimitation.",
+    "type": "Base"
+  },
+  {
+    "word": "aborner",
+    "pos": "v.a.",
+    "translation": "V. délimiter.",
+    "type": "Base"
+  },
+  {
+    "word": "abyme",
+    "pos": "n.m.",
+    "translation": "V. abîme.",
+    "type": "Base"
+  },
+  {
+    "word": "accoquiner",
+    "pos": "",
+    "translation": ". V. acoquiner.",
+    "type": "Base"
+  },
+  {
+    "word": "accotar",
+    "pos": "n.m.",
+    "translation": "V. accotoir.",
+    "type": "Base"
+  },
+  {
+    "word": "acon",
+    "pos": "n.m.",
+    "translation": "V. accon.",
+    "type": "Base"
+  },
+  {
+    "word": "adonique",
+    "pos": "",
+    "translation": ". V. adonien.",
+    "type": "Base"
+  },
+  {
+    "word": "adrachne",
+    "irregular_pronunciation": "-rakn",
+    "pos": "n.m.",
+    "translation": "strawberry-tree. V. arbousier.",
+    "type": "Base"
+  },
+  {
+    "word": "à fortiori",
+    "pos": "",
+    "translation": ". V. fortiori.",
+    "type": "Base"
+  },
+  {
+    "word": "agasse",
+    "pos": "n.f.",
+    "translation": "V. agace.",
+    "type": "Base"
+  },
+  {
+    "word": "aggrégat",
+    "pos": "",
+    "translation": ", aggrégation, aggréger. V. agrégat, agrégation, agréger.",
+    "type": "Base"
+  },
+  {
+    "word": "aglomération",
+    "pos": "",
+    "translation": ", &c. V. agglomération.",
+    "type": "Base"
+  },
+  {
+    "word": "aglutinant",
+    "pos": "",
+    "translation": ", &c. V. agglutinant, &c.",
+    "type": "Base"
+  },
+  {
+    "word": "agravant",
+    "pos": "",
+    "translation": ", &c. V. aggravant, &c.",
+    "type": "Base"
+  },
+  {
+    "word": "agréer",
+    "pos": "v.a.",
+    "translation": "to accept, to receive kindly; to like, to relish; to approve, to allow; ☉to rig. (V. gréer.)",
+    "usage": [
+      {
+        "fr": "— un vaisseau",
+        "en": "to rig, to equip a ship."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "ahi",
+    "pos": "int.",
+    "translation": "V. aïe.",
+    "type": "Base"
+  },
+  {
+    "word": "aiglette",
+    "pos": "n.f.",
+    "translation": "V. aiglon.",
+    "type": "Base"
+  },
+  {
+    "word": "aiguillier",
+    "pos": "n.m.",
+    "translation": "needle-case, book. V. étui.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "aimez-moi",
+    "pos": "n.f.",
+    "translation": "marsh scorpion-grass. V. myosotis.",
+    "type": "Base"
+  },
+  {
+    "word": "aitiologie",
+    "pos": "",
+    "translation": ". V. étiologie.",
+    "type": "Base"
+  },
+  {
+    "word": "ajoutoir",
+    "pos": "",
+    "translation": ". V. ajoutage, ajutage.",
+    "type": "Base"
+  },
+  {
+    "word": "albran",
+    "pos": "",
+    "translation": ". V. halbran.",
+    "type": "Base"
+  },
+  {
+    "word": "alentir",
+    "pos": "s’",
+    "translation": "alentir. V. ralentir and se ralentir.",
+    "type": "Base"
+  },
+  {
+    "word": "alfange",
+    "pos": "n.f.",
+    "translation": "scimiter, phalanx, battalion (Chinese, Tartar). V. cimeterre.",
+    "type": "Base"
+  },
+  {
+    "word": "alizé",
+    "pos": "n.f.",
+    "translation": "V. alise.",
+    "type": "Base"
+  },
+  {
+    "word": "alizier",
+    "pos": "n.m.",
+    "translation": "V. alisier.",
+    "type": "Base"
+  },
+  {
+    "word": "alkali",
+    "pos": "",
+    "translation": ", &c. V. alcali, &c.",
+    "type": "Base"
+  },
+  {
+    "word": "alluvien",
+    "irregular_pronunciation": "-in, -è-n",
+    "pos": "adj.",
+    "translation": "V. alluvial.",
+    "metadata": {
+      "feminineSuffix": "-ne"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "alonge",
+    "pos": "",
+    "translation": ", &c. V. allonge, &c.",
+    "type": "Base"
+  },
+  {
+    "word": "alsine",
+    "pos": "n.f.",
+    "translation": "V. morgeline.",
+    "type": "Base"
+  },
+  {
+    "word": "alte",
+    "pos": "n.f.",
+    "translation": "V. halte.",
+    "type": "Base"
+  },
+  {
+    "word": "altercas",
+    "pos": "n.m.",
+    "translation": "V. altercation.",
+    "type": "Base"
+  },
+  {
+    "word": "altimètre",
+    "pos": "n.m.",
+    "translation": "altimeter. V. hypsomètre.",
+    "type": "Base"
+  },
+  {
+    "word": "aluminière",
+    "pos": "",
+    "translation": ". V. alunière.",
+    "type": "Base"
+  },
+  {
+    "word": "amorçoir",
+    "pos": "n.m.",
+    "translation": "wimble, auger. V. ébauchoir.",
+    "type": "Base"
+  },
+  {
+    "word": "anagallis",
+    "pos": "",
+    "translation": ". V. mouron.",
+    "type": "Base"
+  },
+  {
+    "word": "anil",
+    "pos": "n.m.",
+    "translation": "(bot.) anil. V. indigo.",
+    "type": "Base"
+  },
+  {
+    "word": "anille",
+    "pos": "n.f.",
+    "translation": "V. annille.",
+    "type": "Base"
+  },
+  {
+    "word": "anse",
+    "pos": "",
+    "translation": ". V. hanse.",
+    "type": "Base"
+  },
+  {
+    "word": "anséatique",
+    "pos": "adj.",
+    "translation": "V. hanséatique.",
+    "type": "Base"
+  },
+  {
+    "word": "à part",
+    "pos": "",
+    "translation": ". V. part.",
+    "type": "Base"
+  },
+  {
+    "word": "apetissement",
+    "pos": "",
+    "translation": ", &c. V. rapetissement, &c.",
+    "type": "Base"
+  },
+  {
+    "word": "apetisser",
+    "pos": "",
+    "translation": ". V. rapetisser.",
+    "type": "Base"
+  },
+  {
+    "word": "appert",
+    "pos": "v.imp.",
+    "translation": "V. apparoir.",
+    "metadata": {
+      "reflexive": "il"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "à priori",
+    "pos": "",
+    "translation": ". V. priori.",
+    "type": "Base"
+  },
+  {
+    "word": "à propos",
+    "pos": "adj.",
+    "translation": "n.m. V. propos.",
+    "usage": [
+      {
+        "fr": "adv.",
+        "en": "à-propos,"
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "arnotto",
+    "pos": "n.m.",
+    "translation": "(bot.) arnotto. V. roucou.",
+    "type": "Base"
+  },
+  {
+    "word": "arquebuserie",
+    "irregular_pronunciation": "-buz-rî",
+    "pos": "n.f.",
+    "translation": "the business of a gunsmith. V. armurerie.",
+    "type": "Base"
+  },
+  {
+    "word": "assigné",
+    "pos": "n.m.",
+    "translation": "defendant. V. défendeur.",
+    "metadata": {
+      "feminineSuffix": "-e",
+      "femininePos": "n.f.",
+      "marker": "*"
+    },
+    "type": "baigneur"
+  },
+  {
+    "word": "assonah",
+    "pos": "n.m.",
+    "translation": "V. sonna.",
+    "type": "Base"
+  },
+  {
+    "word": "asyle",
+    "pos": "",
+    "translation": ". V. asile.",
+    "type": "Base"
+  },
+  {
+    "word": "attarder",
+    "pos": "v.a.",
+    "translation": "to delay. V. retarder.",
+    "type": "Base"
+  },
+  {
+    "word": "aubergine",
+    "pos": "",
+    "translation": ". V. melongène.",
+    "type": "Base"
+  },
+  {
+    "word": "au delà",
+    "irregular_pronunciation": "ô-dla",
+    "pos": "prep.",
+    "translation": "on the other side, beyond. V. delà.",
+    "type": "Base"
+  },
+  {
+    "word": "aulnaie",
+    "pos": "",
+    "translation": ", aulne, aulnée. V. aunaie, aune, aunée.",
+    "type": "Base"
+  },
+  {
+    "word": "aurillard",
+    "pos": "",
+    "translation": ". V. orillard.",
+    "type": "Base"
+  },
+  {
+    "word": "aux",
+    "pos": "pl.",
+    "translation": "of au), art. , to the. V. à.",
+    "type": "Base"
+  },
+  {
+    "word": "avalasse",
+    "pos": "n.f.",
+    "translation": "V. avalaison.",
+    "type": "Base"
+  },
+  {
+    "word": "aveine",
+    "pos": "n.f.",
+    "translation": "V. avoine.",
+    "type": "Base"
+  },
+  {
+    "word": "avenant",
+    "pos": "part.",
+    "translation": "V. advenant.",
+    "type": "Base"
+  },
+  {
+    "word": "averhan",
+    "pos": "",
+    "translation": ". V. tétras.",
+    "type": "Base"
+  },
+  {
+    "word": "avicule",
+    "pos": "n.f.",
+    "translation": "(mol.). V. aronde.",
+    "type": "Base"
+  },
+  {
+    "word": "axifuge",
+    "pos": "adj.",
+    "translation": "centrifugal. V. centrifuge.",
+    "type": "Base"
+  },
+  {
+    "word": "babouine",
+    "pos": "n.f.",
+    "translation": "little fool, little hussy; lip. V. babine.",
+    "type": "Base"
+  },
+  {
+    "word": "bacha",
+    "pos": "n.m.",
+    "translation": "V. pacha.",
+    "type": "Base"
+  },
+  {
+    "word": "bagace",
+    "pos": "",
+    "translation": ". V. bagasse.",
+    "type": "Base"
+  },
+  {
+    "word": "bali",
+    "pos": "n.m.",
+    "translation": "V. pali.",
+    "type": "Base"
+  },
+  {
+    "word": "balsamier",
+    "pos": "n.m.",
+    "translation": "V. baumier.",
+    "type": "Base"
+  },
+  {
+    "word": "balsamite",
+    "pos": "",
+    "translation": "(-za-). V. tanaisie.",
+    "type": "Base"
+  },
+  {
+    "word": "bancroche",
+    "pos": "adj.",
+    "translation": "V. bancal.",
+    "type": "Base"
+  },
+  {
+    "word": "bariquaut",
+    "pos": "n.m.",
+    "translation": "V. barriquaut.",
+    "type": "Base"
+  },
+  {
+    "word": "barras",
+    "pos": "n.m.",
+    "translation": "V. galipot.",
+    "type": "Base"
+  },
+  {
+    "word": "barré",
+    "pos": "part.",
+    "translation": "V. dent.",
+    "type": "Base"
+  },
+  {
+    "word": "bas-bord",
+    "pos": "n.m.",
+    "translation": "( n.p. ). (nav.) V. bâbord.",
+    "type": "Base"
+  },
+  {
+    "word": "basse-taille",
+    "pos": "n.f.",
+    "translation": "( —s-—s ) (mus.) bass, (sculpt.) bas-relief. V. baryton and bas-relief.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "batavique",
+    "pos": "adj.",
+    "translation": "V. larme.",
+    "type": "Base"
+  },
+  {
+    "word": "bavardin",
+    "irregular_pronunciation": "l.u.",
+    "pos": "",
+    "translation": "",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "baye",
+    "pos": "",
+    "translation": ". V. baie.",
+    "type": "Base"
+  },
+  {
+    "word": "bayonnette",
+    "pos": "",
+    "translation": ". V. baïonnette.",
+    "type": "Base"
+  },
+  {
+    "word": "bec-courdé",
+    "pos": "n.m.",
+    "translation": "( —s-—s ). V. avocette.",
+    "type": "Base"
+  },
+  {
+    "word": "bec-jaune",
+    "pos": "—s-—s",
+    "translation": "). V. béjaune.",
+    "type": "Base"
+  },
+  {
+    "word": "bée",
+    "pos": "n.f.",
+    "translation": "mill-dam. V. abée.",
+    "type": "Base"
+  },
+  {
+    "word": "béer",
+    "pos": "",
+    "translation": ". V. bayer.",
+    "type": "Base"
+  },
+  {
+    "word": "beïram",
+    "pos": "",
+    "translation": ". V. bairam.",
+    "type": "Base"
+  },
+  {
+    "word": "bel",
+    "pos": "adj.m.",
+    "translation": "V. beau.",
+    "type": "Base"
+  },
+  {
+    "word": "belle",
+    "pos": "n.f.",
+    "translation": "V. beau.",
+    "type": "Base"
+  },
+  {
+    "word": "belle",
+    "pos": "adj.",
+    "translation": "V. beau.",
+    "type": "Base"
+  },
+  {
+    "word": "belle-dame",
+    "pos": "n.f.",
+    "translation": "( —s-—s ). V. arroche.",
+    "type": "Base"
+  },
+  {
+    "word": "béni",
+    "pos": "part.",
+    "translation": "blessed, praised. V. bénit.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "bercelonnette",
+    "pos": "n.f.",
+    "translation": "V. barcelonnette.",
+    "type": "Base"
+  },
+  {
+    "word": "béril",
+    "pos": "n.m.",
+    "translation": "V. béryl.",
+    "type": "Base"
+  },
+  {
+    "word": "bernacle",
+    "pos": "n.f.",
+    "translation": "V. barnacle.",
+    "type": "Base"
+  },
+  {
+    "word": "bernement",
+    "pos": "n.m.",
+    "translation": "V. berne.",
+    "type": "Base"
+  },
+  {
+    "word": "berret",
+    "pos": "n.m.",
+    "translation": "V. béret.",
+    "type": "Base"
+  },
+  {
+    "word": "bezet",
+    "pos": "n.m.",
+    "translation": "V. besas.",
+    "type": "Base"
+  },
+  {
+    "word": "biez",
+    "pos": "n.m.",
+    "translation": "V. bief.",
+    "type": "Base"
+  },
+  {
+    "word": "bigourneau",
+    "pos": "",
+    "translation": ". V. bigorneau.",
+    "type": "Base"
+  },
+  {
+    "word": "bijon",
+    "pos": "n.m.",
+    "translation": "(l.u.). V. térébenthine.",
+    "type": "Base"
+  },
+  {
+    "word": "bissus",
+    "irregular_pronunciation": "-sus",
+    "pos": "n.m.",
+    "translation": "V. byssus.",
+    "type": "Base"
+  },
+  {
+    "word": "bizarre",
+    "pos": "n.m.",
+    "translation": "V. bizarrerie.",
+    "type": "Base"
+  },
+  {
+    "word": "blancherie",
+    "pos": "n.f.",
+    "translation": "V. blanchisserie.",
+    "type": "Base"
+  },
+  {
+    "word": "blanquette",
+    "pos": "n.f.",
+    "translation": "blanket (pear); blanquette (wine); ragoût with white sauce; (bot.) corn-salad; (ich.) white-bait. V. blanchaille.",
+    "type": "Base"
+  },
+  {
+    "word": "blaque",
+    "pos": "n.f.",
+    "translation": "V. blague.",
+    "type": "Base"
+  },
+  {
+    "word": "blatte",
+    "pos": "n.f.",
+    "translation": "(ent.) mill-moth.",
+    "usage": [
+      {
+        "fr": "— d’Amérique",
+        "en": "cockroach. V. cafard."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "blaude",
+    "pos": "n.f.",
+    "translation": "V. blouse.",
+    "type": "Base"
+  },
+  {
+    "word": "bleuet",
+    "pos": "n.m.",
+    "translation": "V. bluet.",
+    "type": "Base"
+  },
+  {
+    "word": "bleuette",
+    "pos": "n.f.",
+    "translation": "V. bluette.",
+    "type": "Base"
+  },
+  {
+    "word": "bodruche",
+    "pos": "",
+    "translation": ". V. baudruche.",
+    "type": "Base"
+  },
+  {
+    "word": "boïard",
+    "pos": "n.m.",
+    "translation": "V. boyard.",
+    "type": "Base"
+  },
+  {
+    "word": "bolus",
+    "pos": "n.m.",
+    "translation": "V. bol.",
+    "type": "Base"
+  },
+  {
+    "word": "bonne-dame",
+    "pos": "n.f.",
+    "translation": "( —s-—s ). V. arroche.",
+    "type": "Base"
+  },
+  {
+    "word": "boracique",
+    "pos": "adj.",
+    "translation": "V. borique.",
+    "type": "Base"
+  },
+  {
+    "word": "bornous",
+    "irregular_pronunciation": "-noos",
+    "pos": "n.m.",
+    "translation": "V. bernous.",
+    "type": "Base"
+  },
+  {
+    "word": "botargue",
+    "pos": "n.f.",
+    "translation": "V. boutargue.",
+    "type": "Base"
+  },
+  {
+    "word": "bouleté",
+    "pos": "adj.",
+    "translation": "(vet.) upright on fetlock-joint. V. juché.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "bourcette",
+    "pos": "",
+    "translation": ". V. mâche.",
+    "type": "Base"
+  },
+  {
+    "word": "bourgène",
+    "pos": "n.f.",
+    "translation": "V. bourdaine.",
+    "type": "Base"
+  },
+  {
+    "word": "bourlet",
+    "pos": "n.m.",
+    "translation": "V. bourrelet.",
+    "type": "Base"
+  },
+  {
+    "word": "bournous",
+    "pos": "",
+    "translation": ". V. bernous.",
+    "type": "Base"
+  },
+  {
+    "word": "bourras",
+    "pos": "n.m.",
+    "translation": "V. bure.",
+    "type": "Base"
+  },
+  {
+    "word": "bout",
+    "pos": "n.m.",
+    "translation": "end, extremity, tip; top, point; bit; nipple; muzzle, ferrule; fag-end. —-rimé . V. bout-rimé.",
+    "usage": [
+      {
+        "fr": "Le — des doigts",
+        "en": "the finger-ends."
+      },
+      {
+        "fr": "Savoir une chose sur le — des doigts",
+        "en": "to have a thing at one’s finger’s ends, to know it perfectly."
+      },
+      {
+        "fr": "Brûler la chandelle par les deux —s",
+        "en": "to burn the candle at both ends, to be a bad manager."
+      },
+      {
+        "fr": "Le bas —",
+        "en": "the lower end."
+      },
+      {
+        "fr": "Le — de la langue",
+        "en": "the tip of the tongue."
+      },
+      {
+        "fr": "Le — de la mamelle",
+        "en": "the nipple of the breast."
+      },
+      {
+        "fr": "—s de manches",
+        "en": "false sleeves."
+      },
+      {
+        "fr": "—s d’aile",
+        "en": "pinions."
+      },
+      {
+        "fr": "Bâton à deux —s",
+        "en": "quarter staff."
+      },
+      {
+        "fr": "Au — d’une heure de conversation",
+        "en": "after an hour’s conversation."
+      },
+      {
+        "fr": "Tenir le haut —",
+        "en": "to get the upper hand."
+      },
+      {
+        "fr": "Se tenir sur le — des pieds",
+        "en": "to stand on tip-toe."
+      },
+      {
+        "fr": "Patience, nous ne sommes pas au —",
+        "en": "have patience, we have not done yet."
+      },
+      {
+        "fr": "Tirer un coup de pistolet à — portant",
+        "en": "to fire off a pistol point-blank."
+      },
+      {
+        "fr": "Rire du — des dents des lèvres",
+        "en": "to laugh in a forced manner."
+      },
+      {
+        "fr": "Un — de ruban",
+        "en": "a bit of ribbon."
+      },
+      {
+        "fr": "Il est économe de —s de chandelle",
+        "en": "he is penny wise and pound foolish."
+      },
+      {
+        "fr": "Mettre la patience de quelqu’un à —",
+        "en": "to exhaust any one’s patience."
+      },
+      {
+        "fr": "Pousser quelqu’un à —",
+        "en": "to drive any one to extremities."
+      },
+      {
+        "fr": "Venir à — de",
+        "en": "to succeed, to get through anything."
+      },
+      {
+        "fr": "On ne saurait venir à — de cet enfant",
+        "en": "this child cannot be managed."
+      },
+      {
+        "fr": "À tout — de champ",
+        "en": "at every turn."
+      },
+      {
+        "fr": "Au — du compte",
+        "en": "after all; upon the whole."
+      },
+      {
+        "fr": "D’un — à l’autre",
+        "en": "from beginning to end."
+      },
+      {
+        "fr": "Au — de l’aune faut le drap",
+        "en": "the last straw breaks the camel’s back."
+      },
+      {
+        "fr": "Jusqu’au — des ongles",
+        "en": "to one’s finger-tips."
+      },
+      {
+        "fr": "Laisser voir le — de l’oreille",
+        "en": "to reveal one’s true character."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "bout-dehors",
+    "pos": "—s-—",
+    "translation": "). V. boute-hors.",
+    "type": "Base"
+  },
+  {
+    "word": "bractélé",
+    "pos": "adj.",
+    "translation": "V. bractéifère.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "braguette",
+    "pos": "n.f.",
+    "translation": "V. brayette.",
+    "type": "Base"
+  },
+  {
+    "word": "brailleu-r",
+    "pos": "adj.",
+    "translation": "and n. V. braillard.",
+    "metadata": {
+      "feminineSuffix": "-se"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "brame",
+    "pos": "",
+    "translation": ". V. brahmane.",
+    "type": "Base"
+  },
+  {
+    "word": "breloque",
+    "pos": "n.f.",
+    "translation": "charm, gewgaw, toy, trinket. V. berloque.",
+    "type": "Base"
+  },
+  {
+    "word": "bringuebale",
+    "pos": "n.f.",
+    "translation": "V. brimbale.",
+    "type": "Base"
+  },
+  {
+    "word": "briscambille",
+    "pos": "n.f.",
+    "translation": "V. brusquembille.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "bronchement",
+    "irregular_pronunciation": "bronsh-mān",
+    "pos": "n.m.",
+    "translation": "(l.u.) flinching, stumbling. V. bronchade.",
+    "type": "Base"
+  },
+  {
+    "word": "bronchies",
+    "pos": "n.f.pl.",
+    "translation": "V. branchies.",
+    "type": "Base"
+  },
+  {
+    "word": "bryon",
+    "pos": "n.m.",
+    "translation": "V. brion.",
+    "type": "Base"
+  },
+  {
+    "word": "burnous",
+    "pos": "n.m.",
+    "translation": "V. bernous.",
+    "type": "Base"
+  },
+  {
+    "word": "butant",
+    "pos": "adj.",
+    "translation": "V. boutant.",
+    "type": "Base"
+  },
+  {
+    "word": "butée",
+    "pos": "n.f.",
+    "translation": "(arch.) abutment-pier. V. buttée.",
+    "type": "Base"
+  },
+  {
+    "word": "buttée",
+    "pos": "n.f.",
+    "translation": "V. butée.",
+    "type": "Base"
+  },
+  {
+    "word": "butter",
+    "pos": "v.n.",
+    "translation": "V. buter.",
+    "type": "Base"
+  },
+  {
+    "word": "bysse",
+    "pos": "n.m.",
+    "translation": "V. byssus.",
+    "type": "Base"
+  },
+  {
+    "word": "cabliau",
+    "pos": "n.m.",
+    "translation": "V. cabillaud.",
+    "type": "Base"
+  },
+  {
+    "word": "cabot",
+    "pos": "n.m.",
+    "translation": "(ich.) bull-head. V. chabot.",
+    "type": "Base"
+  },
+  {
+    "word": "cacis",
+    "pos": "",
+    "translation": ". V. cassis.",
+    "type": "Base"
+  },
+  {
+    "word": "cadogan",
+    "pos": "n.m.",
+    "translation": "V. catogan.",
+    "type": "Base"
+  },
+  {
+    "word": "cafard",
+    "pos": "n.m.",
+    "translation": "(ent.) cockroach. V. blatte.",
+    "type": "Base"
+  },
+  {
+    "word": "caféier",
+    "pos": "n.m.",
+    "translation": "V. cafier.",
+    "type": "Base"
+  },
+  {
+    "word": "caimand",
+    "pos": "",
+    "translation": ". V. quémand.",
+    "type": "Base"
+  },
+  {
+    "word": "caimander",
+    "pos": "",
+    "translation": ". V. quémander.",
+    "type": "Base"
+  },
+  {
+    "word": "caimandeu-r",
+    "pos": "",
+    "translation": "",
+    "metadata": {
+      "feminineSuffix": "-se"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "caïque",
+    "pos": "n.m.",
+    "translation": "V. caïc.",
+    "type": "Base"
+  },
+  {
+    "word": "calcite",
+    "pos": "",
+    "translation": ". V. chalcite.",
+    "type": "Base"
+  },
+  {
+    "word": "calonière",
+    "pos": "n.f.",
+    "translation": "(pop.) pop-gun. V. canonnière.",
+    "type": "Base"
+  },
+  {
+    "word": "came",
+    "pos": "n.f.",
+    "translation": "(conch.) chama; heart-cockle; (tech.) peg-cam; cog. V. chame.",
+    "type": "Base"
+  },
+  {
+    "word": "canéficier",
+    "pos": "n.m.",
+    "translation": "cassia-tree. V. casse.",
+    "type": "Base"
+  },
+  {
+    "word": "caolin",
+    "pos": "n.m.",
+    "translation": "V. kaolin.",
+    "type": "Base"
+  },
+  {
+    "word": "caperon",
+    "pos": "",
+    "translation": ". V. capron.",
+    "type": "Base"
+  },
+  {
+    "word": "caplan",
+    "pos": "",
+    "translation": ", (ich.). V. capelan.",
+    "type": "Base"
+  },
+  {
+    "word": "caracouler",
+    "pos": "v.n.",
+    "translation": "to coo. V. roucouler.",
+    "type": "Base"
+  },
+  {
+    "word": "cardiaire",
+    "pos": "adj.",
+    "translation": "(zoöl.)",
+    "usage": [
+      {
+        "fr": "Ver —",
+        "en": "a parasite bred in the heart. (bot.) V. cardère; chardon à foulon."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "cardonnette",
+    "pos": "n.f.",
+    "translation": "V. chardonnette.",
+    "type": "Base"
+  },
+  {
+    "word": "carnier",
+    "pos": "n.m.",
+    "translation": "V. carnassière.",
+    "type": "Base"
+  },
+  {
+    "word": "carotti-er",
+    "pos": "n.m.",
+    "translation": "(triv.). V. carotteur.",
+    "metadata": {
+      "feminineSuffix": "-ère",
+      "femininePos": "n.f."
+    },
+    "type": "BaseWith2GenderNoun"
+  },
+  {
+    "word": "carteron",
+    "pos": "n.m.",
+    "translation": "V. quarteron.",
+    "type": "Base"
+  },
+  {
+    "word": "caryatide",
+    "pos": "",
+    "translation": ". V. cariatide.",
+    "type": "Base"
+  },
+  {
+    "word": "catacois",
+    "pos": "",
+    "translation": ". V. cacatois.",
+    "type": "Base"
+  },
+  {
+    "word": "celle",
+    "pos": "demonst. pron.",
+    "translation": "she, that. V. celui.",
+    "type": "Base"
+  },
+  {
+    "word": "centaine",
+    "pos": "n.f.",
+    "translation": "a hundred; a hundred, or so; thread that ties up a skein. V. sentène.",
+    "type": "Base"
+  },
+  {
+    "word": "cervier",
+    "pos": "",
+    "translation": ". V. loup-cervier.",
+    "type": "Base"
+  },
+  {
+    "word": "cet",
+    "pos": "",
+    "translation": ", cette. V. ce.",
+    "type": "Base"
+  },
+  {
+    "word": "chabraque",
+    "pos": "n.f.",
+    "translation": "V. schabraque.",
+    "type": "Base"
+  },
+  {
+    "word": "chako",
+    "pos": "n.m.",
+    "translation": "V. shako.",
+    "type": "Base"
+  },
+  {
+    "word": "chalcédoine",
+    "pos": "",
+    "translation": ". V. calcédoine.",
+    "type": "Base"
+  },
+  {
+    "word": "chaldéen",
+    "irregular_pronunciation": "-in, -è-n",
+    "pos": "adj.",
+    "translation": "V. chaldaïque.",
+    "metadata": {
+      "feminineSuffix": "-ne"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "chataire",
+    "pos": "n.f.",
+    "translation": "V. cataire.",
+    "type": "Base"
+  },
+  {
+    "word": "chatte",
+    "pos": "n.f.",
+    "translation": "she-cat. V. chat.",
+    "type": "Base"
+  },
+  {
+    "word": "chéiroptère",
+    "pos": "",
+    "translation": "(ké-). V. chiroptère.",
+    "type": "Base"
+  },
+  {
+    "word": "china",
+    "pos": "n.m.",
+    "translation": "(bot.) China-root. V. squine.",
+    "type": "Base"
+  },
+  {
+    "word": "ciboulette",
+    "pos": "n.f.",
+    "translation": "(bot.) chive. V. civette.",
+    "type": "Base"
+  },
+  {
+    "word": "ciclamor",
+    "pos": "n.m.",
+    "translation": "V. orle.",
+    "type": "Base"
+  },
+  {
+    "word": "cimbalaire",
+    "pos": "n.f.",
+    "translation": "V. cymbalaire.",
+    "type": "Base"
+  },
+  {
+    "word": "cirsakas",
+    "pos": "n.m.",
+    "translation": "V. sirsacas.",
+    "type": "Base"
+  },
+  {
+    "word": "clapotis",
+    "pos": "n.m.",
+    "translation": "V. clapotage.",
+    "type": "Base"
+  },
+  {
+    "word": "clincaille",
+    "pos": "",
+    "translation": "",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "clossement",
+    "pos": "n.m.",
+    "translation": "V. gloussement.",
+    "type": "Base"
+  },
+  {
+    "word": "closser",
+    "pos": "v.n.",
+    "translation": "V. glousser.",
+    "type": "Base"
+  },
+  {
+    "word": "cocorico",
+    "pos": "",
+    "translation": ". V. coquerico.",
+    "type": "Base"
+  },
+  {
+    "word": "cœcum",
+    "pos": "",
+    "translation": ". V. cæcum.",
+    "type": "Base"
+  },
+  {
+    "word": "coite",
+    "pos": "n.f.",
+    "translation": "V. couette.",
+    "type": "Base"
+  },
+  {
+    "word": "compte-pas",
+    "pos": "n.m.",
+    "translation": "( — ) odometer, pedometer; surveying-wheel. V. odomètre.",
+    "type": "Base"
+  },
+  {
+    "word": "contralte",
+    "pos": "n.m.",
+    "translation": "V. contralto.",
+    "type": "Base"
+  },
+  {
+    "word": "convallaire",
+    "pos": "n.f.",
+    "translation": "convallary, lily of the valley. V. muguet.",
+    "type": "Base"
+  },
+  {
+    "word": "convient",
+    "pos": "v.imp.",
+    "translation": "it is fit, expedient, convenient, becoming, meet. V. convenir.",
+    "metadata": {
+      "reflexive": "il"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "convoi",
+    "pos": "n.m.",
+    "translation": "funeral procession; funeral; (milit., nav.) convoy; (railways) train. V. train. — de petite vitesse ,",
+    "usage": [
+      {
+        "fr": "— de grande vitesse",
+        "en": "fast train."
+      },
+      {
+        "fr": "— de marchandises",
+        "en": "freight train."
+      },
+      {
+        "fr": "— direct",
+        "en": "express train."
+      },
+      {
+        "fr": "— omnibus",
+        "en": "slow train."
+      },
+      {
+        "fr": "— de voyageurs",
+        "en": "passenger train."
+      },
+      {
+        "fr": "— parcourant toute la ligne",
+        "en": "through train."
+      },
+      {
+        "fr": "— funèbre",
+        "en": "funeral procession."
+      },
+      {
+        "fr": "Être du —",
+        "en": "to be at the funeral."
+      },
+      {
+        "fr": "En —",
+        "en": "(nav.) with convoy."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "copeck",
+    "pos": "n.m.",
+    "translation": "( —s ). V. kopeck.",
+    "type": "Base"
+  },
+  {
+    "word": "coprévenu",
+    "pos": "n.m.",
+    "translation": "V. coaccusé.",
+    "type": "Base"
+  },
+  {
+    "word": "copte",
+    "pos": "n.m.",
+    "translation": "V. cophte.",
+    "type": "Base"
+  },
+  {
+    "word": "coralline",
+    "pos": "n.f.",
+    "translation": "(zoöl.) coralline; (nav.) V. coraillère.",
+    "type": "Base"
+  },
+  {
+    "word": "corbigeau",
+    "pos": "n.m.",
+    "translation": "☉V. courlis.",
+    "type": "Base"
+  },
+  {
+    "word": "corcelet",
+    "pos": "n.m.",
+    "translation": "V. corselet.",
+    "type": "Base"
+  },
+  {
+    "word": "corée",
+    "pos": "n.m.",
+    "translation": "(poet.) choreus, trochee. V. chorée.",
+    "type": "Base"
+  },
+  {
+    "word": "coriaire",
+    "pos": "adj.",
+    "translation": "fit for tanning. n.f. (bot.) V. corroyère.",
+    "type": "Base"
+  },
+  {
+    "word": "coris",
+    "pos": "n.m.",
+    "translation": "V. cauris.",
+    "type": "Base"
+  },
+  {
+    "word": "coudran",
+    "pos": "n.m.",
+    "translation": "(nav.) tar. V. goudron.",
+    "type": "Base"
+  },
+  {
+    "word": "coudre",
+    "pos": "n.m.",
+    "translation": "nut-tree, hazel-tree. V. coudrier.",
+    "type": "Base"
+  },
+  {
+    "word": "courcive",
+    "pos": "n.f.",
+    "translation": "V. coursive.",
+    "type": "Base"
+  },
+  {
+    "word": "court-vite",
+    "pos": "n.m.",
+    "translation": "( — ). V. coure-vite.",
+    "type": "Base"
+  },
+  {
+    "word": "cranologie",
+    "pos": "n.f.",
+    "translation": "V. craniologie.",
+    "type": "Base"
+  },
+  {
+    "word": "crapaudaille",
+    "pos": "n.f.",
+    "translation": "a gang of vagabonds, riff-raff. V. crépodaille.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "craticuler",
+    "pos": "v.a.",
+    "translation": "(paint.) to square. V. graticuler.",
+    "type": "Base"
+  },
+  {
+    "word": "cresane",
+    "pos": "n.f.",
+    "translation": "V. crassane.",
+    "type": "Base"
+  },
+  {
+    "word": "cresserelle",
+    "pos": "n.f.",
+    "translation": "V. crécerelle.",
+    "type": "Base"
+  },
+  {
+    "word": "crid",
+    "irregular_pronunciation": "krid",
+    "pos": "n.m.",
+    "translation": "V. criss.",
+    "type": "Base"
+  },
+  {
+    "word": "criste-marine",
+    "pos": "n.f.",
+    "translation": "V. passe-pierre.",
+    "type": "Base"
+  },
+  {
+    "word": "croque-sol",
+    "pos": "n.m.",
+    "translation": "( —-—s ). V. croque-note.",
+    "type": "Base"
+  },
+  {
+    "word": "cruchette",
+    "pos": "n.f.",
+    "translation": "V. cruchon.",
+    "type": "Base"
+  },
+  {
+    "word": "crystal",
+    "pos": "",
+    "translation": ". V. cristal.",
+    "type": "Base"
+  },
+  {
+    "word": "cu",
+    "pos": "n.m.",
+    "translation": "(very l.ex.) V. cul.",
+    "type": "Base"
+  },
+  {
+    "word": "cymaise",
+    "pos": "n.f.",
+    "translation": "V. cimaise.",
+    "type": "Base"
+  },
+  {
+    "word": "cyme",
+    "pos": "n.m.",
+    "translation": "(bot.) cyme. V. cime.",
+    "type": "Base"
+  },
+  {
+    "word": "d’ailleurs",
+    "pos": "",
+    "translation": "",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "darce",
+    "pos": "n.f.",
+    "translation": "V. darse.",
+    "type": "Base"
+  },
+  {
+    "word": "d’autant",
+    "pos": "",
+    "translation": ". V. autant.",
+    "type": "Base"
+  },
+  {
+    "word": "décheveler",
+    "irregular_pronunciation": "-shĕ-vlé",
+    "pos": "v.a.",
+    "translation": "to dishevel. V. écheveler.",
+    "type": "Base"
+  },
+  {
+    "word": "déciller",
+    "pos": "",
+    "translation": ". V. dessiller.",
+    "type": "Base"
+  },
+  {
+    "word": "décourant",
+    "pos": "adj.",
+    "translation": "V. décurrent.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "décroissance",
+    "pos": "n.f.",
+    "translation": "V. décroissement.",
+    "type": "Base"
+  },
+  {
+    "word": "dégénérescence",
+    "pos": "n.f.",
+    "translation": "(med.). V. dégénération.",
+    "type": "Base"
+  },
+  {
+    "word": "demi-fleuron",
+    "pos": "n.m.",
+    "translation": "( —-—s ). V. fleuron.",
+    "type": "Base"
+  },
+  {
+    "word": "dépiécer",
+    "pos": "v.a.",
+    "translation": "V. dépecer.",
+    "type": "Base"
+  },
+  {
+    "word": "des",
+    "pos": "art.pl.",
+    "translation": "of the; from the. V. de.",
+    "type": "Base"
+  },
+  {
+    "word": "désappareiller",
+    "pos": "",
+    "translation": "",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "désemballage",
+    "pos": "n.m.",
+    "translation": "unpacking. V. déballage.",
+    "type": "Base"
+  },
+  {
+    "word": "désembarquement",
+    "pos": "n.m.",
+    "translation": "disembarkation, landing. V. débarquement.",
+    "type": "Base"
+  },
+  {
+    "word": "dès lors",
+    "pos": "adv.",
+    "translation": "V. dès.",
+    "type": "Base"
+  },
+  {
+    "word": "désoccupation",
+    "pos": "n.f.",
+    "translation": "inactivity, want of employment, leisure. V. désœuvrement.",
+    "type": "Base"
+  },
+  {
+    "word": "dévoîment",
+    "pos": "n.m.",
+    "translation": "V. dévoiement.",
+    "type": "Base"
+  },
+  {
+    "word": "dilatatoire",
+    "pos": "n.m.",
+    "translation": "V. dilatateur.",
+    "type": "Base"
+  },
+  {
+    "word": "disgrégation",
+    "pos": "n.f.",
+    "translation": "(opt.) disgregation; separation, V. désagrégation.",
+    "type": "Base"
+  },
+  {
+    "word": "disséqueur",
+    "pos": "n.m.",
+    "translation": "(iron.) dissector. V. dissecteur.",
+    "type": "Base"
+  },
+  {
+    "word": "dixme",
+    "pos": "n.f.",
+    "translation": "V. dîme.",
+    "type": "Base"
+  },
+  {
+    "word": "dodo",
+    "pos": "n.m.",
+    "translation": "(pop.) (orni.) dodo. V. dronte.",
+    "type": "Base"
+  },
+  {
+    "word": "dom",
+    "pos": "n.m.",
+    "translation": "dom; don. V. don.",
+    "type": "Base"
+  },
+  {
+    "word": "doradille",
+    "pos": "n.f.",
+    "translation": "V. cétérac.",
+    "type": "Base"
+  },
+  {
+    "word": "doubleau",
+    "pos": "n.m.",
+    "translation": "(carp.) binding joist. V. arc-doubleau.",
+    "type": "Base"
+  },
+  {
+    "word": "dragme",
+    "pos": "",
+    "translation": ". V. drachme.",
+    "type": "Base"
+  },
+  {
+    "word": "dragoman",
+    "pos": "",
+    "translation": ". V. drogman.",
+    "type": "Base"
+  },
+  {
+    "word": "draguage",
+    "irregular_pronunciation": "-gaj",
+    "pos": "n.m.",
+    "translation": "V. dragage.",
+    "type": "Base"
+  },
+  {
+    "word": "duquel",
+    "pos": "pron.",
+    "translation": "of which, from which. V. lequel and dont.",
+    "type": "Base"
+  },
+  {
+    "word": "écarlatine",
+    "pos": "",
+    "translation": ". V. scarlatine.",
+    "type": "Base"
+  },
+  {
+    "word": "écartillement",
+    "pos": "n.m.",
+    "translation": "V. écarquillement.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "écartiller",
+    "pos": "v.a.",
+    "translation": "V. écarquiller.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "échampir",
+    "pos": "v.a.",
+    "translation": "(house paint) to set off. V. réchampir.",
+    "type": "Base"
+  },
+  {
+    "word": "échauler",
+    "pos": "v.a.",
+    "translation": "V. chauler.",
+    "type": "Base"
+  },
+  {
+    "word": "écheno",
+    "pos": "",
+    "translation": ". V. échenal.",
+    "type": "Base"
+  },
+  {
+    "word": "écheoir",
+    "pos": "",
+    "translation": ". V. échoir.",
+    "type": "Base"
+  },
+  {
+    "word": "échimose",
+    "pos": "n.f.",
+    "translation": "V. ecchymose.",
+    "type": "Base"
+  },
+  {
+    "word": "échioïde",
+    "irregular_pronunciation": "é-ki-",
+    "pos": "n.m.",
+    "translation": "(bot.). V. vipérine.",
+    "type": "Base"
+  },
+  {
+    "word": "éclogue",
+    "pos": "n.f.",
+    "translation": "V. églogue.",
+    "type": "Base"
+  },
+  {
+    "word": "écorche-cul",
+    "pos": "adv.",
+    "translation": "(l.ex.) sliding on the ground; against the grain, unwillingly. V. à rebrousse-poil.",
+    "metadata": {
+      "reflexive": "à"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "écourgeon",
+    "pos": "",
+    "translation": ". V. escourgeon.",
+    "type": "Base"
+  },
+  {
+    "word": "écrier",
+    "pos": "v.r.",
+    "translation": "to cry out, to exclaim. V. s’ exclamer.",
+    "metadata": {
+      "reflexive": "s’"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "écrivailleur",
+    "pos": "n.m.",
+    "translation": "V. écrivassier.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "écuménicité",
+    "pos": "n.f.",
+    "translation": "V. œcuménicité.",
+    "type": "Base"
+  },
+  {
+    "word": "écuménique",
+    "pos": "adj.",
+    "translation": "V. œcuménique.",
+    "type": "Base"
+  },
+  {
+    "word": "écuméniquement",
+    "pos": "adv.",
+    "translation": "V. œcuméniquement.",
+    "type": "Base"
+  },
+  {
+    "word": "effiloque",
+    "pos": "n.f.",
+    "translation": "V. effiloche.",
+    "type": "Base"
+  },
+  {
+    "word": "égrainer",
+    "pos": "",
+    "translation": ". V. égrener.",
+    "type": "Base"
+  },
+  {
+    "word": "égrainer",
+    "pos": "s’",
+    "translation": "égrener.",
+    "metadata": {
+      "reflexive": "s’"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "égrefin",
+    "pos": "n.m.",
+    "translation": "V. églefin.",
+    "type": "Base"
+  },
+  {
+    "word": "éhanché",
+    "pos": "adj.",
+    "translation": "V. déhanché.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "éherber",
+    "pos": "v.a.",
+    "translation": "V. sarcler.",
+    "type": "Base"
+  },
+  {
+    "word": "embourrer",
+    "pos": "",
+    "translation": ". V. rembourrer.",
+    "type": "Base"
+  },
+  {
+    "word": "émier",
+    "pos": "v.a.",
+    "translation": "V. émietter.",
+    "type": "Base"
+  },
+  {
+    "word": "emmaigrir",
+    "pos": "v.a.",
+    "translation": "V. amaigrir.",
+    "type": "Base"
+  },
+  {
+    "word": "empirée",
+    "pos": "n.m.",
+    "translation": "V. empyrée.",
+    "type": "Base"
+  },
+  {
+    "word": "empoisser",
+    "pos": "v.a.",
+    "translation": "V. poisser.",
+    "type": "Base"
+  },
+  {
+    "word": "enarrhement",
+    "pos": "n.m.",
+    "translation": "V. arrhement.",
+    "type": "Base"
+  },
+  {
+    "word": "enarrher",
+    "pos": "v.a.",
+    "translation": "V. arrher.",
+    "type": "Base"
+  },
+  {
+    "word": "endossement",
+    "irregular_pronunciation": "ān-dôsmān",
+    "pos": "n.m.",
+    "translation": "(com.) endorsement. V. endos, which is more frequently used.",
+    "type": "Base"
+  },
+  {
+    "word": "engeoler",
+    "pos": "v.a.",
+    "translation": "V. enjôler.",
+    "type": "Base"
+  },
+  {
+    "word": "engeoleur",
+    "pos": "n.m.",
+    "translation": "V. enjôleur.",
+    "type": "Base"
+  },
+  {
+    "word": "entre-tailler",
+    "pos": "s’",
+    "translation": "entrecouper (vet.).",
+    "metadata": {
+      "reflexive": "s’",
+      "marker": "*"
+    },
+    "type": "barbouiller"
+  },
+  {
+    "word": "épandre",
+    "pos": "v.a.",
+    "translation": "to pour out, to scatter, to strew, to throw here and there. V. répandre.",
+    "type": "Base"
+  },
+  {
+    "word": "éparcet",
+    "pos": "n.m.",
+    "translation": "V. esparcet, esparcette.",
+    "type": "Base"
+  },
+  {
+    "word": "éparer",
+    "pos": "v.r.",
+    "translation": "(man.) to jerk, to fling out; to kick. V. ruer.",
+    "metadata": {
+      "reflexive": "s’"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "épervin",
+    "pos": "n.m.",
+    "translation": "V. éparvin.",
+    "type": "Base"
+  },
+  {
+    "word": "époudrer",
+    "pos": "v.a.",
+    "translation": "(l.u.) to dust. V. épousseter.",
+    "type": "Base"
+  },
+  {
+    "word": "épouffer",
+    "pos": "v.r.",
+    "translation": "to steal away, to scamper off; to get out of breath from laughing. V. pouffer.",
+    "metadata": {
+      "reflexive": "s’"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "eptacorde",
+    "pos": "n.m.",
+    "translation": "V. heptacorde.",
+    "type": "Base"
+  },
+  {
+    "word": "eptagone",
+    "pos": "n.m.",
+    "translation": "V. heptagone.",
+    "type": "Base"
+  },
+  {
+    "word": "ergotage",
+    "pos": "n.m.",
+    "translation": "V. ergoterie.",
+    "type": "Base"
+  },
+  {
+    "word": "erratum",
+    "pos": "n.m.",
+    "translation": "( — ) erratum. V. errata.",
+    "type": "Base"
+  },
+  {
+    "word": "érysipélateu-x",
+    "pos": "adj.",
+    "translation": "V. érésipélateux.",
+    "metadata": {
+      "feminineSuffix": "-se"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "érysipèle",
+    "pos": "n.m.",
+    "translation": "V. érésipèle.",
+    "type": "Base"
+  },
+  {
+    "word": "escope",
+    "pos": "n.f.",
+    "translation": "V. écope.",
+    "type": "Base"
+  },
+  {
+    "word": "escubac",
+    "pos": "",
+    "translation": ". V. scubac.",
+    "type": "Base"
+  },
+  {
+    "word": "espargoute",
+    "pos": "n.f.",
+    "translation": "V. spergule.",
+    "type": "Base"
+  },
+  {
+    "word": "espolin",
+    "pos": "n.m.",
+    "translation": "V. époullin.",
+    "type": "Base"
+  },
+  {
+    "word": "espouleur",
+    "pos": "n.m.",
+    "translation": "V. époulleur.",
+    "type": "Base"
+  },
+  {
+    "word": "espoulin",
+    "pos": "n.f.",
+    "translation": "V. époullin.",
+    "type": "Base"
+  },
+  {
+    "word": "esquine",
+    "pos": "n.f.",
+    "translation": "(man.) horse’s loins; (bot.) China-root.",
+    "usage": [
+      {
+        "fr": "Un cheval fort d’—",
+        "en": "a horse strong in his loins. (bot.) V. squine."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "esteuble",
+    "pos": "n.f.",
+    "translation": "stubble. V. éteule.",
+    "type": "Base"
+  },
+  {
+    "word": "estouffade",
+    "pos": "n.f.",
+    "translation": "V. étouffée.",
+    "type": "Base"
+  },
+  {
+    "word": "éternelle",
+    "pos": "n.f.",
+    "translation": "V. immortelle.",
+    "type": "Base"
+  },
+  {
+    "word": "étouffade",
+    "pos": "n.f.",
+    "translation": "V. étouffée.",
+    "type": "Base"
+  },
+  {
+    "word": "étrécir",
+    "pos": "v.a.",
+    "translation": "V. rétrécir.",
+    "type": "Base"
+  },
+  {
+    "word": "étrécir",
+    "pos": "v.r.",
+    "translation": "V. se rétrécir.",
+    "metadata": {
+      "reflexive": "s’"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "étrécissement",
+    "irregular_pronunciation": "-sis-mān",
+    "pos": "n.m.",
+    "translation": "V. rétrécissement.",
+    "type": "Base"
+  },
+  {
+    "word": "étrécissure",
+    "pos": "n.f.",
+    "translation": "V. rétrécissure.",
+    "type": "Base"
+  },
+  {
+    "word": "évidure",
+    "pos": "n.f.",
+    "translation": "(tech.). V. évidement.",
+    "type": "Base"
+  },
+  {
+    "word": "exaèdre",
+    "pos": "n.m.",
+    "translation": "and adj. V. hexaèdre.",
+    "type": "Base"
+  },
+  {
+    "word": "exagone",
+    "pos": "n.m.",
+    "translation": "and adj. V. hexagone.",
+    "type": "Base"
+  },
+  {
+    "word": "extenso",
+    "pos": "adv.",
+    "translation": "V. in extenso.",
+    "metadata": {
+      "reflexive": "in"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "extrapassé",
+    "pos": "part.",
+    "translation": "(paint.) beyond natural limits. V. strapassé.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "extrapasser",
+    "pos": "v.a.",
+    "translation": "(paint.). V. strapasser.",
+    "type": "Base"
+  },
+  {
+    "word": "faïencé",
+    "pos": "adj.",
+    "translation": "cracked. V. fêlé —, n.m. , imitation ware.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "faillir",
+    "pos": "v.n.",
+    "translation": "to err, to miss; to fail; to trespass; to transgress; to mistake, to be mistaken; to be extinct; to be on the point of, to be well nigh; to be near, on the point of; to be a bankrupt. Il s’en faut beaucoup ,",
+    "usage": [
+      {
+        "fr": "Il a failli",
+        "en": "he missed his aim."
+      },
+      {
+        "fr": "Les plus doctes sont sujets à —",
+        "en": "the most learned are liable to be mistaken."
+      },
+      {
+        "fr": "Jouer à coup faillant",
+        "en": "to take the place of him who misses."
+      },
+      {
+        "fr": "Le cœur me faut",
+        "en": "I am ready to faint."
+      },
+      {
+        "fr": "J’irai sans —",
+        "en": "I will go without fail."
+      },
+      {
+        "fr": "Il a failli tomber",
+        "en": "he was near falling."
+      },
+      {
+        "fr": "il s’en faut de beaucoup",
+        "en": "very far from it; a long way out."
+      },
+      {
+        "fr": "Peu s’en faut",
+        "en": "very near."
+      },
+      {
+        "fr": "Tant s’en faut",
+        "en": "far from it. V. falloir."
+      }
+    ],
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "fanaison",
+    "pos": "n.f.",
+    "translation": "V. fenaison.",
+    "type": "Base"
+  },
+  {
+    "word": "fanariote",
+    "pos": "n.m.f.",
+    "translation": "V. phanariote.",
+    "type": "Base"
+  },
+  {
+    "word": "fanion",
+    "pos": "n.m.",
+    "translation": "(milit.). V. fanon.",
+    "type": "Base"
+  },
+  {
+    "word": "faquir",
+    "pos": "n.m.",
+    "translation": "V. fakir.",
+    "type": "Base"
+  },
+  {
+    "word": "faulx",
+    "pos": "n.f.",
+    "translation": "V. faux.",
+    "type": "Base"
+  },
+  {
+    "word": "fayence",
+    "pos": "",
+    "translation": ", etc. V. faïence, etc.",
+    "type": "Base"
+  },
+  {
+    "word": "fêne",
+    "pos": "n.f.",
+    "translation": "V. faîne.",
+    "type": "Base"
+  },
+  {
+    "word": "fenestré",
+    "pos": "adj.",
+    "translation": "V. fenêtré.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "fer",
+    "irregular_pronunciation": "cheptel de",
+    "pos": "n.m.",
+    "translation": "V. cheptel.",
+    "type": "Base"
+  },
+  {
+    "word": "fermure",
+    "pos": "n.f.",
+    "translation": "V. fermeture (nav.).",
+    "type": "Base"
+  },
+  {
+    "word": "fêtoyer",
+    "pos": "v.a.",
+    "translation": "V. festoyer.",
+    "type": "Base"
+  },
+  {
+    "word": "fétu-en-cul",
+    "pos": "n.m.",
+    "translation": "( — ). V. paille-en-queue.",
+    "type": "Base"
+  },
+  {
+    "word": "fétus",
+    "pos": "n.m.",
+    "translation": "V. fœtus.",
+    "type": "Base"
+  },
+  {
+    "word": "fidéjussion",
+    "pos": "n.f.",
+    "translation": "V. cautionnement.",
+    "type": "Base"
+  },
+  {
+    "word": "filagramme",
+    "pos": "",
+    "translation": ". V. filigrane.",
+    "type": "Base"
+  },
+  {
+    "word": "filtre",
+    "pos": "n.m.",
+    "translation": "filter; filtering-machine; philter, love potion. V. philtre.",
+    "type": "Base"
+  },
+  {
+    "word": "flegmasie",
+    "pos": "n.f.",
+    "translation": "V. phlegmasie.",
+    "type": "Base"
+  },
+  {
+    "word": "flegmon",
+    "pos": "n.m.",
+    "translation": "V. phlegmon.",
+    "type": "Base"
+  },
+  {
+    "word": "flegmoneu-x",
+    "pos": "adj.",
+    "translation": "V. phlegmoneux.",
+    "metadata": {
+      "feminineSuffix": "-se"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "fleureter",
+    "pos": "",
+    "translation": ". V. flirter.",
+    "type": "Base"
+  },
+  {
+    "word": "fleuronné",
+    "pos": "adj.",
+    "translation": "(bot.) having florets; (paleography) ornamented. (her.) V. fleuré.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "floraison",
+    "pos": "n.f.",
+    "translation": "V. flouraison.",
+    "type": "Base"
+  },
+  {
+    "word": "foible",
+    "pos": "",
+    "translation": ". V. faible.",
+    "type": "Base"
+  },
+  {
+    "word": "fol",
+    "pos": "adj.",
+    "translation": "V. fou.",
+    "metadata": {
+      "feminineSuffix": "-le"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "fondrilles",
+    "pos": "n.f.pl.",
+    "translation": "grounds, sediment, dregs. V. effondrilles.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "fontainier",
+    "pos": "",
+    "translation": ". V. fontenier.",
+    "type": "Base"
+  },
+  {
+    "word": "fouenne",
+    "pos": "n.f.",
+    "translation": "V. faîne.",
+    "type": "Base"
+  },
+  {
+    "word": "franc",
+    "irregular_pronunciation": "fran, frānsh",
+    "pos": "adj.",
+    "translation": "free, unconstrained, exempt from; frank, downright, open, sincere; entire, full; complete; true, real; mere; arrant; staunch, right; very; whole, clear; (paint.) bold. — Taupins . V. taupins.",
+    "usage": [
+      {
+        "fr": "— de port",
+        "en": "post-paid."
+      },
+      {
+        "fr": "Compagnie —he",
+        "en": "free-company."
+      },
+      {
+        "fr": "Cœur —",
+        "en": "open heart."
+      },
+      {
+        "fr": "Être — du collier",
+        "en": "to draw freely (of horses); (fig.) to be eager, obliging, honest."
+      },
+      {
+        "fr": "Un — charlatan",
+        "en": "a downright quack."
+      },
+      {
+        "fr": "Une —he coquette",
+        "en": "an arrant jilt."
+      },
+      {
+        "fr": "Avoir son — parler avec",
+        "en": "to speak one’s mind, to speak out; not to mince matters."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "-he"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "franc-alleu",
+    "pos": "n.m.",
+    "translation": "( —s-—s ). V. alleu.",
+    "type": "Base"
+  },
+  {
+    "word": "frelaterie",
+    "irregular_pronunciation": "-la-tri",
+    "pos": "n.f.",
+    "translation": "sophistication, adulteration. V. frelatage.",
+    "type": "Base"
+  },
+  {
+    "word": "fresaie",
+    "pos": "n.f.",
+    "translation": "(orni.) white-owl, screech-owl. V. effraie.",
+    "type": "Base"
+  },
+  {
+    "word": "fungus",
+    "irregular_pronunciation": "fon-gus",
+    "pos": "n.m.",
+    "translation": "V. fongus.",
+    "type": "Base"
+  },
+  {
+    "word": "gaban",
+    "pos": "n.m.",
+    "translation": "V. caban.",
+    "type": "Base"
+  },
+  {
+    "word": "gagerie",
+    "irregular_pronunciation": "gaj-rî",
+    "pos": "n.f.",
+    "translation": "V. saisie.",
+    "type": "Base"
+  },
+  {
+    "word": "gageu-r",
+    "pos": "n.m.",
+    "translation": "V. parieur.",
+    "metadata": {
+      "feminineSuffix": "-se",
+      "femininePos": "n.f."
+    },
+    "type": "BaseWith2GenderNoun"
+  },
+  {
+    "word": "gaillet",
+    "pos": "n.m.",
+    "translation": "(bot.) V. caille-lait.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "gaîté",
+    "pos": "",
+    "translation": ". V. gaieté.",
+    "type": "Base"
+  },
+  {
+    "word": "garou",
+    "pos": "n.m.",
+    "translation": "(bot.) spurge-flax. V. loup-garou.",
+    "type": "Base"
+  },
+  {
+    "word": "gas",
+    "pos": "n.m.",
+    "translation": "V. gars.",
+    "type": "Base"
+  },
+  {
+    "word": "gastriloque",
+    "pos": "n.m.",
+    "translation": "(l.u.). V. ventriloque.",
+    "type": "Base"
+  },
+  {
+    "word": "gausser",
+    "pos": "v.r.",
+    "translation": "(pop.) to banter, to jeer, to make game of.",
+    "usage": [
+      {
+        "fr": "Il se gausse de tout le monde",
+        "en": "he makes game of everybody. V. gosser."
+      }
+    ],
+    "metadata": {
+      "reflexive": "se"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "gayac",
+    "pos": "n.m.",
+    "translation": "V. gaïac.",
+    "type": "Base"
+  },
+  {
+    "word": "genêt",
+    "pos": "n.m.",
+    "translation": "(bot.) broom. — épineux . V. ajonc.",
+    "type": "Base"
+  },
+  {
+    "word": "glacée",
+    "pos": "n.f.",
+    "translation": "(bot.) ice-plant. V. glaciale.",
+    "type": "Base"
+  },
+  {
+    "word": "glandulaire",
+    "pos": "adj.",
+    "translation": "V. glanduleux.",
+    "type": "Base"
+  },
+  {
+    "word": "globo",
+    "pos": "",
+    "translation": "",
+    "metadata": {
+      "reflexive": "in"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "gloume",
+    "pos": "n.m.",
+    "translation": "V. glume.",
+    "type": "Base"
+  },
+  {
+    "word": "glutination",
+    "pos": "n.f.",
+    "translation": "V. agglutination.",
+    "type": "Base"
+  },
+  {
+    "word": "glycose",
+    "pos": "n.f.",
+    "translation": "V. glucose.",
+    "type": "Base"
+  },
+  {
+    "word": "goulette",
+    "pos": "n.f.",
+    "translation": "V. goulotte.",
+    "type": "Base"
+  },
+  {
+    "word": "grain",
+    "pos": "n.m.",
+    "translation": "grain, berry, bead; jot, bit, particle; squall.",
+    "usage": [
+      {
+        "fr": "Gros —s",
+        "en": "wheat and rye, winter corn."
+      },
+      {
+        "fr": "Menus —s",
+        "en": "spring corn."
+      },
+      {
+        "fr": "Un — de raisin",
+        "en": "a grape."
+      },
+      {
+        "fr": "— de chapelet",
+        "en": "bead of a chaplet."
+      },
+      {
+        "fr": "Un rosaire à gros —s",
+        "en": "a rosary of large beads."
+      },
+      {
+        "fr": "Un — de sel",
+        "en": "a grain of salt."
+      },
+      {
+        "fr": "Il n’a pas un — de bon sens",
+        "en": "he has not a grain of sense."
+      },
+      {
+        "fr": "Un — de folie",
+        "en": "a touch of madness."
+      },
+      {
+        "fr": "Être dans le —",
+        "en": "to be on the road to fortune."
+      },
+      {
+        "fr": "Poules de —",
+        "en": "corn-fed pullets."
+      },
+      {
+        "fr": "Catholique à gros —s",
+        "en": "lax Catholic."
+      },
+      {
+        "fr": "— de beauté",
+        "en": "mole, beauty spot."
+      },
+      {
+        "fr": "Essuyer un —",
+        "en": "to be overtaken by a squall. V. rafale."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "grainer",
+    "pos": "v.n.",
+    "translation": "V. grener.",
+    "type": "Base"
+  },
+  {
+    "word": "gralle",
+    "pos": "n.m.",
+    "translation": "(orni.) grallic, wading-bird. V. échassier.",
+    "type": "Base"
+  },
+  {
+    "word": "grapin",
+    "pos": "n.m.",
+    "translation": "V. grappin.",
+    "type": "Base"
+  },
+  {
+    "word": "gratton",
+    "pos": "n.m.",
+    "translation": "(bot.) V. grateron.",
+    "type": "Base"
+  },
+  {
+    "word": "gravats",
+    "irregular_pronunciation": "-vâ",
+    "pos": "n.m.pl.",
+    "translation": "V. gravois.",
+    "type": "Base"
+  },
+  {
+    "word": "gréement",
+    "pos": "n.m.",
+    "translation": "(nav.) rigging. V. agrès.",
+    "type": "Base"
+  },
+  {
+    "word": "grenouillette",
+    "pos": "n.f.",
+    "translation": "(med.) ranula; (bot.) buttercup; frogbit. V. ranule.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "grimpereau",
+    "pos": "n.m.",
+    "translation": "V. grimpart.",
+    "type": "Base"
+  },
+  {
+    "word": "groseillier",
+    "pos": "n.m.",
+    "translation": "red-currant-tree, white-currant-tree; gooseberry-bush.",
+    "usage": [
+      {
+        "fr": "— noir",
+        "en": "(l.u.) black-currant-tree. V. cassis."
+      }
+    ],
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "guèbre",
+    "pos": "n.m.",
+    "translation": "V. gaure.",
+    "type": "Base"
+  },
+  {
+    "word": "guivre",
+    "pos": "n.f.",
+    "translation": "V. givre.",
+    "type": "Base"
+  },
+  {
+    "word": "gutte",
+    "pos": "",
+    "translation": ". V. gomme.",
+    "type": "Base"
+  },
+  {
+    "word": "gyratoire",
+    "pos": "adj.",
+    "translation": "V. giratoire.",
+    "type": "Base"
+  },
+  {
+    "word": "hanebane",
+    "pos": "n.f.",
+    "translation": "V. jusquiame.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "hanscrit",
+    "pos": "n.m.",
+    "translation": "V. sanscrit.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "hansière",
+    "pos": "n.f.",
+    "translation": "(nav.) hawser. V. haussière.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "haras",
+    "pos": "n.m.",
+    "translation": "stud, breeding-stud. (orni.) V. ara.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "harmonier",
+    "pos": "v.a.",
+    "translation": "V. harmoniser.",
+    "type": "Base"
+  },
+  {
+    "word": "harmonier",
+    "pos": "v.r.",
+    "translation": "V. s’ harmoniser.",
+    "metadata": {
+      "reflexive": "s’"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "harpège",
+    "pos": "n.m.",
+    "translation": "V. arpège.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "harpéger",
+    "pos": "v.n.",
+    "translation": "V. arpéger.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "haruspice",
+    "pos": "n.m.",
+    "translation": "V. aruspice.",
+    "type": "Base"
+  },
+  {
+    "word": "haschisch",
+    "pos": "n.m.",
+    "translation": "( n.p. ). V. hachisch.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "haussière",
+    "pos": "",
+    "translation": ". V. aussière and hansière.",
+    "type": "Base"
+  },
+  {
+    "word": "hellébore",
+    "pos": "n.m.",
+    "translation": "V. ellébore.",
+    "type": "Base"
+  },
+  {
+    "word": "helléborine",
+    "pos": "n.f.",
+    "translation": "V. elléborine.",
+    "type": "Base"
+  },
+  {
+    "word": "hippocras",
+    "pos": "",
+    "translation": "(-krâs). V. hypocras.",
+    "type": "Base"
+  },
+  {
+    "word": "histiologie",
+    "pos": "n.f.",
+    "translation": "V. histologie.",
+    "type": "Base"
+  },
+  {
+    "word": "holographe",
+    "pos": "adj.",
+    "translation": "V. olographe.",
+    "type": "Base"
+  },
+  {
+    "word": "honchets",
+    "pos": "n.m.pl.",
+    "translation": "V. jonchets.",
+    "type": "Base"
+  },
+  {
+    "word": "houcre",
+    "pos": "n.m.",
+    "translation": "V. hourque.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "houlan",
+    "pos": "n.m.",
+    "translation": "( —s ). V. uhlan.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "houlque",
+    "pos": "n.f.",
+    "translation": "V. houque.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "houra",
+    "pos": "int.",
+    "translation": "V. hourra.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "hourdis",
+    "pos": "n.m.",
+    "translation": "V. hourdage.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "housard",
+    "pos": "n.m.",
+    "translation": "V. hussard.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "houssard",
+    "pos": "n.m.",
+    "translation": "V. hussard.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "huette",
+    "pos": "n.f.",
+    "translation": "V. hulotte.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "hulan",
+    "pos": "n.m.",
+    "translation": "( —s ). V. uhlan.",
+    "metadata": {
+      "marker": "†"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "hyémal",
+    "pos": "adj.",
+    "translation": "V. hiémal.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "ilet",
+    "pos": "n.m.",
+    "translation": "V. ilot.",
+    "type": "Base"
+  },
+  {
+    "word": "impresses",
+    "pos": "adj.pl.",
+    "translation": "V. intentionnelles.",
+    "type": "Base"
+  },
+  {
+    "word": "improbat-eur",
+    "pos": "n.",
+    "translation": "and adj. V. désapprobateur.",
+    "type": "Base"
+  },
+  {
+    "word": "improbation",
+    "pos": "n.f.",
+    "translation": "V. désapprobation.",
+    "type": "Base"
+  },
+  {
+    "word": "inalpin",
+    "pos": "adj.",
+    "translation": "situated in the Alps. V. alpestre.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "in extremis",
+    "pos": "adv.",
+    "translation": "V. extremis (in).",
+    "type": "Base"
+  },
+  {
+    "word": "in naturalibus",
+    "pos": "",
+    "translation": ". V. naturalibus (in).",
+    "type": "Base"
+  },
+  {
+    "word": "in-partibus",
+    "pos": "",
+    "translation": ". V. partibus (in).",
+    "type": "Base"
+  },
+  {
+    "word": "in-promptu",
+    "pos": "n.m.",
+    "translation": "V. impromptu.",
+    "type": "Base"
+  },
+  {
+    "word": "isinglass",
+    "pos": "n.m.",
+    "translation": "V. ichtyocolle and colle de poisson.",
+    "type": "Base"
+  },
+  {
+    "word": "iule",
+    "pos": "n.m.",
+    "translation": "(ent.) julus; catkin. V. jule.",
+    "type": "Base"
+  },
+  {
+    "word": "ixode",
+    "pos": "n.m.",
+    "translation": "(zoöl.). V. tique.",
+    "type": "Base"
+  },
+  {
+    "word": "izard",
+    "pos": "n.m.",
+    "translation": "V. isard.",
+    "type": "Base"
+  },
+  {
+    "word": "jacot",
+    "pos": "n.m.",
+    "translation": "V. jacquot.",
+    "type": "Base"
+  },
+  {
+    "word": "jaïet",
+    "pos": "n.m.",
+    "translation": "V. jais.",
+    "type": "Base"
+  },
+  {
+    "word": "jarde",
+    "pos": "n.f.",
+    "translation": "V. jardon.",
+    "type": "Base"
+  },
+  {
+    "word": "jonglerie",
+    "pos": "n.f.",
+    "translation": "juggling, hocus-pocus. V. escamotage.",
+    "type": "Base"
+  },
+  {
+    "word": "jouail",
+    "pos": "n.m.",
+    "translation": "V. jas.",
+    "type": "Base"
+  },
+  {
+    "word": "juc",
+    "pos": "n.m.",
+    "translation": "roost, perch. V. juchoir.",
+    "type": "Base"
+  },
+  {
+    "word": "juché",
+    "pos": "part.",
+    "translation": "perched, roosted, roosting.",
+    "usage": [
+      {
+        "fr": "Cheval —",
+        "en": "(man.) boulet (horse). V. boulet and bouleté."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "kakatoès",
+    "pos": "n.m.",
+    "translation": "(orni.) cockatoo. V. cacatois.",
+    "type": "Base"
+  },
+  {
+    "word": "karabé",
+    "pos": "n.m.",
+    "translation": "V. carabé.",
+    "type": "Base"
+  },
+  {
+    "word": "karat",
+    "pos": "n.m.",
+    "translation": "V. carat.",
+    "type": "Base"
+  },
+  {
+    "word": "katakoua",
+    "pos": "n.m.",
+    "translation": "V. kakatoès.",
+    "type": "Base"
+  },
+  {
+    "word": "kinine",
+    "pos": "n.f.",
+    "translation": "V. quinine.",
+    "type": "Base"
+  },
+  {
+    "word": "klephte",
+    "pos": "n.m.",
+    "translation": "V. clephte.",
+    "type": "Base"
+  },
+  {
+    "word": "koran",
+    "pos": "n.m.",
+    "translation": "Koran. V. coran.",
+    "type": "Base"
+  },
+  {
+    "word": "kymrique",
+    "pos": "adj.",
+    "translation": "V. cymrique.",
+    "type": "Base"
+  },
+  {
+    "word": "kynancie",
+    "pos": "n.f.",
+    "translation": "(med.). V. cynancie.",
+    "type": "Base"
+  },
+  {
+    "word": "kystotome",
+    "pos": "n.m.",
+    "translation": "(surg.) V. cystotome.",
+    "type": "Base"
+  },
+  {
+    "word": "kystotomie",
+    "pos": "n.f.",
+    "translation": "(surg.). V. cystotomie.",
+    "type": "Base"
+  },
+  {
+    "word": "l’",
+    "pos": "art.",
+    "translation": "(contraction of le and la ) the. V. le.",
+    "type": "Base"
+  },
+  {
+    "word": "la",
+    "pos": "art.f.",
+    "translation": "the. V. le.",
+    "type": "Base"
+  },
+  {
+    "word": "la",
+    "pos": "pron.",
+    "translation": "her, it. V. le.",
+    "type": "Base"
+  },
+  {
+    "word": "laceron",
+    "pos": "n.m.",
+    "translation": "(bot.) sow-thistle. V. laiteron.",
+    "type": "Base"
+  },
+  {
+    "word": "lactomètre",
+    "pos": "n.m.",
+    "translation": "lactometer. V. galactomètre.",
+    "type": "Base"
+  },
+  {
+    "word": "laïc",
+    "pos": "",
+    "translation": ". V. laïque.",
+    "type": "Base"
+  },
+  {
+    "word": "laitée",
+    "pos": "n.f.",
+    "translation": "litter (of a bitch). V. portée.",
+    "type": "Base"
+  },
+  {
+    "word": "là là",
+    "pos": "adv.",
+    "translation": "V. là.",
+    "type": "Base"
+  },
+  {
+    "word": "lamantin",
+    "pos": "n.m.",
+    "translation": "(zoöl.) V. lamentin.",
+    "type": "Base"
+  },
+  {
+    "word": "lamellé",
+    "pos": "adj.",
+    "translation": "V. lamelleux.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "laminerie",
+    "pos": "n.f.",
+    "translation": "(metal.) rolling-mills. V. laminoir.",
+    "type": "Base"
+  },
+  {
+    "word": "lamineu-x",
+    "pos": "adj.",
+    "translation": "V. cellulaire.",
+    "metadata": {
+      "feminineSuffix": "-se"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "lamprillon",
+    "pos": "n.m.",
+    "translation": "V. lamproyon.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "lanigère",
+    "pos": "adj.",
+    "translation": "V. lanifère.",
+    "type": "Base"
+  },
+  {
+    "word": "larix",
+    "irregular_pronunciation": "la-riks",
+    "pos": "n.m.",
+    "translation": "V. mélèze.",
+    "type": "Base"
+  },
+  {
+    "word": "latere",
+    "pos": "",
+    "translation": "",
+    "metadata": {
+      "reflexive": "a"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "lazuli",
+    "pos": "",
+    "translation": ". V. lapis.",
+    "type": "Base"
+  },
+  {
+    "word": "les",
+    "pos": "definite art.",
+    "translation": "and pers. pr. pl. , the; them. V. le.",
+    "type": "Base"
+  },
+  {
+    "word": "lesse",
+    "pos": "n.f.",
+    "translation": "V. laisse.",
+    "type": "Base"
+  },
+  {
+    "word": "libage",
+    "pos": "n.m.",
+    "translation": "(mas.) ashlar. V. moellon.",
+    "type": "Base"
+  },
+  {
+    "word": "libitum",
+    "pos": "",
+    "translation": "",
+    "metadata": {
+      "reflexive": "ad"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "licol",
+    "pos": "n.m.",
+    "translation": "V. licou.",
+    "type": "Base"
+  },
+  {
+    "word": "limas",
+    "pos": "n.m.",
+    "translation": "V. limace.",
+    "type": "Base"
+  },
+  {
+    "word": "linacées",
+    "pos": "n.f.pl.",
+    "translation": "V. linées.",
+    "type": "Base"
+  },
+  {
+    "word": "liron",
+    "pos": "n.m.",
+    "translation": "V. loir and lérot.",
+    "type": "Base"
+  },
+  {
+    "word": "liset",
+    "pos": "n.m.",
+    "translation": "(bot.) V. liseron.",
+    "type": "Base"
+  },
+  {
+    "word": "lisse",
+    "pos": "n.f.",
+    "translation": "smoothness, gloss, hand-rail, hand-railing, barrier, fence; (nav.) sheer-rails, drift-rails, rib-band; (tapestry). V. lice.",
+    "usage": [
+      {
+        "fr": "—s de porte-haubans",
+        "en": "sheer-rails."
+      },
+      {
+        "fr": "—s de la rabattue",
+        "en": "drift-rails."
+      },
+      {
+        "fr": "—s de couronnement",
+        "en": "upper rails of the stern."
+      },
+      {
+        "fr": "—s de grande rabattue",
+        "en": "quarter-rails."
+      },
+      {
+        "fr": "—s de l’éperon",
+        "en": "rails of the head."
+      },
+      {
+        "fr": "—s de bastingage",
+        "en": "rails of the nettings."
+      },
+      {
+        "fr": "—s des couples",
+        "en": "rib-bands."
+      },
+      {
+        "fr": "— du fort",
+        "en": "extreme breadth line."
+      },
+      {
+        "fr": "— des façons",
+        "en": "floor-rib-band."
+      },
+      {
+        "fr": "—s des œuvres mortes",
+        "en": "rib-bands of the upper-works."
+      },
+      {
+        "fr": "—s de plat-bord",
+        "en": "drift-rails."
+      },
+      {
+        "fr": "— de vibord",
+        "en": "waist-rail."
+      },
+      {
+        "fr": "—s de la herpe",
+        "en": "rails of the head."
+      },
+      {
+        "fr": "— d’hourdi",
+        "en": "wing-transom."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "llama",
+    "pos": "n.m.",
+    "translation": "V. lama.",
+    "type": "Base"
+  },
+  {
+    "word": "lochet",
+    "pos": "n.m.",
+    "translation": "V. louchet.",
+    "type": "Base"
+  },
+  {
+    "word": "locman",
+    "pos": "n.m.",
+    "translation": "coasting pilot. V. lamaneur.",
+    "type": "Base"
+  },
+  {
+    "word": "loi",
+    "pos": "n.f.",
+    "translation": "law, precept, command; power, dominion, sway; authority; rule; (coin) standard.",
+    "usage": [
+      {
+        "fr": "Homme de —",
+        "en": "lawyer."
+      },
+      {
+        "fr": "Projet de —",
+        "en": "(parliament) bill."
+      },
+      {
+        "fr": "Présenter un projet de —",
+        "en": "to bring in a bill."
+      },
+      {
+        "fr": "Rejeter un projet de —",
+        "en": "to throw out a bill."
+      },
+      {
+        "fr": "Hors la —",
+        "en": "outlawed."
+      },
+      {
+        "fr": "Faire —",
+        "en": "to have force of law."
+      },
+      {
+        "fr": "Faire la —",
+        "en": "to command, to dictate (to)."
+      },
+      {
+        "fr": "Se faire une —",
+        "en": "to make it a point."
+      },
+      {
+        "fr": "Mettre hors la —",
+        "en": "to outlaw."
+      },
+      {
+        "fr": "— annonaire",
+        "en": "V. annonaire."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "lok",
+    "pos": "n.m.",
+    "translation": "V. looch.",
+    "type": "Base"
+  },
+  {
+    "word": "lombard",
+    "pos": "n.m.",
+    "translation": "pawnbroker; pawn-shop. V. mont-de-piété.",
+    "type": "Base"
+  },
+  {
+    "word": "lozange",
+    "pos": "n.f.",
+    "translation": "V. losange.",
+    "type": "Base"
+  },
+  {
+    "word": "lucubration",
+    "pos": "n.f.",
+    "translation": "V. élucubration.",
+    "type": "Base"
+  },
+  {
+    "word": "luites",
+    "pos": "n.f.pl.",
+    "translation": "(hunt.) V. suites.",
+    "type": "Base"
+  },
+  {
+    "word": "m’",
+    "pos": "Me",
+    "translation": "), me. V. me.",
+    "type": "Base"
+  },
+  {
+    "word": "macer",
+    "pos": "v.a.",
+    "translation": "V. masser.",
+    "type": "Base"
+  },
+  {
+    "word": "mâchicoulis",
+    "pos": "n.m.",
+    "translation": "V. mâchecoulis.",
+    "type": "Base"
+  },
+  {
+    "word": "macle",
+    "pos": "n.f.",
+    "translation": "(bot.) water-caltrop; (min.) macle; sort of net; (her.) mascle. V. macre.",
+    "type": "Base"
+  },
+  {
+    "word": "maëstral",
+    "pos": "n.m.",
+    "translation": "V. mistral.",
+    "type": "Base"
+  },
+  {
+    "word": "magistrature",
+    "pos": "n.f.",
+    "translation": "magistracy bench.",
+    "usage": [
+      {
+        "fr": "— assise",
+        "en": "judges, bench."
+      },
+      {
+        "fr": "— debout",
+        "en": "body of public prosecutors. V. parquet."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "mairain",
+    "pos": "n.m.",
+    "translation": "V. merrain.",
+    "type": "Base"
+  },
+  {
+    "word": "manicle",
+    "pos": "n.f.",
+    "translation": "V. manique.",
+    "type": "Base"
+  },
+  {
+    "word": "maniguette",
+    "pos": "n.f.",
+    "translation": "V. malaguette.",
+    "type": "Base"
+  },
+  {
+    "word": "manse",
+    "pos": "n.f.",
+    "translation": "(feudality) revenue (of abbeys). V. mense.",
+    "type": "Base"
+  },
+  {
+    "word": "manus",
+    "pos": "n.m.",
+    "translation": "V. in manus.",
+    "metadata": {
+      "reflexive": "in"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "maque",
+    "pos": "n.f.",
+    "translation": "V. macque.",
+    "type": "Base"
+  },
+  {
+    "word": "maquer",
+    "pos": "v.a.",
+    "translation": "V. macquer.",
+    "type": "Base"
+  },
+  {
+    "word": "maquis",
+    "pos": "n.m.",
+    "translation": "V. makis.",
+    "type": "Base"
+  },
+  {
+    "word": "mardelle",
+    "pos": "",
+    "translation": ". V. margelle.",
+    "type": "Base"
+  },
+  {
+    "word": "marmonner",
+    "pos": "v.a.",
+    "translation": "and n. V. marmotter.",
+    "type": "Base"
+  },
+  {
+    "word": "marte",
+    "pos": "n.f.",
+    "translation": "V. martre.",
+    "type": "Base"
+  },
+  {
+    "word": "maure",
+    "pos": "n.m.",
+    "translation": "V. more.",
+    "type": "Base"
+  },
+  {
+    "word": "mauresque",
+    "pos": "adj.",
+    "translation": "V. moresque.",
+    "type": "Base"
+  },
+  {
+    "word": "mauricaud",
+    "pos": "adj.",
+    "translation": "V. moricaud.",
+    "type": "Base"
+  },
+  {
+    "word": "ménade",
+    "pos": "n.f.",
+    "translation": "V. bacchante.",
+    "type": "Base"
+  },
+  {
+    "word": "mérelle",
+    "pos": "n.f.",
+    "translation": "V. marelle.",
+    "type": "Base"
+  },
+  {
+    "word": "mestre",
+    "pos": "n.m.",
+    "translation": "(nav.). V. meistre.",
+    "type": "Base"
+  },
+  {
+    "word": "méti-f",
+    "pos": "adj.",
+    "translation": "V. métis.",
+    "metadata": {
+      "feminineSuffix": "-ve"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "meuglement",
+    "pos": "n.m.",
+    "translation": "V. beuglement.",
+    "type": "Base"
+  },
+  {
+    "word": "meugler",
+    "pos": "v.n.",
+    "translation": "V. beugler.",
+    "type": "Base"
+  },
+  {
+    "word": "mézair",
+    "pos": "n.m.",
+    "translation": "V. mésair.",
+    "type": "Base"
+  },
+  {
+    "word": "mi",
+    "pos": "invariable particle",
+    "translation": "mid, middle, half. Joined to the names of the months, or to the word carême , it forms with them feminine compound nouns which require the article; corps , jambe , chemin , mur , côte , terme , sucre , when the compound words thus formed require the preposition à and do not admit of the article:",
+    "usage": [
+      {
+        "fr": "la mi-carême",
+        "en": "Mid-Lent;"
+      },
+      {
+        "fr": "la mi-août",
+        "en": "the middle of August. It may also be joined to the nouns"
+      },
+      {
+        "fr": "à mi-côte",
+        "en": "half-way up the hill."
+      },
+      {
+        "fr": "À —-chemin",
+        "en": "half-way."
+      },
+      {
+        "fr": "À —-mât",
+        "en": "half-mast high."
+      },
+      {
+        "fr": "À —-jambe",
+        "en": "half-way up the leg; past the knees."
+      },
+      {
+        "fr": "A mi-corps",
+        "en": "up to the waist. V. mi-parti."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "mirauder",
+    "pos": "v.a.",
+    "translation": "V. mirer.",
+    "type": "Base"
+  },
+  {
+    "word": "mirette",
+    "pos": "n.f.",
+    "translation": "(bot.) Venus’s looking-glass. V. miroir.",
+    "type": "Base"
+  },
+  {
+    "word": "miroder",
+    "pos": "v.a.",
+    "translation": "V. mirauder and mirer.",
+    "type": "Base"
+  },
+  {
+    "word": "mol",
+    "pos": "adj.m.",
+    "translation": "V. mou.",
+    "type": "Base"
+  },
+  {
+    "word": "molle",
+    "pos": "adj.f.",
+    "translation": "V. mou.",
+    "type": "Base"
+  },
+  {
+    "word": "montie",
+    "irregular_pronunciation": "-tî",
+    "pos": "n.f.",
+    "translation": "(bot.). V. mouron.",
+    "type": "Base"
+  },
+  {
+    "word": "moraves",
+    "pos": "adj.",
+    "translation": "Moravian brethren. V. hernutes.",
+    "type": "Base"
+  },
+  {
+    "word": "mort",
+    "pos": "part.",
+    "translation": "dead, defunct; lifeless, insensible; dormant; stagnant; still, inanimate. Un enfant —-né ( —-—s ); a still-born child. Une fille —-née ( —-—s ); a still-born girl. —e-saison , ( —s-—s ) slack season. caput mortuum . i.e. like a blacksmith). V. eau. V. paye.",
+    "usage": [
+      {
+        "fr": "Le feu est —",
+        "en": "the fire is out."
+      },
+      {
+        "fr": "Argent —",
+        "en": "money lying dead, idle."
+      },
+      {
+        "fr": "Couleur —e",
+        "en": "faint color."
+      },
+      {
+        "fr": "—e-eau",
+        "en": "neap tide."
+      },
+      {
+        "fr": "Tête —e",
+        "en": "(chem.)"
+      },
+      {
+        "fr": "Il n’y a pas de main —e",
+        "en": "he strikes hard ("
+      },
+      {
+        "fr": "—e la bête, — le venin",
+        "en": "dead men do not bite."
+      },
+      {
+        "fr": "Mort-bois",
+        "en": "V. bois."
+      },
+      {
+        "fr": "Œuvres —es",
+        "en": "(nav.) upper works."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "mort-ivre",
+    "pos": "adj.",
+    "translation": "V. ivre mort.",
+    "type": "Base"
+  },
+  {
+    "word": "mosarabe",
+    "pos": "n.m.",
+    "translation": "V. mozarabe.",
+    "type": "Base"
+  },
+  {
+    "word": "mouçon",
+    "pos": "n.f.",
+    "translation": "V. mousson.",
+    "type": "Base"
+  },
+  {
+    "word": "moufette",
+    "pos": "n.f.",
+    "translation": "V. mofette.",
+    "type": "Base"
+  },
+  {
+    "word": "mouret",
+    "pos": "n.m.",
+    "translation": "V. moret.",
+    "type": "Base"
+  },
+  {
+    "word": "muabilité",
+    "pos": "n.f.",
+    "translation": "V. mutabilité.",
+    "type": "Base"
+  },
+  {
+    "word": "muche-pot",
+    "pos": "adv.",
+    "translation": "V. musse-pot (à).",
+    "metadata": {
+      "reflexive": "à"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "multinôme",
+    "pos": "n.m.",
+    "translation": "(l.u.) (alg.) multinominal. V. polynôme.",
+    "type": "Base"
+  },
+  {
+    "word": "muphti",
+    "pos": "n.m.",
+    "translation": "V. mufti.",
+    "type": "Base"
+  },
+  {
+    "word": "musicomane",
+    "pos": "n.m.",
+    "translation": "(l.u.) person extremely fond of music. V. mélomane.",
+    "type": "Base"
+  },
+  {
+    "word": "musicomanie",
+    "pos": "n.f.",
+    "translation": "(l.u.) passion for music. V. mélomanie.",
+    "type": "Base"
+  },
+  {
+    "word": "musse-pot",
+    "pos": "adv.",
+    "translation": "in concealment, secretly. V. à muche-pot.",
+    "metadata": {
+      "reflexive": "à"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "myrmidon",
+    "pos": "n.m.",
+    "translation": "V. mirmidon.",
+    "type": "Base"
+  },
+  {
+    "word": "myrobolan",
+    "pos": "adj.",
+    "translation": "V. mirobolant.",
+    "metadata": {
+      "feminineSuffix": "-te"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "négromancien",
+    "pos": "n.m.",
+    "translation": "V. nécromancien, nécromant.",
+    "type": "Base"
+  },
+  {
+    "word": "nettoyage",
+    "pos": "n.m.",
+    "translation": "V. nettoiement.",
+    "type": "Base"
+  },
+  {
+    "word": "nictitation",
+    "pos": "n.f.",
+    "translation": "V. nictation.",
+    "type": "Base"
+  },
+  {
+    "word": "nitée",
+    "pos": "n.f.",
+    "translation": "V. nichée.",
+    "type": "Base"
+  },
+  {
+    "word": "non plus ultra",
+    "pos": "n.m.",
+    "translation": "V. nec plus ultra.",
+    "type": "Base"
+  },
+  {
+    "word": "nourrain",
+    "pos": "n.m.",
+    "translation": "fry (fish). V. alevin.",
+    "type": "Base"
+  },
+  {
+    "word": "nuement",
+    "pos": "",
+    "translation": ". V. nûment.",
+    "type": "Base"
+  },
+  {
+    "word": "nuer",
+    "pos": "v.a.",
+    "translation": "V. nuancer.",
+    "type": "Base"
+  },
+  {
+    "word": "octavo",
+    "pos": "adv.",
+    "translation": "eighthly. V. in-octavo.",
+    "type": "Base"
+  },
+  {
+    "word": "odomètre",
+    "pos": "n.m.",
+    "translation": "odometer, pedometer. V. pédomètre.",
+    "type": "Base"
+  },
+  {
+    "word": "ognon",
+    "pos": "n.m.",
+    "translation": "V. oignon.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "ognonnet",
+    "pos": "n.m.",
+    "translation": "V. oignonnet.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "ognonnière",
+    "pos": "n.f.",
+    "translation": "V. oignonnière.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "oliette",
+    "pos": "n.f.",
+    "translation": "V. œillette.",
+    "type": "Base"
+  },
+  {
+    "word": "olivète",
+    "pos": "n.f.",
+    "translation": "(bot.). V. œillette.",
+    "type": "Base"
+  },
+  {
+    "word": "olographe",
+    "pos": "adj.",
+    "translation": "holographic, holographical.",
+    "usage": [
+      {
+        "fr": "Testament —",
+        "en": "will written in the testator’s own hand. V. holographe."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "oncial",
+    "pos": "n.m.",
+    "translation": "(l.u.). V. onciale.",
+    "type": "Base"
+  },
+  {
+    "word": "ophioglosse",
+    "pos": "n.m.",
+    "translation": "(bot.) ophioglossum. V. langue-de-serpent.",
+    "type": "Base"
+  },
+  {
+    "word": "oréographie",
+    "pos": "n.f.",
+    "translation": "V. orographie.",
+    "type": "Base"
+  },
+  {
+    "word": "ormoie",
+    "pos": "n.f.",
+    "translation": "V. ormaie.",
+    "type": "Base"
+  },
+  {
+    "word": "orque",
+    "pos": "n.m.",
+    "translation": "(ich.) ork. V. épaulard.",
+    "type": "Base"
+  },
+  {
+    "word": "ors",
+    "pos": "adv.",
+    "translation": "V. ores.",
+    "type": "Base"
+  },
+  {
+    "word": "ourvari",
+    "pos": "n.m.",
+    "translation": "V. hourvari.",
+    "type": "Base"
+  },
+  {
+    "word": "in pace",
+    "pos": "n.m.",
+    "translation": "V. in pace.",
+    "type": "Base"
+  },
+  {
+    "word": "paie",
+    "pos": "n.f.",
+    "translation": "V. paye.",
+    "type": "Base"
+  },
+  {
+    "word": "palixandre",
+    "pos": "n.m.",
+    "translation": "V. palissandre.",
+    "type": "Base"
+  },
+  {
+    "word": "palle",
+    "pos": "n.f.",
+    "translation": "(c.rel.). V. pale.",
+    "type": "Base"
+  },
+  {
+    "word": "palma-christi",
+    "pos": "n.m.",
+    "translation": "( — ) (bot.). V. ricin.",
+    "type": "Base"
+  },
+  {
+    "word": "panader",
+    "pos": "v.r.",
+    "translation": "V. se pavaner.",
+    "metadata": {
+      "reflexive": "se"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "pansement",
+    "irregular_pronunciation": "pans-mān",
+    "pos": "n.m.",
+    "translation": "dressing (of wounds); rubbing, grooming (of a horse). V. pansage.",
+    "type": "Base"
+  },
+  {
+    "word": "paraphe",
+    "pos": "",
+    "translation": ", parapher. V. parafe, parafer.",
+    "type": "Base"
+  },
+  {
+    "word": "parélie",
+    "pos": "",
+    "translation": ". V. parhélie.",
+    "type": "Base"
+  },
+  {
+    "word": "parentèle",
+    "pos": "n.f.",
+    "translation": "(fam.). V. parenté.",
+    "type": "Base"
+  },
+  {
+    "word": "partner",
+    "pos": "n.m.f.",
+    "translation": "( —s ). V. partenaire.",
+    "type": "Base"
+  },
+  {
+    "word": "passéger",
+    "pos": "v.n.",
+    "translation": "V. passager.",
+    "type": "Base"
+  },
+  {
+    "word": "pastisson",
+    "pos": "n.m.",
+    "translation": "V. pâtisson.",
+    "type": "Base"
+  },
+  {
+    "word": "patarin",
+    "pos": "n.m.",
+    "translation": "V. albigeois and vaudois.",
+    "type": "Base"
+  },
+  {
+    "word": "pate",
+    "pos": "n.f.",
+    "translation": "V. patte.",
+    "type": "Base"
+  },
+  {
+    "word": "payen",
+    "pos": "adj.",
+    "translation": "V. païen.",
+    "metadata": {
+      "feminineSuffix": "-ne"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "pécheresse",
+    "irregular_pronunciation": "pé-shrès",
+    "pos": "n.f.",
+    "translation": "V. pécheur.",
+    "type": "Base"
+  },
+  {
+    "word": "peintureur",
+    "pos": "n.m.",
+    "translation": "bad painter, dauber. V. barbouilleur.",
+    "type": "Base"
+  },
+  {
+    "word": "pêle",
+    "pos": "n.m.",
+    "translation": "V. pêne.",
+    "type": "Base"
+  },
+  {
+    "word": "pentière",
+    "irregular_pronunciation": "-tièr",
+    "pos": "n.f.",
+    "translation": "V. pantière.",
+    "type": "Base"
+  },
+  {
+    "word": "péone",
+    "pos": "n.f.",
+    "translation": "V. pivoine (bot.).",
+    "type": "Base"
+  },
+  {
+    "word": "perce-pierre",
+    "pos": "n.f.",
+    "translation": "( —-—s ). V. passe-pierre.",
+    "type": "Base"
+  },
+  {
+    "word": "perkale",
+    "pos": "",
+    "translation": ", perkaline. V. percale, percaline.",
+    "type": "Base"
+  },
+  {
+    "word": "petit",
+    "pos": "adj.",
+    "translation": "little, small, diminutive, short, unimportant, petty, slight, trifling; light; faint; grand (of one’s children’s children). —-fils ( —s-— ); grandson. —e guerre . V. guerre. —-maître , ( —s-—s ) coxcomb. —e-maîtresse , ( —s-—s ) belle; vain, foppish woman. En — ,",
+    "usage": [
+      {
+        "fr": "Un — homme",
+        "en": "a little man."
+      },
+      {
+        "fr": "Un homme —",
+        "en": "a mean man."
+      },
+      {
+        "fr": "Un — roi",
+        "en": "a petty king."
+      },
+      {
+        "fr": "Le — peuple",
+        "en": "the common people."
+      },
+      {
+        "fr": "Le — monde",
+        "en": "the common people."
+      },
+      {
+        "fr": "— collet",
+        "en": "young clergyman."
+      },
+      {
+        "fr": "—e vérole",
+        "en": "small-pox."
+      },
+      {
+        "fr": "De la —e bière",
+        "en": "small-beer."
+      },
+      {
+        "fr": "— à —",
+        "en": "by degrees."
+      },
+      {
+        "fr": "— à — l’oiseau fait son nid",
+        "en": "small strokes fell great oaks."
+      },
+      {
+        "fr": "Les —s ruisseaux font les grandes rivières",
+        "en": "many a little makes a mickle."
+      },
+      {
+        "fr": "au — pied",
+        "en": "in miniature, on a small scale."
+      },
+      {
+        "fr": "En — pays",
+        "en": "in a small way."
+      },
+      {
+        "fr": "Être aux —s soins pour",
+        "en": "to be all attention to."
+      },
+      {
+        "fr": "— mercier — panier",
+        "en": "(prov.) small positions for small brains."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "phantaisie",
+    "pos": "n.f.",
+    "translation": "V. fantaisie.",
+    "type": "Base"
+  },
+  {
+    "word": "phantasmagorie",
+    "pos": "n.f.",
+    "translation": "V. fantasmagorie.",
+    "type": "Base"
+  },
+  {
+    "word": "phantasmagorique",
+    "pos": "adj.",
+    "translation": "V. fantasmagorique.",
+    "type": "Base"
+  },
+  {
+    "word": "phaséole",
+    "pos": "n.f.",
+    "translation": "V. faséole.",
+    "type": "Base"
+  },
+  {
+    "word": "phlegmatique",
+    "pos": "adj.",
+    "translation": "V. flegmatique.",
+    "type": "Base"
+  },
+  {
+    "word": "phlegme",
+    "pos": "n.m.",
+    "translation": "V. flegme.",
+    "type": "Base"
+  },
+  {
+    "word": "phrénésie",
+    "pos": "",
+    "translation": ", phrénétique. V. frénésie, frénétique.",
+    "type": "Base"
+  },
+  {
+    "word": "pic-vert",
+    "pos": "n.m.",
+    "translation": "( —s-—s ). V. pivert.",
+    "type": "Base"
+  },
+  {
+    "word": "pileu-x",
+    "pos": "adj.",
+    "translation": "V. pilaire.",
+    "metadata": {
+      "feminineSuffix": "-se"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "pinace",
+    "pos": "n.f.",
+    "translation": "V. pinasse.",
+    "type": "Base"
+  },
+  {
+    "word": "pioler",
+    "pos": "",
+    "translation": ". V. piauler.",
+    "type": "Base"
+  },
+  {
+    "word": "pione",
+    "pos": "n.f.",
+    "translation": "V. pivoine (bot.).",
+    "type": "Base"
+  },
+  {
+    "word": "pirrhonien",
+    "pos": "adj.",
+    "translation": "V. pyrrhonien.",
+    "metadata": {
+      "feminineSuffix": "-ne"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "pirrhonisme",
+    "pos": "n.m.",
+    "translation": "V. pyrrhonisme.",
+    "type": "Base"
+  },
+  {
+    "word": "plane",
+    "pos": "n.m.",
+    "translation": "V. platane.",
+    "type": "Base"
+  },
+  {
+    "word": "plano",
+    "pos": "adv.",
+    "translation": "V. in plano.",
+    "metadata": {
+      "reflexive": "in"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "plantard",
+    "pos": "n.m.",
+    "translation": "V. plançon.",
+    "type": "Base"
+  },
+  {
+    "word": "pleure",
+    "pos": "n.f.",
+    "translation": "(anat.). V. plèvre.",
+    "type": "Base"
+  },
+  {
+    "word": "plica",
+    "pos": "n.m.",
+    "translation": "(med.). V. plique.",
+    "type": "Base"
+  },
+  {
+    "word": "pluche",
+    "pos": "",
+    "translation": ". V. peluche.",
+    "type": "Base"
+  },
+  {
+    "word": "plui-plui",
+    "pos": "n.m.",
+    "translation": "V. pleu-pleu.",
+    "type": "Base"
+  },
+  {
+    "word": "plumail",
+    "pos": "n.m.",
+    "translation": "feather-broom. V. plumet or plumeau.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "plum-pudding",
+    "pos": "n.m.",
+    "translation": "( —-—s ). V. pouding.",
+    "type": "Base"
+  },
+  {
+    "word": "poile",
+    "pos": "n.m.",
+    "translation": "V. poêle.",
+    "type": "Base"
+  },
+  {
+    "word": "polygarchie",
+    "pos": "n.f.",
+    "translation": "V. polyarchie.",
+    "type": "Base"
+  },
+  {
+    "word": "poncif",
+    "pos": "n.m.",
+    "translation": "V. poncis.",
+    "type": "Base"
+  },
+  {
+    "word": "porracé",
+    "pos": "adj.",
+    "translation": "V. poracé.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "porreau",
+    "pos": "n.m.",
+    "translation": "V. poireau.",
+    "type": "Base"
+  },
+  {
+    "word": "portage",
+    "pos": "n.m.",
+    "translation": "portage (at water-falls in America); conveyance, porterage. V. port permis (nav.), under port.",
+    "usage": [
+      {
+        "fr": "Faire —",
+        "en": "to carry a boat overland (at waterfalls)."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "porte-malle",
+    "pos": "n.m.",
+    "translation": "( — ). V. porte-balle.",
+    "type": "Base"
+  },
+  {
+    "word": "porte-musc",
+    "pos": "n.m.",
+    "translation": "( — ). V. musc (mam.).",
+    "type": "Base"
+  },
+  {
+    "word": "postulatum",
+    "pos": "n.m.",
+    "translation": "(postulata) (philos.) postulate. V. postulat.",
+    "type": "Base"
+  },
+  {
+    "word": "poult-de-soie",
+    "pos": "n.m.",
+    "translation": "( —s-— ). V. pou-de-soie.",
+    "type": "Base"
+  },
+  {
+    "word": "pourir",
+    "pos": "v.n.",
+    "translation": "V. pourrir.",
+    "type": "Base"
+  },
+  {
+    "word": "pouriture",
+    "pos": "n.f.",
+    "translation": "V. pourriture.",
+    "type": "Base"
+  },
+  {
+    "word": "pourrissage",
+    "pos": "n.m.",
+    "translation": "V. pourissage.",
+    "type": "Base"
+  },
+  {
+    "word": "pourrissoir",
+    "pos": "n.m.",
+    "translation": "V. pourissoir.",
+    "type": "Base"
+  },
+  {
+    "word": "pousse-pieds",
+    "pos": "n.m.",
+    "translation": "( — ). V. anatife.",
+    "type": "Base"
+  },
+  {
+    "word": "poussolane",
+    "pos": "",
+    "translation": ". V. pouzzolane.",
+    "type": "Base"
+  },
+  {
+    "word": "prélat",
+    "pos": "n.m.",
+    "translation": "prelate; (nav.) V. prélart.",
+    "type": "Base"
+  },
+  {
+    "word": "premier",
+    "pos": "n.m.",
+    "translation": "former; first; first floor; chief, head, leader. Jeune — , m. , jeune —ère , f. , V. jeune.",
+    "usage": [
+      {
+        "fr": "Il demeure au —",
+        "en": "he lives on the first floor."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "presbytéranisme",
+    "pos": "n.m.",
+    "translation": "V. presbytérianisme.",
+    "type": "Base"
+  },
+  {
+    "word": "pretentaine",
+    "pos": "n.f.",
+    "translation": "V. pretantaine.",
+    "type": "Base"
+  },
+  {
+    "word": "prétermission",
+    "pos": "n.f.",
+    "translation": "V. prétérition.",
+    "type": "Base"
+  },
+  {
+    "word": "princier",
+    "pos": "n.m.",
+    "translation": "primicerius, first dignitary. V. primicier.",
+    "type": "Base"
+  },
+  {
+    "word": "procuratrice",
+    "pos": "n.f.",
+    "translation": "V. procureur.",
+    "type": "Base"
+  },
+  {
+    "word": "prognostic",
+    "pos": "n.m.",
+    "translation": "V. pronostic.",
+    "type": "Base"
+  },
+  {
+    "word": "prosthèse",
+    "pos": "n.f.",
+    "translation": "(gram.) prosthesis; (surg. l.u.) prosthesis. V. prothèse.",
+    "type": "Base"
+  },
+  {
+    "word": "puine",
+    "pos": "n.m.",
+    "translation": "(forestry) wood of little value. V. mort-bois under bois.",
+    "type": "Base"
+  },
+  {
+    "word": "pulmonie",
+    "pos": "n.f.",
+    "translation": "V. pneumonie.",
+    "type": "Base"
+  },
+  {
+    "word": "pyriforme",
+    "pos": "adj.",
+    "translation": "V. piriforme.",
+    "type": "Base"
+  },
+  {
+    "word": "quacre",
+    "pos": "n.m.",
+    "translation": "V. quaker.",
+    "type": "Base"
+  },
+  {
+    "word": "quadrat",
+    "pos": "n.m.",
+    "translation": "(print.) quadrat. V. cadrat.",
+    "type": "Base"
+  },
+  {
+    "word": "quadratin",
+    "pos": "n.m.",
+    "translation": "(print.) M quadrat.",
+    "usage": [
+      {
+        "fr": "Demi-—",
+        "en": "(print.) N quadrat. V. cadratin."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "quadrature",
+    "pos": "n.f.",
+    "translation": "(horl.) movement, dial-work. V. cadrature.",
+    "type": "Base"
+  },
+  {
+    "word": "quadriennal",
+    "pos": "",
+    "translation": ". V. quatriennal.",
+    "type": "Base"
+  },
+  {
+    "word": "quaiage",
+    "pos": "n.m.",
+    "translation": "V. quayage.",
+    "type": "Base"
+  },
+  {
+    "word": "quarre",
+    "pos": "",
+    "translation": ", quarré, quarreau, quarrément, quarrer, quarrure. V. carre, carré, etc.",
+    "type": "Base"
+  },
+  {
+    "word": "quarto",
+    "pos": "",
+    "translation": ". V. in-quarto.",
+    "type": "Base"
+  },
+  {
+    "word": "quater",
+    "pos": "n.m.",
+    "translation": "C (numeration of houses). V. ter.",
+    "type": "Base"
+  },
+  {
+    "word": "quaterne",
+    "pos": "n.m.",
+    "translation": "quaternary; four winning numbers (V. quine).",
+    "type": "Base"
+  },
+  {
+    "word": "quatrillion",
+    "irregular_pronunciation": "kooa-",
+    "pos": "n.m.",
+    "translation": "V. quadrillion.",
+    "type": "Base"
+  },
+  {
+    "word": "queue",
+    "irregular_pronunciation": "keû",
+    "pos": "n.f.",
+    "translation": "tail; stalk, stem; (l.u.) hone; hogshead; end, extremity; rear; (of documents) label; billiard-cue; handle (of a frying-pan, of mills); train (of robes, gowns); file, string (of persons). —-d’aronde , ( —s-— ) (carp.) dovetail. —-de-cheval , ( —s-— ) (bot.) horse-tail. —-de lion , ( —s-— ) (bot.) lion’s-tail; motherwort. Demi-— , ( —s-— ) half a hogshead. À la — leu leu , V. leu.",
+    "usage": [
+      {
+        "fr": "—-de-chat cirrus",
+        "en": "curl-cloud; mare’s tail."
+      },
+      {
+        "fr": "— écourtée",
+        "en": "bobtail."
+      },
+      {
+        "fr": "—-de-pourceau",
+        "en": "(bot.) hog’s-fennel."
+      },
+      {
+        "fr": "La — d’un paon",
+        "en": "a peacock’s train."
+      },
+      {
+        "fr": "La — d’une robe",
+        "en": "the train of a gown."
+      },
+      {
+        "fr": "— de moulin",
+        "en": "mill-handle."
+      },
+      {
+        "fr": "— de poêle",
+        "en": "handle of a frying-pan."
+      },
+      {
+        "fr": "La — de l’armée",
+        "en": "the rear of the army."
+      },
+      {
+        "fr": "Avoir les ennemis en —",
+        "en": "to have the enemy at one’s heels."
+      },
+      {
+        "fr": "Il est à la —",
+        "en": "he is behind, at the bottom of the class."
+      },
+      {
+        "fr": "Faire —",
+        "en": "to stand in a line."
+      },
+      {
+        "fr": "Faire la — à",
+        "en": "to take in, to deceive."
+      },
+      {
+        "fr": "On fait — au théâtre",
+        "en": "there is a crowd at the doors."
+      },
+      {
+        "fr": "À —-d’aronde",
+        "en": "(carp.) dovetailed."
+      },
+      {
+        "fr": "Faire fausse —",
+        "en": "to miscue (billiards)."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "quina",
+    "pos": "n.m.",
+    "translation": "V. quinquina.",
+    "type": "Base"
+  },
+  {
+    "word": "quinte",
+    "pos": "adj.f.",
+    "translation": "of five days (of fevers).",
+    "usage": [
+      {
+        "fr": "Fièvre —",
+        "en": "a five-day fever. V. quintane."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "rabbaniste",
+    "pos": "n.m.",
+    "translation": "V. rabbiniste.",
+    "type": "Base"
+  },
+  {
+    "word": "rabiole",
+    "pos": "n.f.",
+    "translation": "V. rave.",
+    "type": "Base"
+  },
+  {
+    "word": "rack",
+    "pos": "n.m.",
+    "translation": "arrack, rack (liquor). V. arack.",
+    "type": "Base"
+  },
+  {
+    "word": "radoterie",
+    "irregular_pronunciation": "ra-do-trî",
+    "pos": "n.f.",
+    "translation": "V. radotage.",
+    "type": "Base"
+  },
+  {
+    "word": "raffe",
+    "pos": "n.f.",
+    "translation": "V. rafle.",
+    "type": "Base"
+  },
+  {
+    "word": "raffolir",
+    "pos": "v.n.",
+    "translation": "(l.u.) to become mad, to go mad. V. affoler.",
+    "type": "Base"
+  },
+  {
+    "word": "rain",
+    "pos": "n.m.",
+    "translation": "skirt (of a wood). V. lisière.",
+    "type": "Base"
+  },
+  {
+    "word": "rainceau",
+    "pos": "n.m.",
+    "translation": "V. rinceau.",
+    "type": "Base"
+  },
+  {
+    "word": "rainette",
+    "pos": "n.f.",
+    "translation": "(erp.) tree-frog; (bot.) V. reinette.",
+    "type": "Base"
+  },
+  {
+    "word": "raisonner",
+    "pos": "v.n.",
+    "translation": "to reason, to argue, to discourse; to answer; to murmur; (nav.) to lie to, (in order to be searched). — faux or",
+    "usage": [
+      {
+        "fr": "— à faux",
+        "en": "to reason falsely."
+      },
+      {
+        "fr": "Faire — un vaisseau",
+        "en": "(nav.) to compel a ship to speak another. V. arraisonner."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "ramadouer",
+    "pos": "v.a.",
+    "translation": "V. amadouer.",
+    "type": "Base"
+  },
+  {
+    "word": "ramassis",
+    "pos": "n.m.",
+    "translation": "V. ramas.",
+    "type": "Base"
+  },
+  {
+    "word": "ramazan",
+    "pos": "n.m.",
+    "translation": "V. ramadan.",
+    "type": "Base"
+  },
+  {
+    "word": "rampin",
+    "pos": "adj.m.",
+    "translation": "V. pinçard.",
+    "type": "Base"
+  },
+  {
+    "word": "rancissure",
+    "pos": "n.f.",
+    "translation": "V. rancidité.",
+    "type": "Base"
+  },
+  {
+    "word": "rang",
+    "irregular_pronunciation": "ran",
+    "pos": "n.m.",
+    "translation": "row, line, range; rank (degree, station); order; class; rate (of ships); (print.) frame; (nav.) tier (of cables); tier (of boxes in theaters).",
+    "usage": [
+      {
+        "fr": "Dernier —",
+        "en": "lowest rank."
+      },
+      {
+        "fr": "Au même —",
+        "en": "in the same row."
+      },
+      {
+        "fr": "À son —",
+        "en": "in one’s turn."
+      },
+      {
+        "fr": "De premier —",
+        "en": "first rate."
+      },
+      {
+        "fr": "Occuper un — élevé",
+        "en": "to rank high."
+      },
+      {
+        "fr": "Tenir un —",
+        "en": "to hold a rank, to make a figure."
+      },
+      {
+        "fr": "Se mettre sur les —s",
+        "en": "to enter the lists, to come forward (as a candidate); to put up (for); to stand (for)."
+      },
+      {
+        "fr": "Être sur les —s",
+        "en": "to be a candidate (for)."
+      },
+      {
+        "fr": "Il aspire au premier —",
+        "en": "he aspires to the first place."
+      },
+      {
+        "fr": "Mettre au — de ses amis",
+        "en": "to reckon amongst one’s friends."
+      },
+      {
+        "fr": "Tel qui brille au second — s’éclipse au premier",
+        "en": "a good subordinate often makes a bad leader."
+      },
+      {
+        "fr": "En — d’oignon",
+        "en": "(prov.) in a row. V. oignon."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "râpe",
+    "pos": "n.f.",
+    "translation": "grater; rasp; stalk; stem of grapes, V. rafle. pl. , (vet.) malanders, V. malandre.",
+    "type": "Base"
+  },
+  {
+    "word": "ras",
+    "pos": "n.m.",
+    "translation": "short-nap cloth. Au — de ,",
+    "usage": [
+      {
+        "fr": "— de carène",
+        "en": "(nav.) shipwright’s floating stage."
+      },
+      {
+        "fr": "à —",
+        "en": "nearly level with."
+      },
+      {
+        "fr": "— de marée",
+        "en": "(nav.) tide-way race."
+      },
+      {
+        "fr": "À — de terre",
+        "en": "almost touching the ground; skimming the ground. V. raz."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "rattiser",
+    "pos": "v.a.",
+    "translation": "to stir up the fire again; to stir up again. V. attiser.",
+    "type": "Base"
+  },
+  {
+    "word": "ravilir",
+    "pos": "v.a.",
+    "translation": "to debase, to disgrace, to degrade, to lower. V. avilir.",
+    "type": "Base"
+  },
+  {
+    "word": "recaler",
+    "pos": "v.a.",
+    "translation": "to wedge up again, to refix, to refasten. (fig.) V. rembarrer.",
+    "usage": [
+      {
+        "fr": "Il a été recalé",
+        "en": "(fam.) he has been plowed again."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "récurer",
+    "pos": "v.a.",
+    "translation": "V. écurer.",
+    "type": "Base"
+  },
+  {
+    "word": "réer",
+    "pos": "v.n.",
+    "translation": "V. raire.",
+    "type": "Base"
+  },
+  {
+    "word": "regaillardir",
+    "pos": "v.a.",
+    "translation": "to make merry, to enliven, to revive, to give a fillip to. V. ragaillardir.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "regard",
+    "pos": "n.m.",
+    "translation": "look; gaze, stare; glance; eye, eyes; (astrol.) aspect; two pictures looking at one another. pl. , eyes; attention, notice; (tech.) draft-hole, man-hole. or round. Au — de , V. à l’égard de.",
+    "usage": [
+      {
+        "fr": "— tendre",
+        "en": "tender look."
+      },
+      {
+        "fr": "Lancer un —",
+        "en": "to dart a look."
+      },
+      {
+        "fr": "Jeter ses —s de côté et d’autre",
+        "en": "to cast one’s eyes about."
+      },
+      {
+        "fr": "Jeter un — sur",
+        "en": "to cast a glance at."
+      },
+      {
+        "fr": "Adoucir ses —s",
+        "en": "to soften one’s countenance."
+      },
+      {
+        "fr": "Fixer les —s de quelqu’un",
+        "en": "to catch any one’s eye; to arrest any one’s attention."
+      },
+      {
+        "fr": "Au — sombre",
+        "en": "dull-eyed."
+      },
+      {
+        "fr": "En —",
+        "en": "opposite."
+      },
+      {
+        "fr": "Avoir — sur",
+        "en": "to look into, to face."
+      },
+      {
+        "fr": "Promener ses —s sur",
+        "en": "to cast one’s eyes upon,"
+      },
+      {
+        "fr": "Abaisser les —s",
+        "en": "to look down."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "regître",
+    "pos": "n.m.",
+    "translation": "V. registre.",
+    "type": "Base"
+  },
+  {
+    "word": "regîtrer",
+    "pos": "v.a.",
+    "translation": "V. registrer.",
+    "type": "Base"
+  },
+  {
+    "word": "reine-marguerite",
+    "pos": "n.f.",
+    "translation": "( —s-—s ) (bot.) China-aster. Chinese starwort, starwort. V. marguerite.",
+    "type": "Base"
+  },
+  {
+    "word": "relais",
+    "pos": "n.m.",
+    "translation": "relay (fresh horses); stage; posting-house (where fresh horses are taken).",
+    "usage": [
+      {
+        "fr": "Chevaux de —",
+        "en": "fresh horses; (hunt.) relay; opening (in carpet-making); (fort.) V. berme."
+      },
+      {
+        "fr": "Être de —",
+        "en": "to be unemployed, to have nothing to do, to be disengaged, at leisure."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "remmailler",
+    "pos": "v.a.",
+    "translation": "to re-stitch, to mend, to remake the meshes of. V. remailler.",
+    "type": "Base"
+  },
+  {
+    "word": "remole",
+    "pos": "n.f.",
+    "translation": "V. remous.",
+    "type": "Base"
+  },
+  {
+    "word": "rémore",
+    "pos": "n.f.",
+    "translation": "V. rémora.",
+    "type": "Base"
+  },
+  {
+    "word": "remue-queue",
+    "pos": "n.m.",
+    "translation": "( — ). V. hochequeue.",
+    "type": "Base"
+  },
+  {
+    "word": "rendonnée",
+    "pos": "n.f.",
+    "translation": "V. randonnée.",
+    "type": "Base"
+  },
+  {
+    "word": "renfrogné",
+    "pos": "se",
+    "translation": "renfrogner. V. refrogné, refrognement, se refrogner.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "renommer",
+    "pos": "v.r.",
+    "translation": "to make use of the name of any one. V. se réclamer (de).",
+    "metadata": {
+      "reflexive": "se"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "renoueu-r",
+    "pos": "n.m.",
+    "translation": "V. rebouteur.",
+    "metadata": {
+      "feminineSuffix": "-se",
+      "femininePos": "n.f."
+    },
+    "type": "BaseWith2GenderNoun"
+  },
+  {
+    "word": "renversement",
+    "pos": "n.m.",
+    "translation": "reversing, overturning, throwing down, throwing over, overthrowing; turning upside down; confusion, disorder; turning, alienation (of the brain); subversion, destruction; (surg.) retroversion, prolapse; (mus.) inversion, revert, reversing; (arith.) inversion; (nav.) ☉transshipment, V. transbordement.",
+    "usage": [
+      {
+        "fr": "— d’un état",
+        "en": "overthrow of a state."
+      },
+      {
+        "fr": "— des lois",
+        "en": "subversion of the laws."
+      },
+      {
+        "fr": "— de la paupière",
+        "en": "(med.) eversion of the eyelid."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "renverser",
+    "pos": "v.a.",
+    "translation": "to reverse, to turn upside-down, to turn topsy-turvy; to throw down, to upset, to tumble down, to overthrow, to overturn; to spill; to turn (the brain); to disorder, to confuse; to destroy, to ruin; to astound, to stupefy, to overwhelm; to transpose; (milit.) to put to flight, to rout, to put to the rout; to invert; (surg.) to retrovert; (nav.) ☉to transship, V. transborder.",
+    "usage": [
+      {
+        "fr": "— à coups de canon",
+        "en": "to batter down."
+      },
+      {
+        "fr": "— la table",
+        "en": "to upset the table."
+      },
+      {
+        "fr": "— un bataillon",
+        "en": "to break, to overthrow, a battalion."
+      },
+      {
+        "fr": "— un état",
+        "en": "to overthrow a state."
+      },
+      {
+        "fr": "Ceci lui renversera l’esprit",
+        "en": "this will turn his brain."
+      },
+      {
+        "fr": "— l’encre",
+        "en": "to spill the ink, to knock the ink over."
+      },
+      {
+        "fr": "— la vapeur",
+        "en": "(rail.) to reverse the engine."
+      },
+      {
+        "fr": "— une voiture",
+        "en": "to upset a carriage."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "repaire",
+    "pos": "n.m.",
+    "translation": "haunt, den, lair, hole; (hunt.) dung of hares, wolves, etc.; (tech.) V. repère.",
+    "usage": [
+      {
+        "fr": "— de voleurs",
+        "en": "den of thieves, haunt of thieves."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "réparition",
+    "pos": "n.f.",
+    "translation": "(astron.) reappearance (of a star after an eclipse). V. réapparition.",
+    "type": "Base"
+  },
+  {
+    "word": "reploiement",
+    "pos": "n.m.",
+    "translation": "V. repliement.",
+    "type": "Base"
+  },
+  {
+    "word": "reployer",
+    "pos": "v.a.",
+    "translation": "se reployer, v.r. V. replier, se replier.",
+    "type": "Base"
+  },
+  {
+    "word": "repoussement",
+    "irregular_pronunciation": "-poos-mān",
+    "pos": "n.m.",
+    "translation": "repulsion; recoil (of fire-arms). V. recul, which is more frequently used.",
+    "usage": [
+      {
+        "fr": "J’éprouve un certain — pour cet homme",
+        "en": "I feel a sort of aversion to this man."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "rescif",
+    "irregular_pronunciation": "rè-cif",
+    "pos": "n.m.",
+    "translation": "V. récif.",
+    "type": "Base"
+  },
+  {
+    "word": "ressif",
+    "irregular_pronunciation": "rè-sif",
+    "pos": "n.m.",
+    "translation": "V. récif.",
+    "type": "Base"
+  },
+  {
+    "word": "retorte",
+    "pos": "n.f.",
+    "translation": "(chem.) retort. V. cornue.",
+    "type": "Base"
+  },
+  {
+    "word": "rêtre",
+    "pos": "n.m.",
+    "translation": "V. reître.",
+    "type": "Base"
+  },
+  {
+    "word": "reversement",
+    "pos": "n.m.",
+    "translation": "(nav.) trans-shipment. V. transbordement.",
+    "type": "Base"
+  },
+  {
+    "word": "reverser",
+    "pos": "v.a.",
+    "translation": "to pour out again; to pour off; (nav.) to trans-ship (V. transborder); (com.) to transfer, to carry (forward or over).",
+    "type": "Base"
+  },
+  {
+    "word": "rhabdologie",
+    "pos": "n.f.",
+    "translation": "V. rabdologie.",
+    "type": "Base"
+  },
+  {
+    "word": "rhabdomancie",
+    "pos": "n.f.",
+    "translation": "V. rabdomancie.",
+    "type": "Base"
+  },
+  {
+    "word": "rhabillement",
+    "pos": "n.m.",
+    "translation": "V. rhabillage.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "rhabilleu-r",
+    "pos": "n.m.",
+    "translation": "V. rebouteur.",
+    "metadata": {
+      "feminineSuffix": "-se",
+      "femininePos": "n.f.",
+      "marker": "*"
+    },
+    "type": "baigneur"
+  },
+  {
+    "word": "rhapsode",
+    "pos": "n.m.",
+    "translation": "rhapsodie, n.f. , rhapsodiste, n.m. V. rapsode, rapsodie, rapsodiste.",
+    "type": "Base"
+  },
+  {
+    "word": "rhumb",
+    "pos": "n.m.",
+    "translation": "V. rumb.",
+    "type": "Base"
+  },
+  {
+    "word": "rhus",
+    "irregular_pronunciation": "rus",
+    "pos": "n.m.",
+    "translation": "V. sumac.",
+    "type": "Base"
+  },
+  {
+    "word": "rhythme",
+    "pos": "n.m.",
+    "translation": "V. rythme.",
+    "type": "Base"
+  },
+  {
+    "word": "rhythmique",
+    "pos": "adj.",
+    "translation": "V. rythmique.",
+    "type": "Base"
+  },
+  {
+    "word": "ricanerie",
+    "irregular_pronunciation": "-ka-n-rî",
+    "pos": "n.f.",
+    "translation": "V. ricanement.",
+    "type": "Base"
+  },
+  {
+    "word": "rièble",
+    "pos": "n.m.",
+    "translation": "V. grateron.",
+    "type": "Base"
+  },
+  {
+    "word": "rigaudon",
+    "pos": "n.m.",
+    "translation": "V. rigodon.",
+    "type": "Base"
+  },
+  {
+    "word": "ringrave",
+    "pos": "n.m.f.",
+    "translation": "V. rhingrave.",
+    "type": "Base"
+  },
+  {
+    "word": "risdale",
+    "pos": "n.f.",
+    "translation": "V. rixdale.",
+    "type": "Base"
+  },
+  {
+    "word": "rocou",
+    "pos": "",
+    "translation": ", rocouer, rocouyer. V. roucou, roucouer, roucouyer.",
+    "type": "Base"
+  },
+  {
+    "word": "roide",
+    "pos": "adj.",
+    "translation": "V. raide.",
+    "type": "Base"
+  },
+  {
+    "word": "roson",
+    "pos": "n.m.",
+    "translation": "V. rosace.",
+    "type": "Base"
+  },
+  {
+    "word": "roster",
+    "pos": "v.a.",
+    "translation": "V. rouster.",
+    "type": "Base"
+  },
+  {
+    "word": "rosture",
+    "pos": "n.f.",
+    "translation": "V. rousture.",
+    "type": "Base"
+  },
+  {
+    "word": "rotang",
+    "pos": "n.m.",
+    "translation": "V. rotin.",
+    "type": "Base"
+  },
+  {
+    "word": "rouannette",
+    "pos": "n.f.",
+    "translation": "(carp.). V. rainette.",
+    "type": "Base"
+  },
+  {
+    "word": "rouc",
+    "pos": "n.m.",
+    "translation": "V. rock.",
+    "type": "Base"
+  },
+  {
+    "word": "roudou",
+    "pos": "n.m.",
+    "translation": "V. redoul.",
+    "type": "Base"
+  },
+  {
+    "word": "rout",
+    "irregular_pronunciation": "raoot",
+    "pos": "n.m.",
+    "translation": "( — ) rout (assembly). V. raout.",
+    "type": "Base"
+  },
+  {
+    "word": "rouvre",
+    "pos": "n.m.",
+    "translation": "(bot.) English oak. V. roure.",
+    "type": "Base"
+  },
+  {
+    "word": "roux-vieux",
+    "pos": "n.m.",
+    "translation": "V. rouvieux.",
+    "type": "Base"
+  },
+  {
+    "word": "rubarbe",
+    "pos": "n.f.",
+    "translation": "V. rhubarbe.",
+    "type": "Base"
+  },
+  {
+    "word": "rum",
+    "pos": "n.m.",
+    "translation": "V. rhum.",
+    "type": "Base"
+  },
+  {
+    "word": "rustaudement",
+    "irregular_pronunciation": "-tô-dmān",
+    "pos": "adv.",
+    "translation": "(fam.). V. rustiquement.",
+    "type": "Base"
+  },
+  {
+    "word": "rustauderie",
+    "irregular_pronunciation": "-tô-drî",
+    "pos": "n.f.",
+    "translation": "(fam.). V. rusticité.",
+    "type": "Base"
+  },
+  {
+    "word": "rusturer",
+    "pos": "v.a.",
+    "translation": "V. rouster.",
+    "type": "Base"
+  },
+  {
+    "word": "sa",
+    "pos": "adj.f.",
+    "translation": "his, her, one’s, its. V. son.",
+    "type": "Base"
+  },
+  {
+    "word": "saillir",
+    "pos": "v.n.",
+    "translation": "( regular ) to gush, to spout out (of liquids). V. jaillir, which is much more generally used.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "sainbois",
+    "pos": "n.m.",
+    "translation": "(bot.) spurge-flax. V. garou.",
+    "type": "Base"
+  },
+  {
+    "word": "samscrit",
+    "pos": "adj.",
+    "translation": "V. sanscrit.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "sandjak",
+    "pos": "or",
+    "translation": "sandjiakat, n.m. V. sangiac.",
+    "type": "Base"
+  },
+  {
+    "word": "santal",
+    "pos": "n.m.",
+    "translation": "V. sandal.",
+    "type": "Base"
+  },
+  {
+    "word": "saoul",
+    "pos": "adj.",
+    "translation": "V. soûl.",
+    "type": "Base"
+  },
+  {
+    "word": "saouler",
+    "pos": "v.a.",
+    "translation": "V. soûler.",
+    "type": "Base"
+  },
+  {
+    "word": "sar",
+    "pos": "n.m.",
+    "translation": "V. sart.",
+    "type": "Base"
+  },
+  {
+    "word": "sarbotière",
+    "pos": "n.f.",
+    "translation": "V. sorbétière.",
+    "type": "Base"
+  },
+  {
+    "word": "sarrot",
+    "pos": "n.m.",
+    "translation": "V. sarrau.",
+    "type": "Base"
+  },
+  {
+    "word": "saussaie",
+    "pos": "n.f.",
+    "translation": "V. saulaie.",
+    "type": "Base"
+  },
+  {
+    "word": "savoyard",
+    "pos": "n.m.",
+    "translation": "Savoyard; native of Savoy; (fig.) ill-mannered, rude, unmannerly person. V. savoisien.",
+    "metadata": {
+      "feminineSuffix": "-e",
+      "femininePos": "n.f."
+    },
+    "type": "BaseWith2GenderNoun"
+  },
+  {
+    "word": "scariole",
+    "pos": "n.f.",
+    "translation": "V. escarole.",
+    "type": "Base"
+  },
+  {
+    "word": "schako",
+    "irregular_pronunciation": "sha-",
+    "pos": "n.m.",
+    "translation": "V. shako.",
+    "type": "Base"
+  },
+  {
+    "word": "schall",
+    "irregular_pronunciation": "shâl",
+    "pos": "n.m.",
+    "translation": "V. châle.",
+    "type": "Base"
+  },
+  {
+    "word": "scheik",
+    "irregular_pronunciation": "shèk",
+    "pos": "n.m.",
+    "translation": "V. cheik.",
+    "type": "Base"
+  },
+  {
+    "word": "schérif",
+    "irregular_pronunciation": "shé-",
+    "pos": "n.m.",
+    "translation": "( —s ). V. chérif and shérif.",
+    "type": "Base"
+  },
+  {
+    "word": "schnapan",
+    "irregular_pronunciation": "shna-",
+    "pos": "n.m.",
+    "translation": "V. chenapan.",
+    "type": "Base"
+  },
+  {
+    "word": "scholastique",
+    "pos": "",
+    "translation": "(sko-). V. scolastique.",
+    "type": "Base"
+  },
+  {
+    "word": "scholie",
+    "pos": "",
+    "translation": "(sko-). V. scolie.",
+    "type": "Base"
+  },
+  {
+    "word": "sciagraphie",
+    "pos": "n.f.",
+    "translation": "V. sciographie.",
+    "type": "Base"
+  },
+  {
+    "word": "scubac",
+    "pos": "n.m.",
+    "translation": "V. usquebac.",
+    "type": "Base"
+  },
+  {
+    "word": "scylla",
+    "pos": "n.m.",
+    "translation": "Scylla. V. charybde.",
+    "type": "Base"
+  },
+  {
+    "word": "secouement",
+    "pos": "n.m.",
+    "translation": "V. secoûment.",
+    "type": "Base"
+  },
+  {
+    "word": "seiche",
+    "pos": "n.f.",
+    "translation": "V. sèche.",
+    "type": "Base"
+  },
+  {
+    "word": "senelle",
+    "pos": "n.f.",
+    "translation": "V. cenelle.",
+    "type": "Base"
+  },
+  {
+    "word": "senne",
+    "pos": "n.f.",
+    "translation": "V. seine.",
+    "type": "Base"
+  },
+  {
+    "word": "sentène",
+    "pos": "n.f.",
+    "translation": "thread of a skein. V. centaine.",
+    "type": "Base"
+  },
+  {
+    "word": "septier",
+    "irregular_pronunciation": "se-tié",
+    "pos": "n.m.",
+    "translation": "V. setier.",
+    "type": "Base"
+  },
+  {
+    "word": "ses",
+    "irregular_pronunciation": "sè",
+    "pos": "adj.pl.",
+    "translation": "his, her, its, one’s. V. son.",
+    "type": "Base"
+  },
+  {
+    "word": "sgraffite",
+    "pos": "n.m.",
+    "translation": "V. graffite.",
+    "type": "Base"
+  },
+  {
+    "word": "shall",
+    "pos": "n.m.",
+    "translation": "V. châle.",
+    "type": "Base"
+  },
+  {
+    "word": "sheling",
+    "pos": "n.m.",
+    "translation": "V. schelling.",
+    "type": "Base"
+  },
+  {
+    "word": "sibarite",
+    "pos": "n.m.",
+    "translation": "V. sybarite.",
+    "type": "Base"
+  },
+  {
+    "word": "sicomore",
+    "pos": "n.f.",
+    "translation": "V. sycomore.",
+    "type": "Base"
+  },
+  {
+    "word": "sidéritis",
+    "pos": "n.m.",
+    "translation": "V. crapaudine.",
+    "type": "Base"
+  },
+  {
+    "word": "silouette",
+    "pos": "n.f.",
+    "translation": "V. silhouette.",
+    "type": "Base"
+  },
+  {
+    "word": "silves",
+    "pos": "n.f.pl.",
+    "translation": "V. sylves.",
+    "type": "Base"
+  },
+  {
+    "word": "simaise",
+    "pos": "n.f.",
+    "translation": "V. cimaise.",
+    "type": "Base"
+  },
+  {
+    "word": "siphilis",
+    "pos": "n.f.",
+    "translation": "V. syphilis.",
+    "type": "Base"
+  },
+  {
+    "word": "siphilitique",
+    "pos": "adj.",
+    "translation": "V. syphilitique.",
+    "type": "Base"
+  },
+  {
+    "word": "siroter",
+    "pos": "v.a.",
+    "translation": "to sip. V. déguster.",
+    "type": "Base"
+  },
+  {
+    "word": "sirtes",
+    "pos": "n.f.pl.",
+    "translation": "V. syrtes.",
+    "type": "Base"
+  },
+  {
+    "word": "six",
+    "pos": "n.m.",
+    "translation": "and adj. , six, sixth; sixth day. [For the pronunciation of this word, V. dix.]",
+    "type": "Base"
+  },
+  {
+    "word": "soie",
+    "pos": "n.f.",
+    "translation": "silk; hair (of a few species of dogs); bristle (of hogs); tongue (of knives, swords); (vet.) V. seime. — crue ,",
+    "usage": [
+      {
+        "fr": "— de bourre",
+        "en": "floss-silk."
+      },
+      {
+        "fr": "— grège",
+        "en": "raw silk."
+      },
+      {
+        "fr": "— plate",
+        "en": "floss-silk."
+      },
+      {
+        "fr": "Des jours filés d’or et de —",
+        "en": "halcyon days."
+      },
+      {
+        "fr": "Peau de —",
+        "en": "Japanese silk."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "sol",
+    "pos": "n.m.",
+    "translation": "soil; ground; ground-plot; (mus.) G , sol; coin. ☉V. sou.",
+    "type": "Base"
+  },
+  {
+    "word": "soleillé",
+    "pos": "adj.",
+    "translation": "V. ensoleillé.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "sopha",
+    "pos": "n.m.",
+    "translation": "V. sofa.",
+    "type": "Base"
+  },
+  {
+    "word": "sophi",
+    "pos": "n.m.",
+    "translation": "V. sofi.",
+    "type": "Base"
+  },
+  {
+    "word": "sor",
+    "pos": "",
+    "translation": ". V. saure.",
+    "type": "Base"
+  },
+  {
+    "word": "soret",
+    "pos": "",
+    "translation": ". V. sauret.",
+    "type": "Base"
+  },
+  {
+    "word": "soubarbe",
+    "pos": "n.f.",
+    "translation": "V. sous-barbe.",
+    "type": "Base"
+  },
+  {
+    "word": "soudiviser",
+    "pos": "v.a.",
+    "translation": "V. subdiviser.",
+    "type": "Base"
+  },
+  {
+    "word": "soufi",
+    "pos": "n.m.",
+    "translation": "V. sofi.",
+    "type": "Base"
+  },
+  {
+    "word": "sougarde",
+    "pos": "n.f.",
+    "translation": "V. sous-garde.",
+    "type": "Base"
+  },
+  {
+    "word": "sougorge",
+    "pos": "n.f.",
+    "translation": "V. sous-gorge.",
+    "type": "Base"
+  },
+  {
+    "word": "soupied",
+    "pos": "n.m.",
+    "translation": "V. sous-pied.",
+    "type": "Base"
+  },
+  {
+    "word": "sous-diviser",
+    "pos": "v.a.",
+    "translation": "V. subdiviser.",
+    "type": "Base"
+  },
+  {
+    "word": "sous-perpendiculaire",
+    "pos": "n.f.",
+    "translation": "V. sous-normale.",
+    "type": "Base"
+  },
+  {
+    "word": "soute",
+    "pos": "n.f.",
+    "translation": "(nav.) store-room.",
+    "usage": [
+      {
+        "fr": "— aux poudres",
+        "en": "(nav.) powder-magazine, powder-room. V. soulte."
+      },
+      {
+        "fr": "— à charbon",
+        "en": "coal-bunker; coal-chute."
+      },
+      {
+        "fr": "— au pain",
+        "en": "bread-room; bread-pan."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "soy",
+    "pos": "n.m.",
+    "translation": "V. souï.",
+    "type": "Base"
+  },
+  {
+    "word": "spalme",
+    "pos": "n.m.",
+    "translation": "(nav.) paying-stuff. V. courée or courai.",
+    "type": "Base"
+  },
+  {
+    "word": "spalmer",
+    "pos": "v.a.",
+    "translation": "to grave, to pitch, to pay (a ship). V. espalmer.",
+    "type": "Base"
+  },
+  {
+    "word": "sparton",
+    "pos": "n.m.",
+    "translation": "V. spartan.",
+    "type": "Base"
+  },
+  {
+    "word": "sponton",
+    "pos": "n.m.",
+    "translation": "V. esponton.",
+    "type": "Base"
+  },
+  {
+    "word": "squinancie",
+    "pos": "",
+    "translation": ". V. esquinancie.",
+    "type": "Base"
+  },
+  {
+    "word": "stagnon",
+    "pos": "n.m.",
+    "translation": "V. estagnon.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "stokfiche",
+    "pos": "n.m.",
+    "translation": "V. stockfisch.",
+    "type": "Base"
+  },
+  {
+    "word": "strapassonner",
+    "pos": "v.a.",
+    "translation": "(paint.). V. strapasser.",
+    "type": "Base"
+  },
+  {
+    "word": "stribord",
+    "pos": "n.m.",
+    "translation": "(nav.). V. tribord.",
+    "type": "Base"
+  },
+  {
+    "word": "striures",
+    "pos": "n.f.pl.",
+    "translation": "V. strie.",
+    "type": "Base"
+  },
+  {
+    "word": "strobile",
+    "pos": "n.m.",
+    "translation": "(bot.). V. cône (bot.).",
+    "type": "Base"
+  },
+  {
+    "word": "stryge",
+    "pos": "n.m.",
+    "translation": "V. strige.",
+    "type": "Base"
+  },
+  {
+    "word": "stygmate",
+    "pos": "n.m.",
+    "translation": "V. stigmate.",
+    "type": "Base"
+  },
+  {
+    "word": "suiver",
+    "pos": "v.a.",
+    "translation": "to tallow. V. suifer.",
+    "type": "Base"
+  },
+  {
+    "word": "sunnite",
+    "pos": "n.m.",
+    "translation": "V. schiite.",
+    "type": "Base"
+  },
+  {
+    "word": "suranner",
+    "irregular_pronunciation": "-ra-né",
+    "pos": "v.r.",
+    "translation": "to be past one year’s date, to expire. [Little used. V. périmer.]",
+    "metadata": {
+      "reflexive": "se"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "surpeau",
+    "pos": "n.f.",
+    "translation": "(l.u.) epidermis. V. épiderme.",
+    "type": "Base"
+  },
+  {
+    "word": "surveille",
+    "pos": "n.f.",
+    "translation": "V. avant-veille.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "synanthérie",
+    "pos": "n.f.",
+    "translation": "V. syngénésie.",
+    "type": "Base"
+  },
+  {
+    "word": "syphon",
+    "pos": "n.m.",
+    "translation": "V. siphon.",
+    "type": "Base"
+  },
+  {
+    "word": "syrop",
+    "pos": "",
+    "translation": ". V. sirop.",
+    "type": "Base"
+  },
+  {
+    "word": "tænia",
+    "pos": "n.m.",
+    "translation": "V. ténia.",
+    "type": "Base"
+  },
+  {
+    "word": "talle",
+    "pos": "n.f.",
+    "translation": "(hort.) sucker. V. drageon.",
+    "type": "Base"
+  },
+  {
+    "word": "taller",
+    "pos": "v.n.",
+    "translation": "(hort.) to shoot, to throw out suckers. V. drageonner.",
+    "type": "Base"
+  },
+  {
+    "word": "tartarique",
+    "pos": "adj.",
+    "translation": "tartaric. V. tartrique.",
+    "type": "Base"
+  },
+  {
+    "word": "taudion",
+    "pos": "n.m.",
+    "translation": "(pop.). V. taudis.",
+    "type": "Base"
+  },
+  {
+    "word": "taupe",
+    "pos": "n.f.",
+    "translation": "(mam.) mole; (vet.) ☉poll-evil; (med.) ☉wen, V. loupe; (pers.) cunning fox, intriguing person.",
+    "type": "Base"
+  },
+  {
+    "word": "tauréador",
+    "pos": "n.m.",
+    "translation": "( —s ). V. toréador.",
+    "type": "Base"
+  },
+  {
+    "word": "tayaut",
+    "pos": "n.m.",
+    "translation": "(hunt.). V. taïaut.",
+    "type": "Base"
+  },
+  {
+    "word": "teignasse",
+    "pos": "n.f.",
+    "translation": "V. tignasse.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "teillage",
+    "pos": "n.m.",
+    "translation": "V. tillage.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "teille",
+    "pos": "n.f.",
+    "translation": "V. tille.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "teiller",
+    "pos": "v.a.",
+    "translation": "V. tiller.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "teilleur",
+    "pos": "n.m.",
+    "translation": "(agri.). V. tilleur.",
+    "metadata": {
+      "feminineSuffix": "-se",
+      "femininePos": "n.f.",
+      "marker": "*"
+    },
+    "type": "baigneur"
+  },
+  {
+    "word": "temporiseur",
+    "pos": "n.m.",
+    "translation": "(l.u.). V. temporisateur.",
+    "type": "Base"
+  },
+  {
+    "word": "tépide",
+    "pos": "adj.",
+    "translation": "(l.u.). V. tiède.",
+    "type": "Base"
+  },
+  {
+    "word": "tépidité",
+    "pos": "n.f.",
+    "translation": "(l.u.). V. tiédeur.",
+    "type": "Base"
+  },
+  {
+    "word": "termès",
+    "pos": "n.m.",
+    "translation": "V. termite.",
+    "type": "Base"
+  },
+  {
+    "word": "terre d’ombre",
+    "pos": "n.f.",
+    "translation": "V. ombre.",
+    "type": "Base"
+  },
+  {
+    "word": "terser",
+    "irregular_pronunciation": "tèr-",
+    "pos": "v.a.",
+    "translation": "V. tercer.",
+    "type": "Base"
+  },
+  {
+    "word": "théorbe",
+    "pos": "n.m.",
+    "translation": "V. téorbe.",
+    "type": "Base"
+  },
+  {
+    "word": "thuya",
+    "pos": "n.m.",
+    "translation": "V. thuia.",
+    "type": "Base"
+  },
+  {
+    "word": "tiercer",
+    "irregular_pronunciation": "tièrsé",
+    "pos": "v.a.",
+    "translation": "and n. , (thea.) to raise prices one third; ☉(jur.) to outbid by one third a price offered; (agri.) to plow a third time. V. tercer.",
+    "type": "Base"
+  },
+  {
+    "word": "tignon",
+    "pos": "n.m.",
+    "translation": "V. chignon.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "tintenague",
+    "irregular_pronunciation": "tīnt-nag",
+    "pos": "n.f.",
+    "translation": "V. toutenague.",
+    "type": "Base"
+  },
+  {
+    "word": "tiretaine",
+    "irregular_pronunciation": "tir-tè-n",
+    "pos": "n.f.",
+    "translation": "linsey-woolsey. V. breluche.",
+    "type": "Base"
+  },
+  {
+    "word": "toaster",
+    "irregular_pronunciation": "tos-té",
+    "pos": "v.a.",
+    "translation": "V. toster.",
+    "type": "Base"
+  },
+  {
+    "word": "tondaison",
+    "pos": "n.f.",
+    "translation": "V. tonte.",
+    "type": "Base"
+  },
+  {
+    "word": "tonsille",
+    "pos": "n.f.",
+    "translation": "(l.u.) (anat.) tonsil. V. amygdale.",
+    "type": "Base"
+  },
+  {
+    "word": "torisme",
+    "pos": "n.m.",
+    "translation": "V. torysme.",
+    "type": "Base"
+  },
+  {
+    "word": "tortelle",
+    "pos": "n.f.",
+    "translation": "hedge-mustard. V. vélar.",
+    "type": "Base"
+  },
+  {
+    "word": "tortillère",
+    "pos": "n.f.",
+    "translation": "V. tortille.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "toste",
+    "pos": "n.m.",
+    "translation": "V. toast.",
+    "type": "Base"
+  },
+  {
+    "word": "toug",
+    "pos": "n.m.",
+    "translation": "V. touc.",
+    "type": "Base"
+  },
+  {
+    "word": "tous",
+    "pos": "adj.m.pl.",
+    "translation": "toutes, adj.f.pl. V. tout.",
+    "type": "Base"
+  },
+  {
+    "word": "tramer",
+    "pos": "v.a.",
+    "translation": "to weave; to plot, to brew, to contrive, to hatch.",
+    "usage": [
+      {
+        "fr": "— une étoffe de soie",
+        "en": "to weave a stuff with a silk woof."
+      },
+      {
+        "fr": "— une conspiration",
+        "en": "to hatch a plot. V. ourdir."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "trantran",
+    "pos": "n.m.",
+    "translation": "(fam.) routine, habits, regular course; knack (in treating certain things).",
+    "usage": [
+      {
+        "fr": "Savoir le —",
+        "en": "to be an old stager."
+      },
+      {
+        "fr": "Savoir le — du palais",
+        "en": "(fam.) to know the ins and outs of the law courts. V. train-train."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "trémail",
+    "pos": "n.m.",
+    "translation": "V. tramail.",
+    "type": "Base"
+  },
+  {
+    "word": "très-fonds",
+    "pos": "n.m.",
+    "translation": "( — ). V. tréfonds.",
+    "type": "Base"
+  },
+  {
+    "word": "tril",
+    "pos": "n.m.",
+    "translation": "(mus.). V. trille.",
+    "type": "Base"
+  },
+  {
+    "word": "trilatère",
+    "pos": "n.m.",
+    "translation": "(l.u.). V. triangle.",
+    "type": "Base"
+  },
+  {
+    "word": "tripan",
+    "pos": "n.m.",
+    "translation": "V. trépang.",
+    "type": "Base"
+  },
+  {
+    "word": "tripe-madame",
+    "pos": "n.f.",
+    "translation": "( — ). V. trique-madame.",
+    "type": "Base"
+  },
+  {
+    "word": "trois-quarts",
+    "pos": "n.m.",
+    "translation": "( — ). V. trocart.",
+    "type": "Base"
+  },
+  {
+    "word": "trompette",
+    "pos": "n.f.",
+    "translation": "(mus.) trumpet; (fig.) trumpeter, gossip, tell-tale; (conch.) trumpet-shell. Sans — ,",
+    "usage": [
+      {
+        "fr": "— parlante",
+        "en": "(l.u.) speaking-trumpet. V. porte-voix."
+      },
+      {
+        "fr": "— marine",
+        "en": "one-stringed violoncello."
+      },
+      {
+        "fr": "— à clef",
+        "en": "key-bugle."
+      },
+      {
+        "fr": "Sonner de la —",
+        "en": "to blow the trumpet."
+      },
+      {
+        "fr": "En —",
+        "en": "(of the nose) turned up."
+      },
+      {
+        "fr": "sans tambour ni —",
+        "en": "silently, quietly, without noise; privately."
+      },
+      {
+        "fr": "Déloger sans —",
+        "en": "to decamp silently, without noise."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "trotte-chemin",
+    "pos": "n.m.",
+    "translation": "( — ) (orni.). V. traquet.",
+    "type": "Base"
+  },
+  {
+    "word": "trousse-col",
+    "pos": "n.m.",
+    "translation": "( —-—s ). V. torcol.",
+    "type": "Base"
+  },
+  {
+    "word": "truble",
+    "pos": "n.f.",
+    "translation": "V. trouble.",
+    "type": "Base"
+  },
+  {
+    "word": "truc",
+    "pos": "n.m.",
+    "translation": "(thea.) machinery; (pop.) knack, dodge, trick.",
+    "usage": [
+      {
+        "fr": "Il a le —",
+        "en": "he has the knack of doing it, he is up to it. V. truck."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "trusquin",
+    "pos": "n.m.",
+    "translation": "V. troussequin.",
+    "type": "Base"
+  },
+  {
+    "word": "tsar",
+    "pos": "n.m.",
+    "translation": "V. czar.",
+    "type": "Base"
+  },
+  {
+    "word": "tsarien",
+    "pos": "",
+    "translation": ", tsarine, tsarowitz. V. czarien, czarine, czarowitz.",
+    "type": "Base"
+  },
+  {
+    "word": "tuant",
+    "pos": "adj.",
+    "translation": "killing, toilsome, tiresome, laborious, tedious.",
+    "usage": [
+      {
+        "fr": "C’est un homme —",
+        "en": "he is a regular bore. V. assommant."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine"
+  },
+  {
+    "word": "tuorbe",
+    "pos": "n.m.",
+    "translation": "V. téorbe.",
+    "type": "Base"
+  },
+  {
+    "word": "tutrice",
+    "pos": "n.f.",
+    "translation": "V. tuteur.",
+    "type": "Base"
+  },
+  {
+    "word": "tzar",
+    "pos": "n.m.",
+    "translation": "V. czar.",
+    "type": "Base"
+  },
+  {
+    "word": "unciale",
+    "irregular_pronunciation": "ōn-",
+    "pos": "adj.f.",
+    "translation": "V. onciale.",
+    "type": "Base"
+  },
+  {
+    "word": "urus",
+    "pos": "n.m.",
+    "translation": "V. ure.",
+    "type": "Base"
+  },
+  {
+    "word": "v",
+    "pos": "voir",
+    "translation": "to see). V. , vide.",
+    "type": "Base"
+  },
+  {
+    "word": "vau-de-route",
+    "pos": "adv.",
+    "translation": "V. à vau-l’eau.",
+    "metadata": {
+      "reflexive": "à"
+    },
+    "type": "BaseWithReflexive"
+  },
+  {
+    "word": "vendication",
+    "pos": "n.f.",
+    "translation": "V. revendication.",
+    "type": "Base"
+  },
+  {
+    "word": "vendiquer",
+    "pos": "v.a.",
+    "translation": "V. revendiquer.",
+    "type": "Base"
+  },
+  {
+    "word": "veni-mecum",
+    "irregular_pronunciation": "vé-ni-mé-co-m",
+    "pos": "n.m.",
+    "translation": "( — ). V. vade-mecum.",
+    "type": "Base"
+  },
+  {
+    "word": "verd",
+    "pos": "adj.",
+    "translation": "V. vert.",
+    "type": "Base"
+  },
+  {
+    "word": "verglacer",
+    "pos": "v.imp.",
+    "translation": "(old).",
+    "usage": [
+      {
+        "fr": "Il verglace",
+        "en": "the rain freezes as it falls. V. verglas."
+      }
+    ],
+    "type": "Base"
+  },
+  {
+    "word": "verne",
+    "pos": "n.m.",
+    "translation": "(bot.). V. vergne.",
+    "type": "Base"
+  },
+  {
+    "word": "véron",
+    "pos": "n.m.",
+    "translation": "V. vairon.",
+    "type": "Base"
+  },
+  {
+    "word": "vétyver",
+    "irregular_pronunciation": "-vèr",
+    "pos": "n.m.",
+    "translation": "V. vétiver.",
+    "type": "Base"
+  },
+  {
+    "word": "victuaille",
+    "pos": "n.f.",
+    "translation": "(l.u.) provisions. pl. , (nav.) ☉stores, victuals, eatables. V. vivres.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "vieil",
+    "pos": "adj.",
+    "translation": "V. vieux.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "vieille",
+    "pos": "adj.",
+    "translation": "V. vieux.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "vigneau",
+    "pos": "n.m.",
+    "translation": "V. vignot.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker"
+  },
+  {
+    "word": "vilité",
+    "pos": "n.f.",
+    "translation": "V. vileté.",
+    "type": "Base"
+  },
+  {
+    "word": "virevaude",
+    "pos": "n.f.",
+    "translation": "V. vire-vire.",
+    "type": "Base"
+  },
+  {
+    "word": "visir",
+    "pos": "n.m.",
+    "translation": "V. vizir.",
+    "type": "Base"
+  },
+  {
+    "word": "visirat",
+    "pos": "n.m.",
+    "translation": "V. vizirat.",
+    "type": "Base"
+  },
+  {
+    "word": "vivifique",
+    "pos": "adj.",
+    "translation": "(l.u.) vivifying, life-giving. V. vivifiant.",
+    "type": "Base"
+  },
+  {
+    "word": "voguer",
+    "irregular_pronunciation": "-ghé",
+    "pos": "v.n.",
+    "translation": "(nav.) to impel a boat (by rowing); to ride, to sail; to row (l.u.). V. ramer, nager. Vogue la galère! come what may!",
+    "type": "Base"
+  },
+  {
+    "word": "voiturier",
+    "pos": "n.m.",
+    "translation": "carrier; wagoner; driver. V. roulier.",
+    "type": "Base"
+  },
+  {
+    "word": "vraque",
+    "pos": "n.m.",
+    "translation": "V. vrac.",
+    "type": "Base"
+  },
+  {
+    "word": "walkyrie",
+    "pos": "n.f.",
+    "translation": "( —s ). V. valkyrie.",
+    "type": "Base"
+  },
+  {
+    "word": "wisk",
+    "pos": "n.m.",
+    "translation": "V. whist.",
+    "type": "Base"
+  },
+  {
+    "word": "wiskey",
+    "pos": "n.m.",
+    "translation": "V. whiskey.",
+    "type": "Base"
+  },
+  {
+    "word": "yèble",
+    "pos": "n.m.",
+    "translation": "V. hièble.",
+    "type": "Base"
+  },
+  {
+    "word": "ysard",
+    "pos": "n.m.",
+    "translation": "V. isard.",
+    "type": "Base"
+  },
+  {
+    "word": "zist",
+    "irregular_pronunciation": "zist",
+    "pos": "n.m.",
+    "translation": "V. zest.",
+    "type": "Base"
+  },
+  {
+    "word": "zoologue",
+    "pos": "n.m.",
+    "translation": "V. zoologiste.",
+    "type": "Base"
+  }
+]

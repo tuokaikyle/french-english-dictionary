@@ -8,6 +8,7 @@ type Base = {
   pos: string;
   translation: string;
   usage?: { fr: string; en: string }[];
+  redirects?: string[]
 }
 
 // b-text-b-text-i-text 
@@ -91,4 +92,10 @@ type BaseWithAltSpelling = Base & {
   metadata: {
     altSpelling: string;    // e.g. "aboîment", "acarus", "antiphonaire"
   }
+}
+
+type SpecialRedirect = {
+  word: string;
+  text: string;
+  redirects: string[];
 }

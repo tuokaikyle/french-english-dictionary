@@ -402,6 +402,23 @@ def extract_base_with_alt_spelling(seq, start_idx=0):
     }
 
 
+def extract_word_only(seq, start_idx=0):
+    """
+    Pattern: b, text  (word only, no pos — everything after the word is text).
+    Used for redirect entries where V. and targets were dissolved.
+    Example: <b>abéquer</b>. V. abecquer.
+    """
+    word = seq[start_idx][1].get_text().strip()
+    translation = ''
+    if start_idx + 1 < len(seq) and seq[start_idx + 1][0] == 'text':
+        translation = normalize_ws(seq[start_idx + 1][1])
+    return {
+        'word': word,
+        'pos': '',
+        'translation': translation,
+    }
+
+
 # ---------------------------------------------------------------------------
 # Dispatch table: collapsed pattern -> (type_name, extractor)
 # ---------------------------------------------------------------------------
@@ -416,6 +433,11 @@ PATTERN_MAP = {
     'text-b-text-b-text-i-text':   ('bouillonnant',             extract_marker_feminine),
     'text-b-text-i-text-b-text-i-text': ('baigneur',            extract_marker_2gender),
     'text-i-b-text-i-text':     ('barbouiller',                 extract_marker_reflexive),
+    # Truncated / word-only patterns (from redirects):
+    'b-text':                   ('Base',                        extract_word_only),
+    'text-b-text':              ('BaseWithMarker',              extract_base_with_marker),
+    'i-b-text':                 ('BaseWithReflexive',           extract_base_with_reflexive),
+    'b-text-b-text':            ('BaseWithFeminine',            extract_base_with_feminine),
 }
 
 
@@ -428,6 +450,18 @@ def main():
         description='Parse clean.html <p> tags into typed JSON entries.'
     )
     parser.add_argument(
+        '-i', '--input',
+        type=str,
+        default=None,
+        help='Path to input HTML file (default: step3_clean_book/clean.html)'
+    )
+    parser.add_argument(
+        '-o', '--output',
+        type=str,
+        default=None,
+        help='Path to output JSON file (default: step4_construct/entries.json)'
+    )
+    parser.add_argument(
         '-v', '--verbose',
         action='store_true',
         help='Print summary of matched/skipped entries.'
@@ -435,8 +469,8 @@ def main():
     args = parser.parse_args()
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    clean_html = os.path.join(script_dir, '..', 'step3_clean_book', 'clean.html')
-    output_json = os.path.join(script_dir, 'entries.json')
+    clean_html = args.input or os.path.join(script_dir, '..', 'step3_clean_book', 'clean.html')
+    output_json = args.output or os.path.join(script_dir, 'entries.json')
 
     with open(clean_html, 'r', encoding='utf-8') as f:
         soup = BeautifulSoup(f.read(), 'html.parser')
