@@ -366,6 +366,41 @@ def extract_marker_reflexive(seq, start_idx=0):
     return entry
 
 
+def extract_base_with_alt_spelling(seq, start_idx=0):
+    """
+    Pattern: b, i, b, text, i, text, (i, text)*
+    Examples:
+      <b>aboiement</b> <i>or</i> <b>aboîment</b> (-boa-mān), <i>n.m.</i>, barking...
+      <b>acare</b> <i>or</i> <b>acarus</b>, <i>n.m.</i>, acarus, itch...
+    """
+    word = seq[start_idx][1].get_text().strip()
+    alt_spelling = seq[start_idx + 2][1].get_text().strip()
+
+    # pronunciation from text between second b and pos i (None if absent)
+    pron = extract_pronunciation(seq[start_idx + 3][1]) or None if start_idx + 3 < len(seq) and seq[start_idx + 3][0] == 'text' else None
+
+    # pos from i after the second b
+    pos = ''
+    if start_idx + 4 < len(seq) and seq[start_idx + 4][0] == 'i':
+        pos = seq[start_idx + 4][1].get_text().strip()
+
+    # translation + usage + plural from everything after the pos <i>
+    translation, usage, plural = extract_translation_and_usage(seq, start_idx + 5)
+
+    metadata = {'altSpelling': alt_spelling}
+    if plural:
+        metadata['plural'] = plural
+
+    return {
+        'word': word,
+        'pronunciation': pron,
+        'pos': pos,
+        'translation': translation,
+        'usage': usage or None,
+        'metadata': metadata,
+    }
+
+
 # ---------------------------------------------------------------------------
 # Dispatch table: collapsed pattern -> (type_name, extractor)
 # ---------------------------------------------------------------------------
@@ -376,6 +411,7 @@ PATTERN_MAP = {
     'i-b-text-i-text':          ('BaseWithReflexive',           extract_base_with_reflexive),
     'text-b-text-i-text':       ('BaseWithMarker',              extract_base_with_marker),
     'b-text-i-text-b-text-i-text': ('BaseWith2GenderNoun',      extract_base_with_2gender),
+    'b-i-b-text-i-text':        ('BaseWithAltSpelling',         extract_base_with_alt_spelling),
     'text-b-text-b-text-i-text':   ('bouillonnant',             extract_marker_feminine),
     'text-b-text-i-text-b-text-i-text': ('baigneur',            extract_marker_2gender),
     'text-i-b-text-i-text':     ('barbouiller',                 extract_marker_reflexive),

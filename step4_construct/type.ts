@@ -84,4 +84,13 @@ type withPluralNotation = Base & {
   }
 }
 
+// b-i-b-text-i-text
+// <p><b>aboiement</b> <i>or</i> <b>aboîment</b> (-boa-mān), <i>n.m.</i>, barking, baying.</p>
+// <p><b>acare</b> <i>or</i> <b>acarus</b>, <i>n.m.</i>, acarus, itch, animalcule, mite.</p>
+type BaseWithAltSpelling = Base & {
+  metadata: {
+    altSpelling: string;    // e.g. "aboîment", "acarus", "antiphonaire"
+  }
+}
+
 

@@ -1266,6 +1266,16 @@
     "type": "Base"
   },
   {
+    "word": "aboiement",
+    "pronunciation": "-boa-mān",
+    "pos": "n.m.",
+    "translation": ", barking, baying.",
+    "metadata": {
+      "altSpelling": "aboîment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "abois",
     "pos": "n.m.pl.",
     "translation": ", despairing condition, last shift, distress.",
@@ -2632,6 +2642,15 @@
     "pos": "n.f.",
     "translation": ", acanthus, bear’s foot.",
     "type": "Base"
+  },
+  {
+    "word": "acare",
+    "pos": "n.m.",
+    "translation": ", acarus, itch, animalcule, mite.",
+    "metadata": {
+      "altSpelling": "acarus"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "acariâtre",
@@ -18291,6 +18310,15 @@
     "type": "Base"
   },
   {
+    "word": "antiphonier",
+    "pos": "n.m.",
+    "translation": ", antiphonary.",
+    "metadata": {
+      "altSpelling": "antiphonaire"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "antiphrase",
     "pos": "n.f.",
     "translation": ", antiphrasis, irony.",
@@ -21374,6 +21402,15 @@
     "pos": "adj.",
     "translation": ", (anat.) arachnoid; cobwebbed.",
     "type": "Base"
+  },
+  {
+    "word": "arack",
+    "pos": "n.m.",
+    "translation": ", a spirituous liquor; arrack.",
+    "metadata": {
+      "altSpelling": "rack"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "araignée",
@@ -25669,6 +25706,15 @@
     "type": "Base"
   },
   {
+    "word": "aspergerie",
+    "pos": "n.f.",
+    "translation": ", asparagus-bed or ground.",
+    "metadata": {
+      "altSpelling": "aspergière"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "aspergés",
     "pronunciation": "-jèss",
     "pos": "n.m.",
@@ -25710,6 +25756,21 @@
     "pos": "n.m.",
     "translation": ", asphalt, asphaltum.",
     "type": "Base"
+  },
+  {
+    "word": "asphaltique",
+    "pos": "adj.",
+    "translation": ", asphaltic, bituminous.",
+    "usage": [
+      {
+        "fr": "Le lac —",
+        "en": "the asphaltic lake, the Dead Sea."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "asphaltite"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "asphodèle",
@@ -27544,6 +27605,15 @@
     "type": "Base"
   },
   {
+    "word": "atermoiement",
+    "pos": "n.m.",
+    "translation": ", delay of payment; composition, delay, evasion, shift.",
+    "metadata": {
+      "altSpelling": "atermoîment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "atermoyer",
     "pos": "v.a.",
     "translation": ", to put off; to delay a payment.",
@@ -28899,6 +28969,15 @@
     "type": "Base"
   },
   {
+    "word": "attisoir",
+    "pos": "n.m.",
+    "translation": ", (in foundries), poker.",
+    "metadata": {
+      "altSpelling": "attisonnoir"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "attitrer",
     "pos": "v.a.",
     "translation": ", (seldom used but in the past participle ) to appoint, to recognize; to bribe.",
@@ -29848,6 +29927,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "aumusse",
+    "pos": "n.f.",
+    "translation": ", amess, hood (priest’s garment).",
+    "metadata": {
+      "altSpelling": "aumuce"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "aunage",
     "pos": "n.m.",
     "translation": ", alnage, ell-measure.",
@@ -29864,6 +29952,15 @@
     "pos": "n.m.",
     "translation": ", alder-tree.",
     "type": "Base"
+  },
+  {
+    "word": "aunée",
+    "pos": "n.f.",
+    "translation": ", (bot.) elecampane.",
+    "metadata": {
+      "altSpelling": "aulnée"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "auner",
@@ -30132,6 +30229,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "aussière",
+    "pos": "n.f.",
+    "translation": ", (nav.) hawser, small cable, warp.",
+    "metadata": {
+      "altSpelling": "haussière"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "aussitôt",
@@ -34454,6 +34560,15 @@
     "type": "Base"
   },
   {
+    "word": "baïram",
+    "pos": "n.m.",
+    "translation": ", Baïram (Turkish feast).",
+    "metadata": {
+      "altSpelling": "beiram"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "baisement",
     "pos": "n.m.",
     "translation": ", kissing of feet; (geom.) osculation.",
@@ -35850,6 +35965,15 @@
     "pos": "n.f.",
     "translation": ", suburbs, outskirts (of a town).",
     "type": "Base"
+  },
+  {
+    "word": "bannatte",
+    "pos": "n.f.",
+    "translation": ", tallow sieve or strainer.",
+    "metadata": {
+      "altSpelling": "bannasse"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "banne",
@@ -37585,6 +37709,15 @@
     "type": "Base"
   },
   {
+    "word": "basilicon",
+    "pos": "n.m.",
+    "translation": ", ointment, basilicon.",
+    "metadata": {
+      "altSpelling": "basilicum"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "basilique",
     "pos": "n.f.",
     "translation": ", (anat., arch.) basilic, basilica.",
@@ -39300,6 +39433,15 @@
     "type": "BaseWithMarker"
   },
   {
+    "word": "bécard",
+    "pos": "n.m.",
+    "translation": ", female salmon.",
+    "metadata": {
+      "altSpelling": "beccard"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "bécane",
     "pos": "n.f.",
     "translation": ", bike, bicycle.",
@@ -39437,6 +39579,30 @@
     "type": "Base"
   },
   {
+    "word": "becquée",
+    "pos": "n.f.",
+    "translation": ", a billful.",
+    "usage": [
+      {
+        "fr": "Donner la — à un oiseau",
+        "en": "to feed a bird."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "béquée"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "becqueter",
+    "pos": "v.a.",
+    "translation": ", to peck.",
+    "metadata": {
+      "altSpelling": "béqueter"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "bécune",
     "pos": "n.f.",
     "translation": ", (ich.) trumpet-fish, sea-snipe.",
@@ -39495,6 +39661,16 @@
     "pos": "n.m.",
     "translation": ", belfry; watch-tower; steeple; alarm-bell.",
     "type": "Base"
+  },
+  {
+    "word": "bégaiement",
+    "pronunciation": "-ghê-mān",
+    "pos": "n.m.",
+    "translation": ", stammering, faltering.",
+    "metadata": {
+      "altSpelling": "bégayement"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "bégayer",
@@ -40335,6 +40511,21 @@
     "pos": "n.m.",
     "translation": ", chariot resembling a berlin, sort of gig.",
     "type": "Base"
+  },
+  {
+    "word": "berloque",
+    "pos": "n.f.",
+    "translation": ", (milit.) dinner-drum, breakfast-drum. (fig.)",
+    "usage": [
+      {
+        "fr": "Battre la —",
+        "en": "to talk at random."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "breloque"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "berlue",
@@ -42671,6 +42862,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "bischof",
+    "pos": "n.m.",
+    "translation": ", bishop (liquor).",
+    "metadata": {
+      "altSpelling": "bishof"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "biscornu",
     "pos": "adj.",
     "translation": ", outlandish, odd, queer.",
@@ -42976,6 +43176,24 @@
     "pos": "n.m.",
     "translation": ", bivalve.",
     "type": "Base"
+  },
+  {
+    "word": "bivouac",
+    "pos": "n.m.",
+    "translation": ", bivouac.",
+    "metadata": {
+      "altSpelling": "bivac"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "bivouaquer",
+    "pos": "v.n.",
+    "translation": ", to bivouac.",
+    "metadata": {
+      "altSpelling": "bivaquer"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "bizarre",
@@ -43692,6 +43910,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "blète",
+    "pos": "n.f.",
+    "translation": ", (bot.) blite, strawberry-spinach; kind of amaranth, flower-gentle.",
+    "metadata": {
+      "altSpelling": "blette"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "bleu",
     "pos": "adj.",
     "translation": ", blue.",
@@ -43997,6 +44224,15 @@
     "pos": "n.m.",
     "translation": ", bolting, sifting (of flour).",
     "type": "Base"
+  },
+  {
+    "word": "bluteau",
+    "pos": "n.m.",
+    "translation": ", bolter, bolting-mill.",
+    "metadata": {
+      "altSpelling": "blutoir"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "bluter",
@@ -47193,6 +47429,16 @@
     "type": "Base"
   },
   {
+    "word": "boulevard",
+    "pronunciation": "bool-var",
+    "pos": "n.m.",
+    "translation": ", bulwark, rampart; boulevard.",
+    "metadata": {
+      "altSpelling": "boulevart"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "bouleversement",
     "pronunciation": "bool-vers-mān",
     "pos": "n.m.",
@@ -47784,6 +48030,15 @@
     "type": "Base"
   },
   {
+    "word": "bourrelet",
+    "pos": "n.m.",
+    "translation": ", pad; cushion; sand-bag; swelling (about the loins); padded cap; (of horses) collar.",
+    "metadata": {
+      "altSpelling": "bourlet"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "bourrelier",
     "pronunciation": "boor-",
     "pos": "n.m.",
@@ -48000,6 +48255,25 @@
     "type": "Base"
   },
   {
+    "word": "bousard",
+    "pos": "n.m.",
+    "translation": ", deer’s dung.",
+    "metadata": {
+      "altSpelling": "bouzard"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "bousculade",
+    "pronunciation": "boos-kul-mān",
+    "pos": "n.m.",
+    "translation": ", jostling, hustling; bullying.",
+    "metadata": {
+      "altSpelling": "bousculement"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "bousculer",
     "pronunciation": "boos-",
     "pos": "v.a.",
@@ -48083,6 +48357,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "boutargue",
+    "pos": "n.f.",
+    "translation": ", botargo.",
+    "metadata": {
+      "altSpelling": "botargue"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "bouté",
@@ -48378,6 +48661,15 @@
     "pos": "n.f.",
     "translation": ", (hort.) slip; cutting.",
     "type": "Base"
+  },
+  {
+    "word": "bouvart",
+    "pos": "n.m.",
+    "translation": ", young bull.",
+    "metadata": {
+      "altSpelling": "bouveau"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "bouverie",
@@ -49411,6 +49703,15 @@
       "plural": "—s"
     },
     "type": "Base"
+  },
+  {
+    "word": "bréant",
+    "pos": "n.m.",
+    "translation": ", (orni.) bunting, yellow-hammer.",
+    "metadata": {
+      "altSpelling": "bruant"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "brebis",
@@ -53156,6 +53457,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "câbleau",
+    "pos": "n.m.",
+    "translation": ", cablet, small cable; mooring-rope, painter.",
+    "metadata": {
+      "altSpelling": "câblot"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "câblée",
     "pos": "n.f.",
     "translation": ", cable’s length.",
@@ -53341,6 +53651,15 @@
     "type": "Base"
   },
   {
+    "word": "cacaotier",
+    "pos": "n.m.",
+    "translation": ", cacao-tree.",
+    "metadata": {
+      "altSpelling": "cacaoyer"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "cacaoyère",
     "pos": "n.f.",
     "translation": ", cacao-plantation.",
@@ -53351,6 +53670,15 @@
     "pos": "n.m.",
     "translation": ", (nav.) royal, mast-top.",
     "type": "Base"
+  },
+  {
+    "word": "cacatois",
+    "pos": "n.m.",
+    "translation": ", (orni.) cockatoo.",
+    "metadata": {
+      "altSpelling": "kakatoès"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "caccaber",
@@ -53645,6 +53973,15 @@
     "pos": "n.f.",
     "translation": ", (med.) cacotrophy.",
     "type": "Base"
+  },
+  {
+    "word": "cactier",
+    "pos": "n.m.",
+    "translation": ", (bot.) torch-thistle, cactus.",
+    "metadata": {
+      "altSpelling": "cactus"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "cadastral",
@@ -54232,6 +54569,15 @@
     "pos": "n.f.",
     "translation": ", hut, crib, hovel; (nav.) small cabin.",
     "type": "Base"
+  },
+  {
+    "word": "caïc",
+    "pos": "n.m.",
+    "translation": ", yawl, long-boat, levantine-boat.",
+    "metadata": {
+      "altSpelling": "caïque"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "caiche",
@@ -55415,6 +55761,15 @@
     "type": "Base"
   },
   {
+    "word": "calomel",
+    "pos": "n.m.",
+    "translation": ", calomel.",
+    "metadata": {
+      "altSpelling": "calomélas"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "calomniat-eur",
     "pos": "n.m.",
     "translation": ", calumniator, slanderer.",
@@ -55831,6 +56186,15 @@
     "type": "Base"
   },
   {
+    "word": "camélia",
+    "pos": "n.m.",
+    "translation": ", (bot.) camelia.",
+    "metadata": {
+      "altSpelling": "camellia"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "cameline",
     "pos": "n.f.",
     "translation": ", (bot.) camelina, gold of pleasure.",
@@ -56060,6 +56424,15 @@
     "pos": "n.f.",
     "translation": ", (arch.) bell; (sculp.) ornament with fringe and tassels.",
     "type": "Base"
+  },
+  {
+    "word": "campanelle",
+    "pos": "n.f.",
+    "translation": ", bell-flower, Canterbury-bell.",
+    "metadata": {
+      "altSpelling": "campanette"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "campanile",
@@ -56755,6 +57128,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "cannelle",
+    "pos": "n.f.",
+    "translation": ", spigot; tap, cock.",
+    "metadata": {
+      "altSpelling": "cannette"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "cannelier",
@@ -57730,6 +58112,15 @@
     "type": "Base"
   },
   {
+    "word": "capriçant",
+    "pos": "adj.",
+    "translation": ", (med.) bounding, unequal (of the pulse).",
+    "metadata": {
+      "altSpelling": "caprisant"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "caprice",
     "pos": "n.m.",
     "translation": ", caprice, whim, humor, freak; fit, flight, sally; (mus.) caprice.",
@@ -57795,6 +58186,15 @@
     "pos": "n.m.",
     "translation": ", goat-footed; satyr.",
     "type": "Base"
+  },
+  {
+    "word": "capron",
+    "pos": "n.m.",
+    "translation": ", the hautbois-strawberry.",
+    "metadata": {
+      "altSpelling": "caperon"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "capronier",
@@ -59245,6 +59645,15 @@
       "femininePos": "n.f."
     },
     "type": "BaseWith2GenderNoun"
+  },
+  {
+    "word": "caroube",
+    "pos": "n.f.",
+    "translation": ", (bot.) carob-bean.",
+    "metadata": {
+      "altSpelling": "carouge"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "caroubier",
@@ -60722,6 +61131,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "catalecte",
+    "pos": "adj.",
+    "translation": ", (poet.) catalectic.",
+    "metadata": {
+      "altSpelling": "catalectique"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "catalectes",
     "pos": "n.m.pl.",
     "translation": ", (lit.) catalectics.",
@@ -61052,6 +61470,15 @@
     "pos": "n.m.",
     "translation": ", catodon, a species of whale.",
     "type": "Base"
+  },
+  {
+    "word": "catogan",
+    "pos": "n.m.",
+    "translation": ", club of hair.",
+    "metadata": {
+      "altSpelling": "cadogan"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "catoptrique",
@@ -61754,6 +62181,105 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "ce qui",
+    "pos": "ce",
+    "translation": "begins the sentence, is governed by ce : if the latter verb is être , followed by que or de , ce must be repeated before it. ce cannot be repeated when être is followed by an adjective.] Sont-ce les richesses qui vous rendront heureux? can riches make you happy? Ce que c’est que de nous! what poor mortals we are.",
+    "usage": [
+      {
+        "fr": "Ce que je crains, c’est d’être surpris",
+        "en": "what I fear is to be surprised."
+      },
+      {
+        "fr": "Ce qu’il demande, c’est une pension",
+        "en": "what he asks for is a pension. [But"
+      },
+      {
+        "fr": "Ce qu’on vous a dit est vrai",
+        "en": "what you have been told is true."
+      },
+      {
+        "fr": "Ce qu’on vous a dit, ce sont des contes",
+        "en": "what you have been told are mere idle tales."
+      },
+      {
+        "fr": "C’était un grand capitaine que César",
+        "en": "Cæsar was a great captain."
+      },
+      {
+        "fr": "C’est moi qu’on veut perdre",
+        "en": "I am the man they wish to ruin."
+      },
+      {
+        "fr": "C’est à vous que je parle",
+        "en": "it is to you I speak."
+      },
+      {
+        "fr": "C’est d’elle que je parle",
+        "en": "it is of her that I speak."
+      },
+      {
+        "fr": "C’est là que je les attends",
+        "en": "there I shall have them."
+      },
+      {
+        "fr": "C’est un bonheur que d’avoir échappé",
+        "en": "it is good luck to have escaped."
+      },
+      {
+        "fr": "C’était à vous de parler",
+        "en": "it was your duty to speak."
+      },
+      {
+        "fr": "C’était à vous à parler",
+        "en": "it was your turn to speak."
+      },
+      {
+        "fr": "Si c’était à refaire",
+        "en": "if it were to be done again."
+      },
+      {
+        "fr": "C’est à qui parlera",
+        "en": "they vie with one another as to who shall speak."
+      },
+      {
+        "fr": "C’était à qui s’offrirait",
+        "en": "they vied with one another as to who would offer himself."
+      },
+      {
+        "fr": "Ce serait pour moi un grand plaisir",
+        "en": "it would give me great pleasure."
+      },
+      {
+        "fr": "Ce n’est pas qu’il la craigne, mais il aime la paix",
+        "en": "not that he fears her, but he loves peace."
+      },
+      {
+        "fr": "Ces malheureux ne savent ce que c’est que la vertu",
+        "en": "these wretches know not what virtue is."
+      },
+      {
+        "fr": "C’est-à-dire",
+        "en": "that is to say."
+      },
+      {
+        "fr": "Ce n’est pas à dire que",
+        "en": "it does not follow that."
+      },
+      {
+        "fr": "C’est pourquoi",
+        "en": "therefore, wherefore, for which reason."
+      },
+      {
+        "fr": "C’est que",
+        "en": "you must know; I must tell you."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "ce que"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "céans",
     "pos": "adv.",
     "translation": ", within, here within, in this house, home.",
@@ -62077,6 +62603,21 @@
     "pos": "n.f.",
     "translation": ", celebrity; fame.",
     "type": "Base"
+  },
+  {
+    "word": "celer",
+    "pos": "v.a.",
+    "translation": ", to conceal, to keep close or secret, to secrete.",
+    "usage": [
+      {
+        "fr": "Se faire —",
+        "en": "to say “not at home.”"
+      }
+    ],
+    "metadata": {
+      "altSpelling": "céler"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "céleri",
@@ -64267,6 +64808,15 @@
     "type": "Base"
   },
   {
+    "word": "chame",
+    "pos": "n.f.",
+    "translation": ", (conch.) chama; muscle, heart-cockle.",
+    "metadata": {
+      "altSpelling": "came"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "chameau",
     "pos": "n.m.",
     "translation": ", camel; (fig.) heavy fellow.",
@@ -65735,6 +66285,15 @@
     "type": "Base"
   },
   {
+    "word": "chardonnette",
+    "pos": "n.f.",
+    "translation": ", prickly artichoke.",
+    "metadata": {
+      "altSpelling": "cardonnette"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "chardonnière",
     "pos": "n.f.",
     "translation": ", thistle-waste.",
@@ -66993,6 +67552,15 @@
     "type": "Base"
   },
   {
+    "word": "chatoiement",
+    "pos": "n.m.",
+    "translation": ", chatoyment, sparkling, glistening, play of colors.",
+    "metadata": {
+      "altSpelling": "chatoîment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "chaton",
     "pos": "n.m.",
     "translation": ", kitten; bezel (of a ring); outward husk or cup of the nut; (bot.) catkin; case of a watch.",
@@ -67296,6 +67864,15 @@
     "pos": "n.f.",
     "translation": ", copper, large kettle; boiler (of a steam-engine).",
     "type": "Base"
+  },
+  {
+    "word": "chaudret",
+    "pos": "n.m.",
+    "translation": ", (gold-beating) mould of about one thousand leaves.",
+    "metadata": {
+      "altSpelling": "chauderet"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "chaudron",
@@ -67895,6 +68472,15 @@
     "pos": "n.m.",
     "translation": ", shoemaker’s thread or end, cobbler’s-ends, wax end.",
     "type": "Base"
+  },
+  {
+    "word": "cheik",
+    "pos": "n.m.",
+    "translation": ", sheik.",
+    "metadata": {
+      "altSpelling": "scheik"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "chélidoine",
@@ -69298,6 +69884,15 @@
     "type": "BaseWithMarker"
   },
   {
+    "word": "chèvre-pied",
+    "pos": "adj.",
+    "translation": ", (of satyrs) goat-footed.",
+    "metadata": {
+      "altSpelling": "chèvre-pieds"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "chevrette",
     "pos": "n.f.",
     "translation": ", roe, doe; shrimp, prawn; syrup-pot; little andiron or fire dog.",
@@ -69813,6 +70408,15 @@
       "femininePos": "n.f."
     },
     "type": "BaseWith2GenderNoun"
+  },
+  {
+    "word": "chien de mer",
+    "pos": "n.m.",
+    "translation": ", (ich.) dog-fish, hound-fish.",
+    "metadata": {
+      "altSpelling": "chien marin"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "chiendent",
@@ -71766,6 +72370,15 @@
     "type": "Base"
   },
   {
+    "word": "cimolée",
+    "pos": "adj.f.",
+    "translation": ", cimolian.",
+    "metadata": {
+      "altSpelling": "cimolie"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "cinabre",
     "pos": "n.m.",
     "translation": ", cinnabar.",
@@ -72617,6 +73230,15 @@
     "pos": "n.f.",
     "translation": ", a kind of beard-fish.",
     "type": "Base"
+  },
+  {
+    "word": "cive",
+    "pos": "n.f.",
+    "translation": ", (bot.) chive.",
+    "metadata": {
+      "altSpelling": "civette"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "civet",
@@ -73561,6 +74183,15 @@
     "pos": "n.f.pl.",
     "translation": ", Clementines (the constitutions of Clement the Fifth).",
     "type": "Base"
+  },
+  {
+    "word": "clenche",
+    "pos": "n.f.",
+    "translation": ", thumb-lift of a latch; (mus.) clef.",
+    "metadata": {
+      "altSpelling": "clenchette"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "clephte",
@@ -75578,6 +76209,33 @@
     "pos": "n.m.",
     "translation": ", associate, partner having a joint interest with another.",
     "type": "Base"
+  },
+  {
+    "word": "coïon",
+    "pos": "n.m.",
+    "translation": ", (l.ex.) dastard, coward.",
+    "metadata": {
+      "altSpelling": "couillon"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "coïonner",
+    "pos": "v.a.",
+    "translation": ", (l.ex.) to use one scurvily, to make a fool of one; to call one a coward.",
+    "metadata": {
+      "altSpelling": "couillonner"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "coïonner",
+    "pos": "v.n.",
+    "translation": ", (l.ex.) to joke, to gammon, to humbug.",
+    "metadata": {
+      "altSpelling": "couillonner"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "coït",
@@ -88075,6 +88733,15 @@
     "type": "Base"
   },
   {
+    "word": "copaïer",
+    "pos": "n.m.",
+    "translation": ", copaiba tree.",
+    "metadata": {
+      "altSpelling": "copayer"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "copal",
     "pos": "n.m.",
     "translation": ", copal.",
@@ -88133,6 +88800,25 @@
       "suffix": "-ne"
     },
     "type": "BaseWithFeminine"
+  },
+  {
+    "word": "cophte",
+    "pos": "n.m.",
+    "translation": "and adj. , Copt; Coptic.",
+    "usage": [
+      {
+        "fr": "Un moine —",
+        "en": "a Coptic monk."
+      },
+      {
+        "fr": "La langue —",
+        "en": "the Coptic language."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "copte"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "copie",
@@ -90640,6 +91326,15 @@
     "pos": "adj.",
     "translation": ", cosmological.",
     "type": "Base"
+  },
+  {
+    "word": "cosmologiste",
+    "pos": "n.m.",
+    "translation": ", cosmologist.",
+    "metadata": {
+      "altSpelling": "cosmologue"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "cosmopolite",
@@ -93577,6 +94272,16 @@
     "type": "Base"
   },
   {
+    "word": "coure-vite",
+    "pos": "n.m.",
+    "translation": ", (orni.) courser.",
+    "metadata": {
+      "altSpelling": "court-vite",
+      "plural": "—"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "courge",
     "pos": "n.f.",
     "translation": ", gourd, pumpkin; yoke (to carry pails).",
@@ -93728,6 +94433,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "courlieu",
+    "pos": "n.m.",
+    "translation": ", (orni.) curlew.",
+    "metadata": {
+      "altSpelling": "courlis"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "couronne",
@@ -95548,6 +96262,15 @@
     "type": "BaseWithMarker"
   },
   {
+    "word": "crambe",
+    "pos": "n.m.",
+    "translation": ", (bot.) colza, sea kale.",
+    "metadata": {
+      "altSpelling": "crambé"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "cramoisi",
     "pos": "n.m.",
     "translation": ", crimson.",
@@ -95676,6 +96399,15 @@
     "pos": "n.m.",
     "translation": ", shrimp.",
     "type": "Base"
+  },
+  {
+    "word": "craniologie",
+    "pos": "n.f.",
+    "translation": ", craniology.",
+    "metadata": {
+      "altSpelling": "cranologie"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "craniologique",
@@ -96064,6 +96796,15 @@
     "pos": "n.f.pl.",
     "translation": ", wild Grecian figs.",
     "type": "Base"
+  },
+  {
+    "word": "craupécherot",
+    "pos": "n.m.",
+    "translation": ", (orni.) bald-buzzard, osprey, fishing-eagle.",
+    "metadata": {
+      "altSpelling": "corbeau pêcheur"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "cravache",
@@ -96786,6 +97527,15 @@
       "suffix": "-e"
     },
     "type": "BaseWithFeminine"
+  },
+  {
+    "word": "crépodaille",
+    "pos": "n.f.",
+    "translation": ", thin crape, gauze-crape.",
+    "metadata": {
+      "altSpelling": "crapaudaille"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "crépon",
@@ -97932,6 +98682,15 @@
     "type": "Base"
   },
   {
+    "word": "criocère",
+    "pos": "",
+    "translation": ") n.m. , (ent.) crioceris.",
+    "metadata": {
+      "altSpelling": "porte-croix"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "crique",
     "pos": "n.f.",
     "translation": ", creek, cove; flaw, crack.",
@@ -98580,6 +99339,15 @@
     "pos": "n.m.",
     "translation": ", crocus, saffron.",
     "type": "Base"
+  },
+  {
+    "word": "croiler",
+    "pos": "v.n.",
+    "translation": ", (hawking) to scour.",
+    "metadata": {
+      "altSpelling": "croler"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "croire",
@@ -99866,6 +100634,16 @@
     "type": "Base"
   },
   {
+    "word": "crucifiement",
+    "pronunciation": "-mān",
+    "pos": "n.m.",
+    "translation": ", crucifixion.",
+    "metadata": {
+      "altSpelling": "crucifîment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "crucifier",
     "pos": "v.a.",
     "translation": ", to crucify.",
@@ -100248,6 +101026,42 @@
     "pos": "n.m.",
     "translation": ", fruit-basket.",
     "type": "Base"
+  },
+  {
+    "word": "cuiller",
+    "pronunciation": "ku-lièr",
+    "pos": "n.f.",
+    "translation": ", spoon.",
+    "usage": [
+      {
+        "fr": "— à soupe",
+        "en": "soup-ladle."
+      },
+      {
+        "fr": "— à café",
+        "en": "tea-spoon."
+      },
+      {
+        "fr": "— à bouche",
+        "en": "table-spoon."
+      },
+      {
+        "fr": "— à dessert",
+        "en": "dessert-spoon."
+      },
+      {
+        "fr": "— à ragoût",
+        "en": "gravy-ladle."
+      },
+      {
+        "fr": "Elever à la —",
+        "en": "to bring up by hand."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "cuillère"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "cuillerée",
@@ -101797,6 +102611,15 @@
     "pos": "n.m.",
     "translation": "and adj. , Kymric.",
     "type": "Base"
+  },
+  {
+    "word": "cynanche",
+    "pos": "n.f.",
+    "translation": ", (med.) cynanche.",
+    "metadata": {
+      "altSpelling": "cynancie"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "cynanque",
@@ -104260,6 +105083,15 @@
       "marker": "*"
     },
     "type": "bouillonnant"
+  },
+  {
+    "word": "débraillement",
+    "pos": "n.m.",
+    "translation": ", untidiness, disorder; license, licentiousness.",
+    "metadata": {
+      "altSpelling": "débraillé"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "débrailler",
@@ -106791,6 +107623,15 @@
     "type": "BaseWith2GenderNoun"
   },
   {
+    "word": "découple",
+    "pos": "n.m.",
+    "translation": ", (hunt.) uncoupling, unleashing of dogs.",
+    "metadata": {
+      "altSpelling": "découpler"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "découplé",
     "pos": "part.",
     "translation": ", uncoupled; strapping.",
@@ -107313,6 +108154,15 @@
     "type": "Base"
   },
   {
+    "word": "décrusement",
+    "pos": "n.m.",
+    "translation": ", (dy.) ungumming.",
+    "metadata": {
+      "altSpelling": "décrusage"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "décruser",
     "pos": "v.a.",
     "translation": ", to ungum.",
@@ -107647,6 +108497,15 @@
     "pos": "n.m.",
     "translation": ", diluted alcohol.",
     "type": "Base"
+  },
+  {
+    "word": "dédoublement",
+    "pos": "n.m.",
+    "translation": ", dividing into two; unlining; diluting.",
+    "metadata": {
+      "altSpelling": "dédoublage"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "dédoubler",
@@ -108996,6 +109855,26 @@
     "type": "Base"
   },
   {
+    "word": "défrichage",
+    "pronunciation": "-frish-mān",
+    "pos": "n.m.",
+    "translation": ", clearing, grubbing up; land so cleared.",
+    "usage": [
+      {
+        "fr": "Faire le — d’un terrain",
+        "en": "to clear a piece of ground."
+      },
+      {
+        "fr": "Ce — est en plein rapport cette année",
+        "en": "this piece of cleared land is in full bearing this year."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "défrichement"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "défriché",
     "pos": "adj.",
     "translation": ", cleared (of land).",
@@ -109388,6 +110267,16 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "dégauchissage",
+    "pronunciation": "-shis-mān",
+    "pos": "n.m.",
+    "translation": ", planing, straightening, leveling, smoothing.",
+    "metadata": {
+      "altSpelling": "dégauchissement"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "dégazer",
@@ -109878,6 +110767,15 @@
     "type": "BaseWithReflexive"
   },
   {
+    "word": "dégraissage",
+    "pos": "n.m.",
+    "translation": ", cleaning, scouring.",
+    "metadata": {
+      "altSpelling": "dégraissement"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "dégraisser",
     "pos": "v.a.",
     "translation": ", to scour, to remove greasy stains; to fleece any one; to impoverish land, to carry off the soil; (carp.) to beard, to thin; (cook.) to remove fat.",
@@ -109922,6 +110820,15 @@
     "pos": "n.m.",
     "translation": ", scraper.",
     "type": "Base"
+  },
+  {
+    "word": "dégravoiement",
+    "pos": "n.m.",
+    "translation": ", (arch.) baring, laying bare (by water).",
+    "metadata": {
+      "altSpelling": "dégravoîment"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "dégravoyer",
@@ -110410,6 +111317,29 @@
     "pos": "n.m.",
     "translation": ", warping; deviation.",
     "type": "Base"
+  },
+  {
+    "word": "déjeuner",
+    "pos": "n.m.",
+    "translation": ", breakfast, breakfast-service.",
+    "usage": [
+      {
+        "fr": "— à la fourchette",
+        "en": "meat breakfast."
+      },
+      {
+        "fr": "Second —",
+        "en": "luncheon."
+      },
+      {
+        "fr": "Un — de porcelaine",
+        "en": "a porcelain breakfast-service."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "déjeuné"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "déjeuner",
@@ -113080,6 +114010,15 @@
     "type": "Base"
   },
   {
+    "word": "dénouement",
+    "pos": "n.m.",
+    "translation": ", event, issue; denouement, catastrophe, unraveling; undoing, ending (of a play).",
+    "metadata": {
+      "altSpelling": "dénoûment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "dénouer",
     "pos": "v.a.",
     "translation": ", to untie, to loose; to give elasticity; to solve (difficulties); to unravel (plots).",
@@ -113484,6 +114423,15 @@
       "suffix": "-e"
     },
     "type": "BaseWithFeminine"
+  },
+  {
+    "word": "dénuement",
+    "pos": "n.m.",
+    "translation": ", destitution, deprivation, penury, want.",
+    "metadata": {
+      "altSpelling": "dénûment"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "dénuer",
@@ -114384,6 +115332,16 @@
       "reflexive": "se"
     },
     "type": "BaseWithReflexive"
+  },
+  {
+    "word": "déploiement",
+    "pronunciation": "dé-ploa-mān",
+    "pos": "n.m.",
+    "translation": ", display, unfolding; (milit.) deployment.",
+    "metadata": {
+      "altSpelling": "déploîment"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "déplombage",
@@ -115916,6 +116874,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "derviche",
+    "pos": "n.m.",
+    "translation": ", dervis.",
+    "metadata": {
+      "altSpelling": "dervis"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "dès",
@@ -123908,6 +124875,15 @@
     "type": "Base"
   },
   {
+    "word": "dionysiaques",
+    "pos": "n.f.pl.",
+    "translation": ", (antiq.) Dionysia.",
+    "metadata": {
+      "altSpelling": "dionysies"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "dioptrique",
     "pos": "n.f.",
     "translation": ", (opt.) dioptrics.",
@@ -126722,6 +127698,15 @@
     "type": "Base"
   },
   {
+    "word": "docimasie",
+    "pos": "n.f.",
+    "translation": ", (metal.) docimacy.",
+    "metadata": {
+      "altSpelling": "docimastique"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "docimastique",
     "pos": "adj.",
     "translation": ", docimastic.",
@@ -126865,6 +127850,15 @@
     "pos": "n.m.",
     "translation": ", shaking up, stirring (of wine).",
     "type": "Base"
+  },
+  {
+    "word": "dodiner",
+    "pos": "v.a.",
+    "translation": ", to rock; to swing, to fondle, to dandle.",
+    "metadata": {
+      "altSpelling": "dodeliner"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "dodiner",
@@ -127204,6 +128198,15 @@
     "pos": "n.f.",
     "translation": ", adz; chip-ax.",
     "type": "Base"
+  },
+  {
+    "word": "dolomie",
+    "pos": "n.f.",
+    "translation": ", (min.) dolomite.",
+    "metadata": {
+      "altSpelling": "dolomite"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "domaine",
@@ -130109,6 +131112,15 @@
     "type": "Base"
   },
   {
+    "word": "drouineur",
+    "pos": "n.m.",
+    "translation": ", tinker.",
+    "metadata": {
+      "altSpelling": "drouinier"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "droussage",
     "pos": "n.m.",
     "translation": ", carding and oiling (wool).",
@@ -131264,6 +132276,15 @@
     "pos": "n.m.",
     "translation": ", (sculp.) boasting-tool; mortise chisel.",
     "type": "Base"
+  },
+  {
+    "word": "ebbe",
+    "pos": "n.m.",
+    "translation": ", (nav.) ebb, reflux, low water.",
+    "metadata": {
+      "altSpelling": "èbe"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "ébène",
@@ -132964,6 +133985,15 @@
     "type": "BaseWithReflexive"
   },
   {
+    "word": "échenal",
+    "pos": "n.m.",
+    "translation": ", gutter, basin.",
+    "metadata": {
+      "altSpelling": "écheneau"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "échenillage",
     "pos": "n.m.",
     "translation": ", clearing, ridding of caterpillars.",
@@ -133057,6 +134087,15 @@
       "suffix": "-ve"
     },
     "type": "BaseWithFeminine"
+  },
+  {
+    "word": "échiffe",
+    "pos": "n.m.",
+    "translation": ", (arch.) partition-wall (of a staircase).",
+    "metadata": {
+      "altSpelling": "échiffre"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "échignole",
@@ -133853,6 +134892,24 @@
     "type": "Base"
   },
   {
+    "word": "écofrai",
+    "pos": "n.m.",
+    "translation": ", (tech.) cutting-board.",
+    "metadata": {
+      "altSpelling": "écofroi"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "écoinçon",
+    "pos": "n.m.",
+    "translation": ", (mas., carp.) diagonal, angle-tie; angle stuff-bead; (carp.) jamb (of doors); (carp.) reveal (of windows).",
+    "metadata": {
+      "altSpelling": "écoinson"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "écolage",
     "pos": "n.m.",
     "translation": ", schooling.",
@@ -134122,6 +135179,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "écorcement",
+    "pos": "n.m.",
+    "translation": ", barking, stripping (of trees).",
+    "metadata": {
+      "altSpelling": "écorçage"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "écorcer",
@@ -135770,6 +136836,16 @@
     "type": "Base"
   },
   {
+    "word": "effendi",
+    "pronunciation": "è-fān-di",
+    "pos": "n.m.",
+    "translation": ", effendi (Turkish title).",
+    "metadata": {
+      "altSpelling": "efendi"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "effervescence",
     "pos": "n.f.",
     "translation": ", effervescence; excitement; ferment.",
@@ -135996,6 +137072,15 @@
     "pos": "n.f.",
     "translation": ", untwisted silk, light refuse silk.",
     "type": "Base"
+  },
+  {
+    "word": "effilocher",
+    "pos": "v.a.",
+    "translation": ", to ravel out, to undo.",
+    "metadata": {
+      "altSpelling": "effiloquer"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "effilure",
@@ -136813,6 +137898,15 @@
     "pos": "n.f.",
     "translation": ", drainings, drippings.",
     "type": "Base"
+  },
+  {
+    "word": "égrain",
+    "pos": "n.m.",
+    "translation": ", seedling pear or apple tree.",
+    "metadata": {
+      "altSpelling": "égrin"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "égrappage",
@@ -142814,6 +143908,15 @@
     "type": "Base"
   },
   {
+    "word": "enclumeau",
+    "pos": "n.m.",
+    "translation": ", hand-anvil.",
+    "metadata": {
+      "altSpelling": "enclumot"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "encoche",
     "pos": "n.f.",
     "translation": ", notch (on a tally, etc.).",
@@ -144726,6 +145829,22 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "engouement",
+    "pronunciation": "ān-goo-mān",
+    "pos": "n.m.",
+    "translation": ", infatuation; (med. vet.) obstruction.",
+    "usage": [
+      {
+        "fr": "On ne saurait le faire revenir de son —",
+        "en": "it is impossible to cure him of his infatuation."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "engoûment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "engouer",
     "pos": "v.a.",
     "translation": ", to obstruct the throat; to infatuate.",
@@ -145352,6 +146471,22 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "enjouement",
+    "pronunciation": "ān-joo-mān",
+    "pos": "n.m.",
+    "translation": ", playfulness, sportiveness, sprightliness, liveliness, humor.",
+    "usage": [
+      {
+        "fr": "Avec —",
+        "en": "playfully."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "enjoûment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "enkysté",
     "pos": "adj.",
     "translation": ", (med.) encysted.",
@@ -145939,6 +147074,15 @@
     "type": "Base"
   },
   {
+    "word": "enraiement",
+    "pos": "n.m.",
+    "translation": ", putting on the drag, skidding; locking.",
+    "metadata": {
+      "altSpelling": "enrayement"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "enrayer",
     "pos": "v.a.",
     "translation": ", to put spokes to; to skid (a wheel), to put on the drag; to apply the brake; (agri.) to plow the first furrow; (fig.) to stop; to keep down, to moderate, to stem.",
@@ -146112,6 +147256,16 @@
       "suffix": "-e"
     },
     "type": "BaseWithFeminine"
+  },
+  {
+    "word": "enrouement",
+    "pronunciation": "ān-roo-mān",
+    "pos": "n.m.",
+    "translation": ", hoarseness, huskiness.",
+    "metadata": {
+      "altSpelling": "enroûment"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "enrouer",
@@ -149745,6 +150899,15 @@
     "type": "Base"
   },
   {
+    "word": "épamprage",
+    "pos": "n.m.",
+    "translation": ", lopping off; pruning; feeding off (of a corn-field).",
+    "metadata": {
+      "altSpelling": "épamprement"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "épamprer",
     "pos": "v.a.",
     "translation": ", to lop off, or to prune, a vine; to feed off.",
@@ -149967,6 +151130,21 @@
       "suffix": "-e"
     },
     "type": "BaseWithFeminine"
+  },
+  {
+    "word": "éparvin",
+    "pos": "n.m.",
+    "translation": ", (vet.) spavin. — osseux ,",
+    "usage": [
+      {
+        "fr": "— sec",
+        "en": "blood-spavin; string-halt."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "épervin"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "épaté",
@@ -152007,6 +153185,15 @@
     "type": "Base"
   },
   {
+    "word": "épulide",
+    "pos": "n.f.",
+    "translation": ", (surg.) epulis.",
+    "metadata": {
+      "altSpelling": "épulie"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "épulons",
     "pos": "n.m.pl.",
     "translation": ", (antiq.) epulones.",
@@ -152881,6 +154068,15 @@
     "pos": "n.m.",
     "translation": ", customs duty (in the Levant).",
     "type": "Base"
+  },
+  {
+    "word": "erminette",
+    "pos": "n.f.",
+    "translation": ", (carp.) adz.",
+    "metadata": {
+      "altSpelling": "herminette"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "ermitage",
@@ -155715,6 +156911,15 @@
     "type": "Base"
   },
   {
+    "word": "étalonnage",
+    "pos": "n.m.",
+    "translation": ", stamping (of weights, etc.); gauging.",
+    "metadata": {
+      "altSpelling": "étalonnement"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "étalonner",
     "pos": "v.a.",
     "translation": ", to stamp; to gauge.",
@@ -156367,6 +157572,15 @@
     "type": "Base"
   },
   {
+    "word": "éternuement",
+    "pos": "n.m.",
+    "translation": ", sneezing, sneeze.",
+    "metadata": {
+      "altSpelling": "éternûment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "éternuer",
     "pos": "v.n.",
     "translation": ", to sneeze.",
@@ -156400,6 +157614,15 @@
     "pos": "v.a.",
     "translation": ", (hort.) to top, to pollard; to take off the heads (of nails, pins).",
     "type": "Base"
+  },
+  {
+    "word": "éteule",
+    "pos": "n.f.",
+    "translation": ", stubble.",
+    "metadata": {
+      "altSpelling": "esteuble"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "éther",
@@ -158225,6 +159448,15 @@
     "type": "Base"
   },
   {
+    "word": "eutychéen",
+    "pos": "n.m.",
+    "translation": ", eutychian.",
+    "metadata": {
+      "altSpelling": "eutychien"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "évacuant",
     "pos": "adj.",
     "translation": ", (med.) evacuant.",
@@ -159829,6 +161061,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "excréteur",
+    "pos": "adj.m.",
+    "translation": ", (physiology) excretory, excretive.",
+    "metadata": {
+      "altSpelling": "excrétoire"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "excrétion",
@@ -162369,6 +163610,15 @@
     "type": "Base"
   },
   {
+    "word": "extravasation",
+    "pos": "n.f.",
+    "translation": ", (med.) extravasation; effusion (of blood).",
+    "metadata": {
+      "altSpelling": "extravasion"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "extravasé",
     "pos": "adj.",
     "translation": ", extravasated; let out.",
@@ -163128,6 +164378,15 @@
       "suffix": "-e"
     },
     "type": "BaseWithFeminine"
+  },
+  {
+    "word": "façonnage",
+    "pos": "n.m.",
+    "translation": ", fashioning, shaping, making.",
+    "metadata": {
+      "altSpelling": "façonnement"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "façonner",
@@ -165899,6 +167158,15 @@
     "type": "Base"
   },
   {
+    "word": "farouch",
+    "pos": "n.m.",
+    "translation": ", (agri.) clover, clover grass.",
+    "metadata": {
+      "altSpelling": "farouche"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "farouche",
     "pos": "adj.",
     "translation": ", wild; fierce; sullen; unsociable; shy.",
@@ -166366,6 +167634,15 @@
     "pos": "n.m.",
     "translation": ", mower, reaper; field-spider.",
     "type": "Base"
+  },
+  {
+    "word": "faucheur",
+    "pos": "n.m.",
+    "translation": ", field-spider.",
+    "metadata": {
+      "altSpelling": "faucheux"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "faucille",
@@ -172348,6 +173625,24 @@
     "type": "Base"
   },
   {
+    "word": "flegmatique",
+    "pos": "adj.",
+    "translation": ", (med.) phlegmatic, cold, dull, sluggish, phlegmatic (of the mind). n. , cold, dull, phlegmatic person.",
+    "metadata": {
+      "altSpelling": "phlegmatique"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "flegme",
+    "pos": "n.m.",
+    "translation": ", phlegm, coldness.",
+    "metadata": {
+      "altSpelling": "phlegme"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "flétrir",
     "pos": "v.a.",
     "translation": ", to wither, to dry up, to cause to fade, to blight, to blast; to tarnish, to blemish, to brand, to disgrace, to stain, to dishonor, to stigmatize.",
@@ -172452,6 +173747,15 @@
     "pos": "n.m.",
     "translation": ", pollard.",
     "type": "Base"
+  },
+  {
+    "word": "fleuraison",
+    "pos": "n.f.",
+    "translation": ", efflorescence, blowing-time, flowering season.",
+    "metadata": {
+      "altSpelling": "floraison"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "fleur de lis",
@@ -174863,6 +176167,15 @@
     "type": "Base"
   },
   {
+    "word": "forhuer",
+    "pos": "v.n.",
+    "translation": ", (hunt.) to blow, to wind (a horn); to recall the hounds; to recheat.",
+    "metadata": {
+      "altSpelling": "forhuir"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "forjet",
     "pos": "n.m.",
     "translation": ", jutting out (of a wall).",
@@ -175191,6 +176504,15 @@
     "pos": "v.n.",
     "translation": ", to fornicate.",
     "type": "Base"
+  },
+  {
+    "word": "forpaître",
+    "pos": "v.n.",
+    "translation": ", (hunt.) to feed at a distance from the covert.",
+    "metadata": {
+      "altSpelling": "forpaiser"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "forsenant",
@@ -175758,6 +177080,16 @@
     "type": "Base"
   },
   {
+    "word": "foudroiement",
+    "pronunciation": "foo-droa-mān",
+    "pos": "n.m.",
+    "translation": ", thunder-striking, crushing; overwhelming.",
+    "metadata": {
+      "altSpelling": "foudroîment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "foudroyant",
     "pos": "adj.",
     "translation": ", terrible, crushing, dreadful; fulminating, thundering; withering.",
@@ -175874,6 +177206,15 @@
     "pos": "n.m.",
     "translation": ", flogger, whipper.",
     "type": "Base"
+  },
+  {
+    "word": "fougade",
+    "pos": "n.f.",
+    "translation": ", (milit.) fougade.",
+    "metadata": {
+      "altSpelling": "fougasse"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "fouger",
@@ -177752,6 +179093,15 @@
     "pos": "v.a.",
     "translation": ", to fringe, to valance.",
     "type": "Base"
+  },
+  {
+    "word": "franger",
+    "pos": "n.m.",
+    "translation": ", fringe-maker.",
+    "metadata": {
+      "altSpelling": "frangier"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "frangipane",
@@ -180787,6 +182137,15 @@
     "type": "Base"
   },
   {
+    "word": "gabari",
+    "pos": "n.m.",
+    "translation": ", mold, model, build (of a ship); (rail.) carriage-gage.",
+    "metadata": {
+      "altSpelling": "gabarit"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "gabarier",
     "pos": "n.m.",
     "translation": ", lighterman; master of a store-ship.",
@@ -181377,6 +182736,39 @@
     "type": "Base"
   },
   {
+    "word": "gaiement",
+    "pronunciation": "ghè-mān",
+    "pos": "adv.",
+    "translation": ", gaily, merrily, cheerfully, cheerily, briskly, blithely, jovially, laughingly; willingly, heartily.",
+    "metadata": {
+      "altSpelling": "gaîment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "gaieté",
+    "pos": "n.f.",
+    "translation": ", gayety, merriment, mirth, glee; cheerfulness, blitheness, merriness, mirthfulness, joviality, sportiveness, good humor; youthful frolic.",
+    "usage": [
+      {
+        "fr": "Cheval qui a de la —",
+        "en": "(man.) mettlesome horse."
+      },
+      {
+        "fr": "De — de cœur",
+        "en": "wantonly, out of sheer wantonness."
+      },
+      {
+        "fr": "Être en —",
+        "en": "to be sprung."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "gaîté"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "gaillard",
     "pos": "adj.",
     "translation": ", joyful, joyous, jovial, jolly, merry, lively; blithe, buxom, light-hearted; libertine, wanton; broad; tipsy; sprung (half-tipsy); cool, fresh (of the wind).",
@@ -181714,6 +183106,15 @@
     "pos": "n.m.",
     "translation": ", gale, sweet-willow, Dutch myrtle.",
     "type": "Base"
+  },
+  {
+    "word": "galéace",
+    "pos": "n.f.",
+    "translation": ", (nav.) galeas.",
+    "metadata": {
+      "altSpelling": "galéasse"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "galée",
@@ -184333,6 +185734,15 @@
     "type": "Base"
   },
   {
+    "word": "gavion",
+    "pos": "n.m.",
+    "translation": ", (pop.) throat.",
+    "metadata": {
+      "altSpelling": "gaviot"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "gavotte",
     "pos": "n.f.",
     "translation": ", gavotte (kind of dance).",
@@ -184503,6 +185913,16 @@
     "pos": "adj.",
     "translation": ", (gard.) producing grass.",
     "type": "Base"
+  },
+  {
+    "word": "gazonnement",
+    "pronunciation": "ga-zo-n-mān",
+    "pos": "n.m.",
+    "translation": ", turfing.",
+    "metadata": {
+      "altSpelling": "gazonnage"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "gazonner",
@@ -184990,6 +186410,15 @@
     "pos": "n.m.",
     "translation": ", genealogist.",
     "type": "Base"
+  },
+  {
+    "word": "génépi",
+    "pos": "n.m.",
+    "translation": ", (bot.) artemisia; Alpine wormwood.",
+    "metadata": {
+      "altSpelling": "génipi"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "gêner",
@@ -185779,6 +187208,15 @@
     "pos": "n.m.",
     "translation": ", geologist.",
     "type": "Base"
+  },
+  {
+    "word": "géomance",
+    "pos": "n.f.",
+    "translation": ", geomancy.",
+    "metadata": {
+      "altSpelling": "géomancie"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "géomancien",
@@ -186605,6 +188043,15 @@
     "pos": "adj.",
     "translation": ", gyral, gyratory.",
     "type": "Base"
+  },
+  {
+    "word": "giraumon",
+    "pos": "n.m.",
+    "translation": ", (bot.) pumpkin.",
+    "metadata": {
+      "altSpelling": "giraumont"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "girofle",
@@ -187880,6 +189327,15 @@
     "type": "Base"
   },
   {
+    "word": "glyconien",
+    "pos": "adj.",
+    "translation": ", glyconian.",
+    "metadata": {
+      "altSpelling": "glyconique"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "glyphe",
     "pos": "n.m.",
     "translation": ", (arch.) glyph.",
@@ -188480,6 +189936,15 @@
     "pos": "n.m.",
     "translation": ", gondolier.",
     "type": "Base"
+  },
+  {
+    "word": "gonfalon",
+    "pos": "n.m.",
+    "translation": ", gonfalon.",
+    "metadata": {
+      "altSpelling": "gonfanon"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "gonfalonier",
@@ -189163,6 +190628,15 @@
     "pos": "v.a.",
     "translation": ", (nav.) to treenail.",
     "type": "Base"
+  },
+  {
+    "word": "goussant",
+    "pos": "n.m.",
+    "translation": ", thick-set horse.",
+    "metadata": {
+      "altSpelling": "goussaut"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "gousse",
@@ -191794,6 +193268,15 @@
     "type": "Base"
   },
   {
+    "word": "grément",
+    "pos": "n.m.",
+    "translation": ", (nav.) rigging.",
+    "metadata": {
+      "altSpelling": "gréement"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "grémial",
     "pos": "n.m.",
     "translation": ", (c.rel.) gremial, (eccl.) bishop’s apron.",
@@ -193927,6 +195410,46 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "guère",
+    "pronunciation": "ghèr",
+    "pos": "adv.",
+    "translation": ", but little, not much, not very; not long; hardly, scarcely, very few. or he will soon come.",
+    "usage": [
+      {
+        "fr": "N’avoir — d’argent",
+        "en": "to have but little money."
+      },
+      {
+        "fr": "Il n’est — sage",
+        "en": "he is not very wise."
+      },
+      {
+        "fr": "Il ne tardera — à venir",
+        "en": "it will not be long before he comes"
+      },
+      {
+        "fr": "Il ne s’en faut —",
+        "en": "it wants but little."
+      },
+      {
+        "fr": "N’avoir — plus",
+        "en": "to have little more."
+      },
+      {
+        "fr": "N’avoir — moins",
+        "en": "to have little less."
+      },
+      {
+        "fr": "Je ne le vois —",
+        "en": "I hardly ever see him."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "guères"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "guéret",
@@ -196590,6 +198113,15 @@
     "type": "BaseWithMarker"
   },
   {
+    "word": "hanséatique",
+    "pos": "adj.",
+    "translation": ", Hanseatic.",
+    "metadata": {
+      "altSpelling": "anséatique"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "hanter",
     "pos": "v.a.",
     "translation": ", to haunt, to frequent, to resort to; to associate with.",
@@ -197116,6 +198648,29 @@
     "pos": "n.m.",
     "translation": ", harness-maker, dealer; harnessing groom.",
     "type": "Base"
+  },
+  {
+    "word": "harnais",
+    "pos": "n.m.",
+    "translation": ", harness; horse-trappings, trappings, armor, equipment.",
+    "usage": [
+      {
+        "fr": "Endosser le —",
+        "en": "to don the uniform."
+      },
+      {
+        "fr": "Cheval de —",
+        "en": "draught-horse."
+      },
+      {
+        "fr": "Blanchir sous le —",
+        "en": "to grow gray in the service."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "harnois"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "haro",
@@ -198563,6 +200118,15 @@
     "type": "Base"
   },
   {
+    "word": "hémiplégie",
+    "pos": "n.f.",
+    "translation": ", (med.) hemiplegy, hemiplegia.",
+    "metadata": {
+      "altSpelling": "hémiplexie"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "hémiptère",
     "pos": "n.m.",
     "translation": ", (ent.) hemipter.",
@@ -199308,6 +200872,15 @@
     "pos": "n.m.",
     "translation": ", hermitage.",
     "type": "Base"
+  },
+  {
+    "word": "hermite",
+    "pos": "n.m.",
+    "translation": ", hermit.",
+    "metadata": {
+      "altSpelling": "ermite"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "herniaire",
@@ -201159,6 +202732,15 @@
     "pos": "v.a.",
     "translation": ", (jur.) to confirm, to homologate.",
     "type": "Base"
+  },
+  {
+    "word": "homoncule",
+    "pos": "n.m.",
+    "translation": ", (fam.) little man.",
+    "metadata": {
+      "altSpelling": "homuncule"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "homonyme",
@@ -203862,6 +205444,15 @@
     "type": "Base"
   },
   {
+    "word": "hydrosulfate",
+    "pos": "n.m.",
+    "translation": ", (chem.) hydrosulphate, hydrosulphuret.",
+    "metadata": {
+      "altSpelling": "hydrosulfure"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "hydrosulfurique",
     "pos": "adj.",
     "translation": ", hydrosulphuric.",
@@ -204072,6 +205663,15 @@
     "pos": "n.m.",
     "translation": ", (anat.) hypochondrium.",
     "type": "Base"
+  },
+  {
+    "word": "hypocondriaque",
+    "pos": "n.m.f.",
+    "translation": "and adj. , (med.) hypochondriac, hypochondriacal.",
+    "metadata": {
+      "altSpelling": "hypocondre"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "hypocondrie",
@@ -205289,6 +206889,15 @@
     "pos": "adj.",
     "translation": ", (anat.) iliac.",
     "type": "Base"
+  },
+  {
+    "word": "ilion",
+    "pos": "n.m.",
+    "translation": ", (anat.) coxa, haunch-bone; (hist.) Ilium, Troy.",
+    "metadata": {
+      "altSpelling": "ilium"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "illégal",
@@ -219439,6 +221048,15 @@
     "type": "Base"
   },
   {
+    "word": "ive",
+    "pos": "n.f.",
+    "translation": ", (bot.) iva.",
+    "metadata": {
+      "altSpelling": "ivette"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "ivoire",
     "pos": "n.m.",
     "translation": ", ivory; (fig.) whiteness.",
@@ -219676,6 +221294,15 @@
     "type": "Base"
   },
   {
+    "word": "jacinthe",
+    "pos": "n.f.",
+    "translation": ", (bot., min.) hyacinth.",
+    "metadata": {
+      "altSpelling": "hyacinthe"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "jacobée",
     "pos": "n.f.",
     "translation": ", (bot.) ragwort.",
@@ -219722,6 +221349,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "jacquot",
+    "pos": "n.m.",
+    "translation": ", gray parrot, poll; pug (monkey).",
+    "metadata": {
+      "altSpelling": "jacot"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "jactance",
@@ -220269,6 +221905,15 @@
     "pos": "v.a.n.",
     "translation": ", to talk jargon, to talk twaddle or gibberish.",
     "type": "Base"
+  },
+  {
+    "word": "jarousse",
+    "pos": "n.f.",
+    "translation": ", (bot.) vetch.",
+    "metadata": {
+      "altSpelling": "jarrosse"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "jarre",
@@ -221861,6 +223506,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "jouière",
+    "pos": "n.f.",
+    "translation": ", side-wall (of a lock).",
+    "metadata": {
+      "altSpelling": "jouillère"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "jouir",
@@ -223561,6 +225215,26 @@
     "type": "Base"
   },
   {
+    "word": "kandjar",
+    "pos": "n.m.",
+    "translation": ", dagger.",
+    "metadata": {
+      "altSpelling": "kangiar",
+      "plural": "—s"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "kanguroo",
+    "pronunciation": "-goo-roo",
+    "pos": "n.m.",
+    "translation": ", (mam.) kangaroo.",
+    "metadata": {
+      "altSpelling": "kangourou"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "kantisme",
     "pos": "n.m.",
     "translation": ", Kantism.",
@@ -225012,6 +226686,15 @@
     "type": "Base"
   },
   {
+    "word": "laitance",
+    "pos": "n.f.",
+    "translation": ", (ich.) milt, melt, soft roe; lime-wash, whitewash.",
+    "metadata": {
+      "altSpelling": "laite"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "laité",
     "pos": "adj.",
     "translation": ", soft-roed.",
@@ -225144,6 +226827,15 @@
     "type": "Base"
   },
   {
+    "word": "lama",
+    "pos": "n.m.",
+    "translation": ", (mam.) lama (goat).",
+    "metadata": {
+      "altSpelling": "llama"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "lamanage",
     "pos": "n.m.",
     "translation": ", harbor-pilotage.",
@@ -225235,6 +226927,15 @@
     "pos": "v.a.",
     "translation": ", to panel; to wainscot.",
     "type": "Base"
+  },
+  {
+    "word": "lambruche",
+    "pos": "n.f.",
+    "translation": ", (bot.) wild vine, fox grape.",
+    "metadata": {
+      "altSpelling": "lambrusque"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "lame",
@@ -225520,6 +227221,15 @@
     "pos": "n.m.",
     "translation": ", lampyris, glow-worm.",
     "type": "Base"
+  },
+  {
+    "word": "lançage",
+    "pos": "n.m.",
+    "translation": ", darting, throwing; (nav.) launch, launching.",
+    "metadata": {
+      "altSpelling": "lancement"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "lance",
@@ -226088,6 +227798,21 @@
     "type": "Base"
   },
   {
+    "word": "lanturelu",
+    "pos": "adv.",
+    "translation": ", stuff! fudge! fiddle-sticks!",
+    "usage": [
+      {
+        "fr": "Il lui a répondu —",
+        "en": "stuff and nonsense! he said to him."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "lanturlu"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "lanugineu-x",
     "pos": "adj.",
     "translation": ", lanuginous, downy.",
@@ -226183,6 +227908,17 @@
       "femininePos": "n.f."
     },
     "type": "BaseWith2GenderNoun"
+  },
+  {
+    "word": "lapis",
+    "pronunciation": "-pis",
+    "pos": "n.m.",
+    "translation": ", lapis lazuli.",
+    "metadata": {
+      "altSpelling": "lapis lazuli",
+      "plural": "—"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "lapon",
@@ -226771,6 +228507,15 @@
     "pos": "n.f.",
     "translation": ", lassitude, weariness.",
     "type": "Base"
+  },
+  {
+    "word": "last",
+    "pos": "n.m.",
+    "translation": ", (com., nav.) last (two tons weight, 4,000 kil.).",
+    "metadata": {
+      "altSpelling": "laste"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "lasting",
@@ -227958,6 +229703,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "léonure",
+    "pos": "n.m.",
+    "translation": ", (bot.) motherwort.",
+    "metadata": {
+      "altSpelling": "léonurus"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "léopard",
     "pos": "n.m.",
     "translation": ", leopard.",
@@ -228014,6 +229768,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "lérot",
+    "pos": "n.m.",
+    "translation": ", (mam.) garden-dormouse.",
+    "metadata": {
+      "altSpelling": "liron"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "lèse",
@@ -228881,6 +230644,15 @@
     "pos": "n.m.",
     "translation": ", (geol.) Lias.",
     "type": "Base"
+  },
+  {
+    "word": "liasique",
+    "pos": "adj.",
+    "translation": ", (geol.) Liassic.",
+    "metadata": {
+      "altSpelling": "liassique"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "liasse",
@@ -230917,6 +232689,15 @@
     "type": "Base"
   },
   {
+    "word": "lithiase",
+    "pos": "n.f.",
+    "translation": ", (med.) lithiasis.",
+    "metadata": {
+      "altSpelling": "lithiasie"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "lithiate",
     "pos": "n.m.",
     "translation": ", (chem.) lithiate.",
@@ -230993,6 +232774,15 @@
     "pos": "n.m.",
     "translation": ", lithologist.",
     "type": "Base"
+  },
+  {
+    "word": "lithontriptique",
+    "pos": "n.m.",
+    "translation": "and adj. , (med.) lithontriptic.",
+    "metadata": {
+      "altSpelling": "lithotriptique"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "lithophage",
@@ -232434,6 +234224,15 @@
     "type": "Base"
   },
   {
+    "word": "longrine",
+    "pos": "n.f.",
+    "translation": ", girder, sleeper.",
+    "metadata": {
+      "altSpelling": "longuerine"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "longtemps",
     "pronunciation": "lōn-tān",
     "pos": "adv.",
@@ -232831,6 +234630,16 @@
     "pos": "n.f.",
     "translation": ", (ich.) lote; eel-pout.",
     "type": "Base"
+  },
+  {
+    "word": "lotus",
+    "pronunciation": "-tûs, -tôs",
+    "pos": "n.m.",
+    "translation": ", (bot.) lotus, lote.",
+    "metadata": {
+      "altSpelling": "lotos"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "louable",
@@ -234446,6 +236255,15 @@
     "type": "Base"
   },
   {
+    "word": "mâchecoulis",
+    "pos": "n.m.",
+    "translation": ", (fort.) machicolation.",
+    "metadata": {
+      "altSpelling": "mâchicoulis"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "mâche-dru",
     "pos": "n.m.",
     "translation": ", (pop.) glutton.",
@@ -234828,6 +236646,15 @@
     "pos": "v.a.",
     "translation": ", to tew, to break hemp.",
     "type": "Base"
+  },
+  {
+    "word": "macre",
+    "pos": "n.f.",
+    "translation": ", (bot.) water-caltrop.",
+    "metadata": {
+      "altSpelling": "macle"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "macreuse",
@@ -235392,6 +237219,16 @@
       "marker": "*"
     },
     "type": "BaseWithMarker"
+  },
+  {
+    "word": "magnolia",
+    "pronunciation": "mag-no-",
+    "pos": "n.m.",
+    "translation": ", (bot.) magnolia.",
+    "metadata": {
+      "altSpelling": "magnolier"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "magot",
@@ -236091,6 +237928,15 @@
     "type": "Base"
   },
   {
+    "word": "maïolique",
+    "pos": "n.f.",
+    "translation": ", old Spanish or Italian earthenware, faïence.",
+    "metadata": {
+      "altSpelling": "majolique"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "maire",
     "pos": "n.m.",
     "translation": ", mayor.",
@@ -236519,6 +238365,15 @@
     "type": "Base"
   },
   {
+    "word": "makis",
+    "pos": "n.m.",
+    "translation": ", thicket, brushwood, bush (in Corsica).",
+    "metadata": {
+      "altSpelling": "maquis"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "mal",
     "pos": "n.m.",
     "translation": ", evil, ill; harm, hurt, pain, ache, sickness, distemper, complaint; hardship; pity; mischief; misfortune; trouble, difficulty, labor. Quel — y a-t-il à cela? what harm is there in that? Mener or",
@@ -236851,6 +238706,15 @@
     "pos": "n.m.",
     "translation": ", Malaga (wine).",
     "type": "Base"
+  },
+  {
+    "word": "malaguette",
+    "pos": "n.f.",
+    "translation": ", Guinea-pepper.",
+    "metadata": {
+      "altSpelling": "maniguette"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "malai",
@@ -238452,6 +240316,25 @@
     "type": "Base"
   },
   {
+    "word": "maniement",
+    "pos": "n.m.",
+    "translation": ", handling; wielding; management, use, conduct, handling of money.",
+    "usage": [
+      {
+        "fr": "— des armes",
+        "en": "manual exercise."
+      },
+      {
+        "fr": "Le — des deniers",
+        "en": "the management of money."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "manîment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "manier",
     "pos": "v.a.",
     "translation": ", to feel, to handle; to touch; to use, to wield, to ply, to manage, to govern.",
@@ -238654,6 +240537,15 @@
     "pos": "v.a.",
     "translation": "and n. , to manipulate.",
     "type": "Base"
+  },
+  {
+    "word": "manique",
+    "pos": "n.f.",
+    "translation": ", hand-leather.",
+    "metadata": {
+      "altSpelling": "manicle"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "maniveau",
@@ -241885,6 +243777,15 @@
     "type": "Base"
   },
   {
+    "word": "massorah",
+    "pos": "n.f.",
+    "translation": ", masorah, massora.",
+    "metadata": {
+      "altSpelling": "massore"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "massorète",
     "pos": "n.m.",
     "translation": ", masorite.",
@@ -243931,6 +245832,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "mégalosaure",
+    "pos": "n.m.",
+    "translation": ", (foss.) megalosaurus.",
+    "metadata": {
+      "altSpelling": "mégalosaurus"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "mégapode",
     "pos": "n.m.",
     "translation": ", jungle-fowl.",
@@ -244022,6 +245932,21 @@
       "marker": "*"
     },
     "type": "BaseWithMarker"
+  },
+  {
+    "word": "meistre",
+    "pos": "n.m.",
+    "translation": ", (nav.) mast, main mast.",
+    "usage": [
+      {
+        "fr": "Mât de —",
+        "en": "main mast (of ships with lateen sails)."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "mestre"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "méjuger",
@@ -244360,6 +246285,15 @@
       "suffix": "-e"
     },
     "type": "BaseWithFeminine"
+  },
+  {
+    "word": "melongène",
+    "pos": "n.f.",
+    "translation": ", mad-apple, egg-plant.",
+    "metadata": {
+      "altSpelling": "mélongène"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "melonnière",
@@ -246278,6 +248212,24 @@
     "type": "Base"
   },
   {
+    "word": "mésadvenir",
+    "pos": "v.imp.",
+    "translation": ", (l.u.) to come to any harm, to turn out ill.",
+    "metadata": {
+      "altSpelling": "mésavenir"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "mésair",
+    "pos": "n.m.",
+    "translation": ", (man.) prancing.",
+    "metadata": {
+      "altSpelling": "mézair"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "mesaise",
     "pos": "n.m.",
     "translation": ", uncomfortableness, uneasiness.",
@@ -246315,6 +248267,15 @@
     "pos": "n.f.",
     "translation": ", bird trap.",
     "type": "Base"
+  },
+  {
+    "word": "mésarriver",
+    "pos": "v.imp.",
+    "translation": ", to come to any harm, to happen unluckily, to turn out ill.",
+    "metadata": {
+      "altSpelling": "mésavenir"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "mésaventure",
@@ -248401,6 +250362,15 @@
     "type": "Base"
   },
   {
+    "word": "mièvrerie",
+    "pos": "n.f.",
+    "translation": ", (fam.) roguishness, archness; piece of roguery, prank; affectedness, quaintness in writing.",
+    "metadata": {
+      "altSpelling": "mièvreté"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "mignard",
     "pos": "adj.",
     "translation": ", delicate, pretty; mincing.",
@@ -248981,6 +250951,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "millouin",
+    "pos": "n.m.",
+    "translation": ", (orni.) pochard, canvas-back duck.",
+    "metadata": {
+      "altSpelling": "milouin"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "milord",
@@ -249866,6 +251845,15 @@
     "type": "Base"
   },
   {
+    "word": "mirmidon",
+    "pos": "n.m.",
+    "translation": ", (hist.) Myrmidon; shrimp, pygmy (pers.).",
+    "metadata": {
+      "altSpelling": "myrmidon"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "mirobolant",
     "pos": "adj.",
     "translation": ", prodigious, wonderful, stupendous.",
@@ -250300,6 +252288,15 @@
     "type": "Base"
   },
   {
+    "word": "mistral",
+    "pos": "n.m.",
+    "translation": ", (local ex.) north-west wind (in southern France).",
+    "metadata": {
+      "altSpelling": "maëstral"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "mistress",
     "pos": "n.f.",
     "translation": ", Mrs.",
@@ -250557,6 +252554,15 @@
     "pos": "adj.",
     "translation": ", mnemonic, mnemonical.",
     "type": "Base"
+  },
+  {
+    "word": "mnémonique",
+    "pos": "n.f.",
+    "translation": ", mnemonics, mnemotechny.",
+    "metadata": {
+      "altSpelling": "mnémotechnie"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "mobile",
@@ -251097,6 +253103,21 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "mofette",
+    "pos": "n.f.",
+    "translation": ", (l.u.) fire-damp (mines); ☉(chem.) any poisonous gas; (mam.) mephitic weasel.",
+    "usage": [
+      {
+        "fr": "— atmosphérique",
+        "en": "azote, azotic gas."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "moufette"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "mogol",
@@ -253575,6 +255596,15 @@
     "type": "Base"
   },
   {
+    "word": "moret",
+    "pos": "n.m.",
+    "translation": ", (bot.) whortleberry.",
+    "metadata": {
+      "altSpelling": "mouret"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "morfil",
     "pos": "n.m.",
     "translation": ", wire edge (of knives, of razors); elephant’s tusks, (unwrought) ivory.",
@@ -254921,6 +256951,15 @@
     "type": "Base"
   },
   {
+    "word": "moulineur",
+    "pos": "n.m.",
+    "translation": ", silk-thrower.",
+    "metadata": {
+      "altSpelling": "moulinier"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "moulu",
     "pos": "part.",
     "translation": ", ground; bruised.",
@@ -255645,6 +257684,16 @@
     "type": "Base"
   },
   {
+    "word": "mufti",
+    "pos": "n.m.",
+    "translation": ", mufti.",
+    "metadata": {
+      "altSpelling": "muphti",
+      "plural": "—s"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "muge",
     "pos": "n.m.",
     "translation": ", (ich.) mullet, gray mullet.",
@@ -256286,6 +258335,16 @@
     "pos": "n.f.",
     "translation": ", loitering, trifling; dawdling.",
     "type": "Base"
+  },
+  {
+    "word": "musc",
+    "pos": "n.m.",
+    "translation": ", (mam.) musk, musk-deer.",
+    "metadata": {
+      "altSpelling": "porte-musc",
+      "plural": "—"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "musc",
@@ -256954,6 +259013,15 @@
     "type": "Base"
   },
   {
+    "word": "mythologiste",
+    "pos": "n.m.",
+    "translation": ", mythologist.",
+    "metadata": {
+      "altSpelling": "mythologue"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "myure",
     "pos": "adj.",
     "translation": ", (med.) sinking (of the pulse).",
@@ -257147,6 +259215,16 @@
       "femininePos": "n.f."
     },
     "type": "BaseWith2GenderNoun"
+  },
+  {
+    "word": "naguère",
+    "pronunciation": "na-ghèr",
+    "pos": "adv.",
+    "translation": ", lately, but lately, but now, not long ago.",
+    "metadata": {
+      "altSpelling": "naguères"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "naïade",
@@ -257848,6 +259926,15 @@
     "type": "Base"
   },
   {
+    "word": "natron",
+    "pos": "n.m.",
+    "translation": ", (min.) natron.",
+    "metadata": {
+      "altSpelling": "natrum"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "natte",
     "pos": "n.f.",
     "translation": ", mat, matting, straw-mat; plait, twist (of hair, silk, &c.).",
@@ -258506,6 +260593,15 @@
     "pos": "adj.",
     "translation": ", necrologic, necrological.",
     "type": "Base"
+  },
+  {
+    "word": "nécromance",
+    "pos": "n.f.",
+    "translation": ", necromancy.",
+    "metadata": {
+      "altSpelling": "nécromancie"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "nécromancien",
@@ -260863,6 +262959,15 @@
     "type": "Base"
   },
   {
+    "word": "nolis",
+    "pos": "n.m.",
+    "translation": ", freight, chartering.",
+    "metadata": {
+      "altSpelling": "nolisement"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "noliser",
     "pos": "v.a.",
     "translation": ", to freight, to charter.",
@@ -262035,6 +264140,15 @@
     "type": "Base"
   },
   {
+    "word": "nouilles",
+    "pos": "n.f.pl.",
+    "translation": ", ribbon vermicelli.",
+    "metadata": {
+      "altSpelling": "noules"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "noulet",
     "pos": "n.m.",
     "translation": ", gutter; rafter (of a roof).",
@@ -262446,6 +264560,16 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "noyale",
+    "pronunciation": "noa-yal",
+    "pos": "n.f.",
+    "translation": ", sailcloth, canvas.",
+    "metadata": {
+      "altSpelling": "noyalle"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "noyau",
@@ -263852,6 +265976,15 @@
     "type": "Base"
   },
   {
+    "word": "obsidiane",
+    "pos": "n.f.",
+    "translation": ", (min.) obsidian (volcanic glass).",
+    "metadata": {
+      "altSpelling": "obsidienne"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "obsidional",
     "pos": "adj.",
     "translation": ", obsidional.",
@@ -264105,6 +266238,15 @@
     "pos": "n.f.",
     "translation": ", (ecc.) obvention.",
     "type": "Base"
+  },
+  {
+    "word": "obvers",
+    "pos": "n.m.",
+    "translation": ", obverse.",
+    "metadata": {
+      "altSpelling": "obverse"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "obvier",
@@ -264573,6 +266715,15 @@
     "pos": "n.f.",
     "translation": ", (poet.) odelet.",
     "type": "Base"
+  },
+  {
+    "word": "odéon",
+    "pos": "n.m.",
+    "translation": ", Odéon (name of a theatre in Paris).",
+    "metadata": {
+      "altSpelling": "odéum"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "odeur",
@@ -266813,6 +268964,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "oniromance",
+    "pos": "n.f.",
+    "translation": ", oneiromancy.",
+    "metadata": {
+      "altSpelling": "oniromancie"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "onocrotale",
     "pos": "n.m.",
     "translation": ", (orni.) pelican.",
@@ -268612,6 +270772,21 @@
     "type": "Base"
   },
   {
+    "word": "ores",
+    "pos": "adv.",
+    "translation": ", only used in",
+    "usage": [
+      {
+        "fr": "d’— et déjà",
+        "en": "from this moment."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "ors"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "orfèvre",
     "pos": "n.m.",
     "translation": ", goldsmith, silversmith.",
@@ -268814,6 +270989,15 @@
     "pos": "n.m.",
     "translation": ", orgeat (liquor).",
     "type": "Base"
+  },
+  {
+    "word": "orgelet",
+    "pos": "n.m.",
+    "translation": ", (med.) stye.",
+    "metadata": {
+      "altSpelling": "orgeolet"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "orgie",
@@ -269205,6 +271389,15 @@
     "type": "Base"
   },
   {
+    "word": "ormaie",
+    "pos": "n.f.",
+    "translation": ", elm-grove.",
+    "metadata": {
+      "altSpelling": "ormoie"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "orme",
     "pos": "n.m.",
     "translation": ", elm.",
@@ -269255,6 +271448,15 @@
       "suffix": "-e"
     },
     "type": "BaseWithFeminine"
+  },
+  {
+    "word": "ornemaniste",
+    "pos": "n.m.",
+    "translation": ", (arch.) ornament-maker.",
+    "metadata": {
+      "altSpelling": "ornementiste"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "ornement",
@@ -269319,6 +271521,24 @@
     "pos": "n.f.",
     "translation": ", ornithology.",
     "type": "Base"
+  },
+  {
+    "word": "ornithologiste",
+    "pos": "n.m.",
+    "translation": ", ornithologist.",
+    "metadata": {
+      "altSpelling": "ornithologue"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "ornithomance",
+    "pos": "n.f.",
+    "translation": ", ornithomancy.",
+    "metadata": {
+      "altSpelling": "ornithomancie"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "ornithorynque",
@@ -269680,6 +271900,15 @@
     "type": "Base"
   },
   {
+    "word": "oryctologiste",
+    "pos": "n.m.",
+    "translation": ", oryctologist.",
+    "metadata": {
+      "altSpelling": "oryctologue"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "os",
     "pronunciation": "ô",
     "pos": "n.m.",
@@ -269957,6 +272186,15 @@
     "pos": "adv.",
     "translation": ", ostensibly, visibly.",
     "type": "Base"
+  },
+  {
+    "word": "ostensoir",
+    "pos": "n.m.",
+    "translation": ", (c.rel.) monstrance, remonstrance.",
+    "metadata": {
+      "altSpelling": "ostensoire"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "ostentat-eur",
@@ -272667,6 +274905,15 @@
     "type": "Base"
   },
   {
+    "word": "palissandre",
+    "pos": "n.m.",
+    "translation": ", violet ebony, rosewood.",
+    "metadata": {
+      "altSpelling": "palixandre"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "pâlissant",
     "pos": "adj.",
     "translation": ", turning pale, waning.",
@@ -274400,6 +276647,37 @@
     "type": "Base"
   },
   {
+    "word": "pâque",
+    "pos": "n.m.",
+    "translation": ", Easter.",
+    "usage": [
+      {
+        "fr": "Quinzaine de —s",
+        "en": "Passion-week and Easter week."
+      },
+      {
+        "fr": "Semaine de —s",
+        "en": "Easter-week. In the following expressions Pâques is feminine plural:"
+      },
+      {
+        "fr": "—s fleuries",
+        "en": "Palm-Sunday."
+      },
+      {
+        "fr": "—s closes",
+        "en": "Low-Sunday."
+      },
+      {
+        "fr": "Faire ses —",
+        "en": "to receive the Sacrament (at Easter)."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "pâques"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "paquebot",
     "pronunciation": "pak-bô",
     "pos": "n.m.",
@@ -274838,6 +277116,24 @@
     "type": "Base"
   },
   {
+    "word": "parafe",
+    "pos": "n.m.",
+    "translation": ", flourish (added to one’s signature); initials and flourish; paraph, sign manual, signature.",
+    "metadata": {
+      "altSpelling": "paraphe"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "parafer",
+    "pos": "v.a.",
+    "translation": ", to put one’s flourish, dash, or initials to; to sign.",
+    "metadata": {
+      "altSpelling": "parapher"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "paraffine",
     "pos": "n.f.",
     "translation": ", (chem.) paraffine.",
@@ -274981,6 +277277,15 @@
     "pos": "adv.",
     "translation": ", parallelly, in parallel lines; comparatively.",
     "type": "Base"
+  },
+  {
+    "word": "parallélépipède",
+    "pos": "n.m.",
+    "translation": ", (geom.) parallelopiped.",
+    "metadata": {
+      "altSpelling": "parallélipipède"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "parallélisme",
@@ -275518,6 +277823,15 @@
     "type": "Base"
   },
   {
+    "word": "paréage",
+    "pos": "n.m.",
+    "translation": ", (feudal law) joint possession.",
+    "metadata": {
+      "altSpelling": "pariage"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "pareaux",
     "pos": "n.m.pl.",
     "translation": ", weights (of a fishing net).",
@@ -275991,6 +278305,15 @@
     "pos": "n.m.",
     "translation": ", perfuming-pan; fumigator.",
     "type": "Base"
+  },
+  {
+    "word": "parhélie",
+    "pos": "n.m.",
+    "translation": ", parhelion, mock-sun.",
+    "metadata": {
+      "altSpelling": "parélie"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "pari",
@@ -276789,6 +279112,15 @@
     "pos": "n.m.",
     "translation": "and adj. , parricide; matricide; parricidal; matricidal; murderous.",
     "type": "Base"
+  },
+  {
+    "word": "parse",
+    "pos": "n.m.",
+    "translation": "and adj. , Parsee.",
+    "metadata": {
+      "altSpelling": "parsi"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "parsemer",
@@ -278676,6 +281008,15 @@
     "pos": "adj.",
     "translation": ", passively.",
     "type": "Base"
+  },
+  {
+    "word": "passiveté",
+    "pos": "n.f.",
+    "translation": ", passiveness.",
+    "metadata": {
+      "altSpelling": "passivité"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "passoire",
@@ -282816,6 +285157,15 @@
     "type": "Base"
   },
   {
+    "word": "péplon",
+    "pos": "n.m.",
+    "translation": ", (antiq.) peplus (lady’s cloak).",
+    "metadata": {
+      "altSpelling": "péplum"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "pepsine",
     "pos": "n.f.",
     "translation": ", (chem. pharm.) pepsine.",
@@ -286162,6 +288512,15 @@
     "type": "Base"
   },
   {
+    "word": "pétunsé",
+    "pos": "n.m.",
+    "translation": ", petunse, china-stone.",
+    "metadata": {
+      "altSpelling": "pétunzé"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "peu",
     "pos": "adv.",
     "translation": ", little, not much, few, not many. Dans — , or short time. À — près , Imaginez un —! just fancy!",
@@ -286256,6 +288615,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "peulvan",
+    "pos": "n.m.",
+    "translation": ", (archæol.) menhir.",
+    "metadata": {
+      "altSpelling": "peulven"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "peuplade",
@@ -286494,6 +288862,15 @@
     "pos": "n.f.",
     "translation": ", (ent.) moth.",
     "type": "Base"
+  },
+  {
+    "word": "phaleuce",
+    "pos": "n.m.",
+    "translation": "and adj. , (Gr. and Lat. poet.) hendecasyllable; hendecasyllabic.",
+    "metadata": {
+      "altSpelling": "phaleuque"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "phallique",
@@ -287022,6 +289399,15 @@
     "type": "Base"
   },
   {
+    "word": "phormion",
+    "pos": "n.m.",
+    "translation": ", (bot.) phormium.",
+    "metadata": {
+      "altSpelling": "phormione"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "phosphate",
     "pos": "n.m.",
     "translation": ", (chem.) phosphate.",
@@ -287184,6 +289570,15 @@
     "type": "Base"
   },
   {
+    "word": "phraseur",
+    "pos": "n.m.",
+    "translation": ", (fam.) phraseologist; prolix, verbose, tedious writer or talker, twaddler; bombastic writer.",
+    "metadata": {
+      "altSpelling": "phrasier"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "phrénique",
     "pos": "adj.",
     "translation": ", (anat.) phrenic.",
@@ -287200,6 +289595,15 @@
     "pos": "adj.",
     "translation": ", phrenologic.",
     "type": "Base"
+  },
+  {
+    "word": "phrénologiste",
+    "pos": "n.m.",
+    "translation": ", phrenologist.",
+    "metadata": {
+      "altSpelling": "phrénologue"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "phrygien",
@@ -287478,6 +289882,15 @@
     "pos": "adv.",
     "translation": ", (mus.) piano, softly.",
     "type": "Base"
+  },
+  {
+    "word": "piast",
+    "pos": "n.m.",
+    "translation": ", Polish nobleman.",
+    "metadata": {
+      "altSpelling": "piaste"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "piastre",
@@ -288903,6 +291316,15 @@
     "type": "Base"
   },
   {
+    "word": "pinasse",
+    "pos": "n.f.",
+    "translation": ", (nav.) pinnace.",
+    "metadata": {
+      "altSpelling": "pinace"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "pinastre",
     "pos": "n.m.",
     "translation": ", (bot.) pinaster.",
@@ -289129,10 +291551,28 @@
     "type": "Base"
   },
   {
+    "word": "pingouin",
+    "pos": "n.m.",
+    "translation": ", (orni.) penguin; auk.",
+    "metadata": {
+      "altSpelling": "pinguin"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "pingre",
     "pos": "n.m.",
     "translation": "and adj. , (pop.) miser, skinflint; avaricious, mean, stingy, close-fisted.",
     "type": "Base"
+  },
+  {
+    "word": "pinne",
+    "pos": "n.f.",
+    "translation": ", (mol.) pinna.",
+    "metadata": {
+      "altSpelling": "pinne marine"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "pinné",
@@ -289336,6 +291776,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "pipi",
+    "pos": "n.m.",
+    "translation": ", (orni.) titling, titlark, pipit.",
+    "metadata": {
+      "altSpelling": "pitpit"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "pipoir",
@@ -291224,6 +293673,15 @@
     "type": "Base"
   },
   {
+    "word": "plançon",
+    "pos": "n.m.",
+    "translation": ", sapling; slip, twig, shoot (of willow, etc.).",
+    "metadata": {
+      "altSpelling": "plantard"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "plane",
     "pos": "n.f.",
     "translation": ", draw-knife; turning chisel; spoke-shave.",
@@ -292237,6 +294695,16 @@
     "pos": "adj.",
     "translation": ", plethoric.",
     "type": "Base"
+  },
+  {
+    "word": "pleu-pleu",
+    "pos": "n.m.",
+    "translation": ", green woodpecker.",
+    "metadata": {
+      "altSpelling": "plui-plui",
+      "plural": "—"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "pleur",
@@ -293742,6 +296210,15 @@
   {
     "word": "poêle",
     "pos": "n.m.",
+    "translation": ", stove.",
+    "metadata": {
+      "altSpelling": "poile"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "poêle",
+    "pos": "n.m.",
     "translation": ", pall (at a funeral); (c.rel.) canopy.",
     "type": "Base"
   },
@@ -294497,6 +296974,15 @@
     "type": "Base"
   },
   {
+    "word": "poireau",
+    "pos": "n.m.",
+    "translation": ", (bot.) leek; (vet.) wart.",
+    "metadata": {
+      "altSpelling": "porreau"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "poirée",
     "pos": "n.f.",
     "translation": ", (bot.) white beet.",
@@ -294746,6 +297232,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "polacre",
+    "pos": "n.f.",
+    "translation": ", (nav.) polacca, polacre.",
+    "metadata": {
+      "altSpelling": "polaque"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "polaire",
@@ -295234,6 +297729,15 @@
     "pos": "n.m.",
     "translation": ", (geom.) polyhedron.",
     "type": "Base"
+  },
+  {
+    "word": "polygala",
+    "pos": "n.m.",
+    "translation": ", (bot.) polygala, milkwort.",
+    "metadata": {
+      "altSpelling": "polygale"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "polygame",
@@ -299720,6 +302224,24 @@
     "type": "Base"
   },
   {
+    "word": "pourissage",
+    "pos": "n.m.",
+    "translation": ", (tech.) retting.",
+    "metadata": {
+      "altSpelling": "pourrissage"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "pourissoir",
+    "pos": "n.m.",
+    "translation": ", (tech.) retting vat.",
+    "metadata": {
+      "altSpelling": "pourrissoir"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "pourlécher",
     "pos": "v.a.",
     "translation": ", (l.u.) to lick all over; (fig.) to polish, to labor.",
@@ -300601,6 +303123,16 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "pouzzolane",
+    "pos": "n.f.",
+    "translation": ", pozzalana, puzzolana, pozzuolana.",
+    "metadata": {
+      "altSpelling": "pozzolane",
+      "plural": "—s"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "pp.",
@@ -301862,6 +304394,15 @@
     "type": "Base"
   },
   {
+    "word": "prélart",
+    "pos": "n.m.",
+    "translation": ", (nav.) tarpaulin.",
+    "metadata": {
+      "altSpelling": "prélat"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "prélasser",
     "pos": "v.r.",
     "translation": ", to strut, to stalk (past), to parade, to make a great show; to loll, to lounge; to take one’s ease.",
@@ -301875,6 +304416,15 @@
     "pos": "n.f.",
     "translation": ", prelacy, episcopacy.",
     "type": "Base"
+  },
+  {
+    "word": "prèle",
+    "pos": "n.f.",
+    "translation": ", (bot.) horsetail, shave-grass.",
+    "metadata": {
+      "altSpelling": "presle"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "prélegs",
@@ -307516,6 +310066,15 @@
     "type": "Base"
   },
   {
+    "word": "prophylactique",
+    "pos": "n.f.",
+    "translation": ", (med.) the science of prophylactic medicine.",
+    "metadata": {
+      "altSpelling": "prophylaxie"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "propice",
     "pos": "adj.",
     "translation": ", propitious, favorable, kind.",
@@ -309107,6 +311666,15 @@
     "type": "Base"
   },
   {
+    "word": "psora",
+    "pos": "n.f.",
+    "translation": ", (med.) psora, itch.",
+    "metadata": {
+      "altSpelling": "psore"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "psorique",
     "pos": "adj.",
     "translation": ", (med.) psoric, itchy.",
@@ -309137,6 +311705,16 @@
     "pos": "adj.",
     "translation": ", psychologic, psychological.",
     "type": "Base"
+  },
+  {
+    "word": "psychologiste",
+    "pronunciation": "-ko-",
+    "pos": "n.m.",
+    "translation": ", psychologist.",
+    "metadata": {
+      "altSpelling": "psychologue"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "psylle",
@@ -311062,6 +313640,16 @@
     "type": "Base"
   },
   {
+    "word": "quaker",
+    "pronunciation": "kooa-kr",
+    "pos": "n.m.",
+    "translation": ", quaker.",
+    "metadata": {
+      "altSpelling": "quacre"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "quakeresse",
     "pronunciation": "kooa-kres",
     "pos": "n.f.",
@@ -312393,6 +314981,16 @@
     "type": "Base"
   },
   {
+    "word": "queux",
+    "pronunciation": "keû",
+    "pos": "n.f.",
+    "translation": ", hone, whetstone.",
+    "metadata": {
+      "altSpelling": "queue"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "qui",
     "pos": "relative pron.",
     "translation": ", who, whoever, whom, whomsoever, which, that; what; some. De — parle-t-il? whom is he speaking of? À — est ce livre? whose book is this? — est là? who’s there? — d’entre vous oserait? which of you would dare? — que ce soit , À — est-ce à? whose turn is it to? À — est? whose is? or to whom is? À — le tour? whose turn is it?",
@@ -313093,6 +315691,36 @@
     "type": "Base"
   },
   {
+    "word": "qui va là?",
+    "pos": "n.m.",
+    "translation": ", who goes there?",
+    "usage": [
+      {
+        "fr": "Avoir réponse à —",
+        "en": "to be stopped by no difficulty; to have an answer always ready."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "qui-va-là"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "qui vive?",
+    "pos": "n.m.",
+    "translation": ", (milit.) challenge-word; who goes there? or on the alert.",
+    "usage": [
+      {
+        "fr": "Être sur le —",
+        "en": "to keep a good look-out; to be on the qui vive,"
+      }
+    ],
+    "metadata": {
+      "altSpelling": "qui-vive"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "quoailler",
     "pos": "v.n.",
     "translation": ", (of a horse) to swish its tail.",
@@ -313401,6 +316029,21 @@
     "type": "Base"
   },
   {
+    "word": "rabbi",
+    "pos": "n.m.",
+    "translation": ", rabbi, rabbin.",
+    "usage": [
+      {
+        "fr": "Grand —",
+        "en": "chief rabbi."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "rabbin"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "rabbinage",
     "pos": "n.m.",
     "translation": ", rabbinism.",
@@ -313417,6 +316060,15 @@
     "pos": "n.m.",
     "translation": ", rabbinism.",
     "type": "Base"
+  },
+  {
+    "word": "rabbiniste",
+    "pos": "n.m.",
+    "translation": ", rabbinist.",
+    "metadata": {
+      "altSpelling": "rabbaniste"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "rabdologie",
@@ -313441,6 +316093,15 @@
     "pos": "n.f.",
     "translation": ", rape; rape-seed.",
     "type": "Base"
+  },
+  {
+    "word": "rabique",
+    "pos": "adj.",
+    "translation": ", (med.) hydrophobic; of rabies, rabid.",
+    "metadata": {
+      "altSpelling": "rabeique"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "râble",
@@ -314174,6 +316835,15 @@
     "pos": "adj.",
     "translation": ", relatable.",
     "type": "Base"
+  },
+  {
+    "word": "racontage",
+    "pos": "n.m.",
+    "translation": ", gossip, tittle-tattle, idle tales.",
+    "metadata": {
+      "altSpelling": "racontar"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "raconter",
@@ -315285,6 +317955,15 @@
     "type": "Base"
   },
   {
+    "word": "raire",
+    "pos": "v.n.",
+    "translation": ", (hunt.) to bell, to croon.",
+    "metadata": {
+      "altSpelling": "réer"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "rais",
     "pos": "n.m.",
     "translation": ", spoke (of a wheel); ☉beam, ray (of light); (her.) beam.",
@@ -315603,6 +318282,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "rajah",
+    "pos": "n.m.",
+    "translation": ", raja, rajah.",
+    "metadata": {
+      "altSpelling": "raja"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "rajeunir",
     "pos": "v.a.",
     "translation": ", to make young; to make look younger, to give a young look; to restore to youth; to revive, to renew, to modernize, to prune, to lop (trees).",
@@ -315881,6 +318569,15 @@
       "reflexive": "se"
     },
     "type": "BaseWithReflexive"
+  },
+  {
+    "word": "ramadan",
+    "pos": "n.m.",
+    "translation": ", (Mahometan religion) Ramadan (feast of).",
+    "metadata": {
+      "altSpelling": "ramazan"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "ramage",
@@ -316456,6 +319153,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "rancidité",
+    "pos": "n.f.",
+    "translation": ", rancidness, rancidity.",
+    "metadata": {
+      "altSpelling": "rancissure"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "rancir",
     "pos": "v.r.",
     "translation": ", to grow rancid.",
@@ -316682,6 +319388,15 @@
       "reflexive": "se"
     },
     "type": "BaseWithReflexive"
+  },
+  {
+    "word": "ranule",
+    "pos": "n.f.",
+    "translation": ", (med.) ranula.",
+    "metadata": {
+      "altSpelling": "grenouillette"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "ranz",
@@ -319524,6 +322239,15 @@
     "type": "Base"
   },
   {
+    "word": "rèble",
+    "pos": "n.m.",
+    "translation": ", (bot.) goose-grass; cleavers.",
+    "metadata": {
+      "altSpelling": "rièble"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "reboire",
     "pos": "v.a.",
     "translation": ", to drink again.",
@@ -320274,6 +322998,15 @@
     "type": "Base"
   },
   {
+    "word": "réchampir",
+    "pos": "v.a.",
+    "translation": ", to pick out with colors, to set off.",
+    "metadata": {
+      "altSpelling": "échampir"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "rechange",
     "pos": "n.m.",
     "translation": ", change of anything; spare things; (com.) re-exchange; (nav.) spare stores.",
@@ -320837,6 +323570,15 @@
       "suffix": "-e"
     },
     "type": "BaseWithFeminine"
+  },
+  {
+    "word": "reclusion",
+    "pos": "n.f.",
+    "translation": ", reclusion, retirement, seclusion; (jur.) confinement, imprisonment (with hard labor and loss of civil rights).",
+    "metadata": {
+      "altSpelling": "réclusion"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "recogner",
@@ -321719,6 +324461,15 @@
     "type": "Base"
   },
   {
+    "word": "recrépissage",
+    "pos": "n.m.",
+    "translation": ", replastering; repatching.",
+    "metadata": {
+      "altSpelling": "recrépissement"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "recreuser",
     "pos": "v.a.",
     "translation": ", to dig up again, to dig deeper.",
@@ -322571,6 +325322,24 @@
     "type": "Base"
   },
   {
+    "word": "redondance",
+    "pos": "n.f.",
+    "translation": ", superfluity of words, redundancy.",
+    "metadata": {
+      "altSpelling": "rédondance"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "redonder",
+    "pos": "v.n.",
+    "translation": ", to be redundant.",
+    "metadata": {
+      "altSpelling": "rédonder"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "redonner",
     "pos": "v.a.",
     "translation": ", to give again, to give back again; to restore; to deal again (at cards).",
@@ -322651,6 +325420,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "redoul",
+    "pos": "n.m.",
+    "translation": ", (bot.) coriaria myrtifolia, tanners’ sumac.",
+    "metadata": {
+      "altSpelling": "roudou"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "redoutable",
@@ -326322,6 +329100,15 @@
     "type": "Base"
   },
   {
+    "word": "remaniement",
+    "pos": "n.m.",
+    "translation": ", handling again; touching again; (print.) overrunning; doing over again, repairing, altering, changing.",
+    "metadata": {
+      "altSpelling": "remanîment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "remanier",
     "pos": "v.a.",
     "translation": ", to handle again; to touch again; to repair; to retouch, to do over again; (print.) to overrun.",
@@ -326487,6 +329274,16 @@
     "pos": "v.a.",
     "translation": ", to set (a bone); to fit in again, to clamp (pieces of joinery).",
     "type": "Base"
+  },
+  {
+    "word": "rembourrage",
+    "pronunciation": "ran-boor-",
+    "pos": "n.m.",
+    "translation": ", stuffing, padding.",
+    "metadata": {
+      "altSpelling": "rembourrement"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "rembourrer",
@@ -326706,6 +329503,21 @@
     "pos": "v.a.",
     "translation": ", to take back, to lead back; to carry back, to bring back (a person).",
     "type": "Base"
+  },
+  {
+    "word": "remerciement",
+    "pos": "n.m.",
+    "translation": ", thanks.",
+    "usage": [
+      {
+        "fr": "Faire des —s",
+        "en": "to return thanks."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "remercîment"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "remercier",
@@ -327623,6 +330435,15 @@
     "type": "Base"
   },
   {
+    "word": "remuement",
+    "pos": "n.m.",
+    "translation": ", stirring; moving, commotion, disturbance.",
+    "metadata": {
+      "altSpelling": "remûment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "remuer",
     "pos": "v.a.",
     "translation": ", to move, to stir; to rouse; to turn up; to disturb, to handle; to affect, to shake, to wag; to shuffle (of dominoes); to change the linen (of a baby). or move, furniture.",
@@ -327838,6 +330659,15 @@
     "pos": "n.f.",
     "translation": ", fox’s burrow.",
     "type": "Base"
+  },
+  {
+    "word": "rencaissage",
+    "pos": "n.m.",
+    "translation": ", (hort.) putting again into wooden boxes; (fin.) re-encashing.",
+    "metadata": {
+      "altSpelling": "rencaissement"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "rencaisser",
@@ -328690,6 +331520,15 @@
     "pos": "adj.",
     "translation": ", deniable.",
     "type": "Base"
+  },
+  {
+    "word": "reniement",
+    "pos": "n.m.",
+    "translation": ", denying, disowning; denial of St. Peter.",
+    "metadata": {
+      "altSpelling": "renîment"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "renier",
@@ -330457,6 +333296,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "repliement",
+    "pos": "n.m.",
+    "translation": ", (milit.) falling back.",
+    "metadata": {
+      "altSpelling": "reploiement"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "replier",
@@ -333795,6 +336643,24 @@
     "type": "Base"
   },
   {
+    "word": "reterçage",
+    "pos": "n.m.",
+    "translation": ", second dressing (of vines).",
+    "metadata": {
+      "altSpelling": "retersage"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "retercer",
+    "pos": "v.a.",
+    "translation": ", to dress vines again.",
+    "metadata": {
+      "altSpelling": "reterser"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "rétiaire",
     "pronunciation": "-ci-èr",
     "pos": "n.m.",
@@ -335606,6 +338472,15 @@
     "pos": "n.m.",
     "translation": ", flashing-board (for doors, etc.).",
     "type": "Base"
+  },
+  {
+    "word": "reversi",
+    "pos": "n.m.",
+    "translation": ", reversis (card game).",
+    "metadata": {
+      "altSpelling": "reversis"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "réversibilité",
@@ -337542,6 +340417,33 @@
     "type": "BaseWithReflexive"
   },
   {
+    "word": "ristorne",
+    "pos": "n.f.",
+    "translation": ", (com.) canceling an insurance.",
+    "metadata": {
+      "altSpelling": "ristourne"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "ristorner",
+    "pos": "v.a.",
+    "translation": ", (com.) to cancel an insurance; to carry to another account.",
+    "metadata": {
+      "altSpelling": "ristourner"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "rit",
+    "pos": "n.m.",
+    "translation": ", rite.",
+    "metadata": {
+      "altSpelling": "rite"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "ritournelle",
     "pos": "n.f.",
     "translation": ", (mus.) ritornello, flourish.",
@@ -338023,6 +340925,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "rock",
+    "pos": "n.m.",
+    "translation": ", roc (fabulous bird).",
+    "metadata": {
+      "altSpelling": "rouc"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "rococo",
     "pos": "n.m.",
     "translation": ", and adj. , antiquated style, rococo style, bad taste (in arts); antiquated, trumpery, old, old-fashioned.",
@@ -338466,6 +341377,15 @@
     "pos": "n.f.",
     "translation": ", (mus.) ballad, song.",
     "type": "Base"
+  },
+  {
+    "word": "romancer",
+    "pos": "v.n.",
+    "translation": ", to romance.",
+    "metadata": {
+      "altSpelling": "romanciser"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "romancero",
@@ -340593,6 +343513,24 @@
     "type": "Base"
   },
   {
+    "word": "rouster",
+    "pos": "v.a.",
+    "translation": ", (nav.) to woold, to wind (ropes).",
+    "metadata": {
+      "altSpelling": "rusturer"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "rousture",
+    "pos": "n.f.",
+    "translation": ", (nav.) woolding.",
+    "metadata": {
+      "altSpelling": "rosture"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "routailler",
     "pos": "v.a.",
     "translation": ", (hunt.) to track.",
@@ -340874,6 +343812,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "rubabelle",
+    "pos": "n.f.",
+    "translation": ", rubicel, rubicelle.",
+    "metadata": {
+      "altSpelling": "rubace"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "ruban",
@@ -341874,6 +344821,15 @@
     "type": "Base"
   },
   {
+    "word": "sabéisme",
+    "pos": "n.m.",
+    "translation": ", Sabaism.",
+    "metadata": {
+      "altSpelling": "sabaïsme"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "sabin",
     "pos": "n.m.f.",
     "translation": ", Sabine man or woman.",
@@ -342774,6 +345730,15 @@
     "pos": "n.m.",
     "translation": ", sago.",
     "type": "Base"
+  },
+  {
+    "word": "sagouier",
+    "pos": "n.m.",
+    "translation": ", (bot.) sago-tree.",
+    "metadata": {
+      "altSpelling": "sagoutier"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "sagouin",
@@ -344287,6 +347252,15 @@
     "type": "Base"
   },
   {
+    "word": "sandal",
+    "pos": "n.m.",
+    "translation": ", sandal-wood, sandal.",
+    "metadata": {
+      "altSpelling": "santal"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "sandale",
     "pos": "n.f.",
     "translation": ", sandal; fencing-shoe.",
@@ -344398,6 +347372,15 @@
       "plural": "n.p."
     },
     "type": "Base"
+  },
+  {
+    "word": "sangiac",
+    "pos": "n.m.",
+    "translation": ", sangiac; district, province; governor (in Turkey).",
+    "metadata": {
+      "altSpelling": "sangiacat"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "sanglade",
@@ -345176,6 +348159,15 @@
     "type": "Base"
   },
   {
+    "word": "sarge",
+    "pos": "n.m.",
+    "translation": ", (ich.) sheep’s head, sargus.",
+    "metadata": {
+      "altSpelling": "sargue"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "sarigue",
     "pos": "n.m.f.",
     "translation": ", opossum.",
@@ -345249,6 +348241,15 @@
     "pos": "n.f.",
     "translation": ", (bot.) savory; common marum.",
     "type": "Base"
+  },
+  {
+    "word": "sart",
+    "pos": "n.m.",
+    "translation": ", sea-wrack.",
+    "metadata": {
+      "altSpelling": "sar"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "sas",
@@ -345897,6 +348898,16 @@
     "pos": "n.f.",
     "translation": ", salt-house; salt-works.",
     "type": "Base"
+  },
+  {
+    "word": "saunier",
+    "pos": "n.m.",
+    "translation": ", salt-maker. Faux-— , dealer in contraband salt.",
+    "metadata": {
+      "altSpelling": "saulnier",
+      "plural": "—-—s"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "saunière",
@@ -347271,6 +350282,16 @@
     "type": "Base"
   },
   {
+    "word": "schabraque",
+    "pronunciation": "sha-",
+    "pos": "n.f.",
+    "translation": ", shabrack.",
+    "metadata": {
+      "altSpelling": "chabraque"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "schah",
     "pronunciation": "shâ",
     "pos": "n.m.",
@@ -348299,6 +351320,15 @@
     "type": "Base"
   },
   {
+    "word": "sèche",
+    "pos": "n.f.",
+    "translation": ", cuttle-fish.",
+    "metadata": {
+      "altSpelling": "seiche"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "séchée",
     "pos": "n.f.",
     "translation": ", drying.",
@@ -348489,6 +351519,15 @@
       "reflexive": "se"
     },
     "type": "BaseWithReflexive"
+  },
+  {
+    "word": "secoûment",
+    "pos": "n.m.",
+    "translation": ", shaking, jogging, jolting.",
+    "metadata": {
+      "altSpelling": "secouement"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "secourable",
@@ -348793,6 +351832,15 @@
     "pos": "n.m.",
     "translation": ", Sedan-cloth.",
     "type": "Base"
+  },
+  {
+    "word": "sédanoise",
+    "pos": "n.f.",
+    "translation": ", (print.) pearl.",
+    "metadata": {
+      "altSpelling": "parisienne"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "sédati-f",
@@ -349207,6 +352255,16 @@
     "pos": "n.m.pl.",
     "translation": ", (ich.) cartilaginous fishes.",
     "type": "Base"
+  },
+  {
+    "word": "sélam",
+    "pos": "n.m.",
+    "translation": ", emblematic nosegay (in the East).",
+    "metadata": {
+      "altSpelling": "sélan",
+      "plural": "—s"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "sélection",
@@ -351029,6 +354087,16 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "serger",
+    "pronunciation": "sèr-",
+    "pos": "n.m.",
+    "translation": ", serge-weaver.",
+    "metadata": {
+      "altSpelling": "sergier"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "sergerie",
@@ -353109,6 +356177,15 @@
     "type": "Base"
   },
   {
+    "word": "silhouette",
+    "pos": "n.f.",
+    "translation": ", silhouette, outline; profile.",
+    "metadata": {
+      "altSpelling": "silouette"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "silicate",
     "pos": "n.m.",
     "translation": ", (chem.) silicate.",
@@ -353943,6 +357020,16 @@
     "type": "Base"
   },
   {
+    "word": "sloop",
+    "pronunciation": "sloop",
+    "pos": "n.m.",
+    "translation": ", (nav.) sloop.",
+    "metadata": {
+      "altSpelling": "sloupe"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "smalah",
     "pos": "n.f.",
     "translation": ", smala (Arab chief’s camp).",
@@ -354236,6 +357323,25 @@
     "pos": "n.m.",
     "translation": ", (arch.) soffit.",
     "type": "Base"
+  },
+  {
+    "word": "sofi",
+    "pos": "n.m.",
+    "translation": ", sofi, dervis, dervise.",
+    "metadata": {
+      "altSpelling": "soufi",
+      "plural": "—s"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "sofi",
+    "pos": "n.m.",
+    "translation": ", Sofi, Sophi (a title of the King of Persia).",
+    "metadata": {
+      "altSpelling": "sophi"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "soi",
@@ -355803,6 +358909,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "soporifère",
+    "pos": "n.m.",
+    "translation": "and adj. , soporific; soporiferous.",
+    "metadata": {
+      "altSpelling": "soporifique"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "soprano",
     "pos": "n.m.",
     "translation": ", (mus.) soprano, treble (voice).",
@@ -356596,6 +359711,15 @@
     "type": "Base"
   },
   {
+    "word": "soudard",
+    "pos": "n.m.",
+    "translation": ", (fam.) trooper, veteran soldier.",
+    "metadata": {
+      "altSpelling": "soudart"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "soude",
     "pos": "n.f.",
     "translation": ", (min.) soda; (bot.) glasswort.",
@@ -357262,6 +360386,15 @@
     "type": "BaseWithMarker"
   },
   {
+    "word": "soulte",
+    "pos": "n.f.",
+    "translation": ", (jur. com.) balance; premium, settlement.",
+    "metadata": {
+      "altSpelling": "soute"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "soumettre",
     "pos": "v.a.",
     "translation": ", to subdue, to submit, to bring under subjection, to subject; to overcome; to subjugate; to subordinate, to refer.",
@@ -357472,6 +360605,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "souper",
+    "pos": "n.m.",
+    "translation": ", supper.",
+    "metadata": {
+      "altSpelling": "soupé"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "soupeser",
@@ -357874,6 +361016,21 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "sourire",
+    "pos": "n.m.",
+    "translation": ", smile.",
+    "usage": [
+      {
+        "fr": "— moqueur",
+        "en": "a sneer, scornful smile."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "souris"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "souris",
@@ -359344,6 +362501,15 @@
     "type": "Base"
   },
   {
+    "word": "spartan",
+    "pos": "n.m.",
+    "translation": ", (nav.) rope made of esparto.",
+    "metadata": {
+      "altSpelling": "sparton"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "sparte",
     "pos": "n.f.",
     "translation": ", (bot.) esparto; mat-weed.",
@@ -360365,6 +363531,16 @@
     "pos": "n.f.",
     "translation": ", (bot.) China-root.",
     "type": "Base"
+  },
+  {
+    "word": "squirre",
+    "pronunciation": "skir",
+    "pos": "n.m.",
+    "translation": ", (med.) scirrhus, glandular tumor.",
+    "metadata": {
+      "altSpelling": "squirrhe"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "s.s.",
@@ -365064,6 +368240,24 @@
     "type": "Base"
   },
   {
+    "word": "surjaler",
+    "pos": "v.n.",
+    "translation": ", (nav.) to foul (of anchors).",
+    "metadata": {
+      "altSpelling": "surjauler"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
+    "word": "surjaler",
+    "pos": "v.a.",
+    "translation": ", (nav.) to raise the anchor to clear its stock.",
+    "metadata": {
+      "altSpelling": "surjauler"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "surjet",
     "pos": "n.m.",
     "translation": ", (of seams) whip-stitch, overcasting.",
@@ -365899,6 +369093,15 @@
     "type": "Base"
   },
   {
+    "word": "suspensoir",
+    "pos": "n.m.",
+    "translation": ", (surg.) suspensory bandage, suspensor.",
+    "metadata": {
+      "altSpelling": "suspensoire"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "suspente",
     "pos": "n.f.",
     "translation": ", (nav.) sling (of a yard).",
@@ -365958,6 +369161,16 @@
     "pos": "n.f.",
     "translation": ", susurration, whispering, chirping, buzzing, soft murmur; soughing (of the wind).",
     "type": "Base"
+  },
+  {
+    "word": "suttee",
+    "pos": "n.f.",
+    "translation": ", suttee.",
+    "metadata": {
+      "altSpelling": "suttie",
+      "plural": "—"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "suture",
@@ -366407,6 +369620,15 @@
       "reflexive": "se"
     },
     "type": "BaseWithReflexive"
+  },
+  {
+    "word": "synecdoche",
+    "pos": "n.f.",
+    "translation": ", (rhet.) synecdoche.",
+    "metadata": {
+      "altSpelling": "synecdoque"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "synérèse",
@@ -367294,6 +370516,15 @@
     "pos": "n.m.",
     "translation": ", tafia (rum).",
     "type": "Base"
+  },
+  {
+    "word": "taïaut",
+    "pos": "n.m.",
+    "translation": "(hunt.) tally-ho.",
+    "metadata": {
+      "altSpelling": "tayaut"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "taïcoun",
@@ -368411,6 +371642,15 @@
     "type": "Base"
   },
   {
+    "word": "tantet",
+    "pos": "n.m.",
+    "translation": ", the least bit, the least little drop, dash.",
+    "metadata": {
+      "altSpelling": "tantinet"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "tantôt",
     "pos": "adv.",
     "translation": ", presently, by and by, soon, anon; a little while ago; just now; sometimes. or in the afternoon. À —! good-bye for the present.",
@@ -368465,6 +371705,16 @@
     "type": "Base"
   },
   {
+    "word": "tapecu",
+    "pronunciation": "tap-ku",
+    "pos": "n.m.",
+    "translation": ", swing-gate; see-saw; (nav.) ring-tail, ring-sail; jolting carriage.",
+    "metadata": {
+      "altSpelling": "tape-cul"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "tapée",
     "pos": "n.f.",
     "translation": ", (pop.) a lot, a whole host of.",
@@ -368506,6 +371756,15 @@
       "reflexive": "en"
     },
     "type": "BaseWithReflexive"
+  },
+  {
+    "word": "tapioca",
+    "pos": "n.m.",
+    "translation": ", tapioca.",
+    "metadata": {
+      "altSpelling": "tapioka"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "tapir",
@@ -369663,6 +372922,15 @@
     "pos": "adj.",
     "translation": ", technological.",
     "type": "Base"
+  },
+  {
+    "word": "teck",
+    "pos": "n.m.",
+    "translation": ", (bot.) teak, teak-wood.",
+    "metadata": {
+      "altSpelling": "tek"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "tectrices",
@@ -371145,6 +374413,16 @@
     "type": "Base"
   },
   {
+    "word": "tercer",
+    "pronunciation": "tèr-",
+    "pos": "v.a.",
+    "translation": ", to give a third dressing to.",
+    "metadata": {
+      "altSpelling": "terser"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "tercet",
     "pronunciation": "tèr-sè",
     "pos": "n.m.",
@@ -371279,6 +374557,15 @@
     "pos": "n.f.",
     "translation": ", terminology.",
     "type": "Base"
+  },
+  {
+    "word": "termite",
+    "pos": "n.m.",
+    "translation": ", (ent.) white ant; termes. pl. , termites.",
+    "metadata": {
+      "altSpelling": "termès"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "ternaire",
@@ -372270,6 +375557,15 @@
     "pos": "adj.",
     "translation": ", (bot.) tetraphyllous.",
     "type": "Base"
+  },
+  {
+    "word": "tétrarcat",
+    "pos": "n.m.",
+    "translation": ", tetrarchate.",
+    "metadata": {
+      "altSpelling": "tétrarchat"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "tétrarchie",
@@ -373946,6 +377242,16 @@
     "type": "Base"
   },
   {
+    "word": "tire-point",
+    "pos": "n.m.",
+    "translation": ", pricker (used in stitching).",
+    "metadata": {
+      "altSpelling": "tire-pointe",
+      "plural": "—"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "tirer",
     "pos": "v.a.",
     "translation": ", to draw, to pull, to give a pull; to take, to take out, to pull out; to get, to extract, to collect; to fire, to shoot, to fire at, to shoot at; to trace, to delineate; to receive, to reap, to recover; to extricate, to free from; to relieve; to conclude, to infer, to deduce; to draw on, to put on, to draw up; to draw down; (print.) to work, to work off, to pull, to print, to pull off; to approach, to border, to verge (on); (nav.) to draw; to tighten (a rope); to tap (liquors); to stretch (linen); to cast (a nativity); to draw (a bill); to take out (a tooth); to let (blood). — vanité , or gloire , — la racine carrée , — ses chausses ,",
@@ -374564,6 +377870,22 @@
     "type": "Base"
   },
   {
+    "word": "toast",
+    "pronunciation": "tost",
+    "pos": "n.m.",
+    "translation": ", toast, health. Porter , donner , or propose a toast.",
+    "usage": [
+      {
+        "fr": "un —",
+        "en": "to toast, to give"
+      }
+    ],
+    "metadata": {
+      "altSpelling": "toste"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "tocane",
     "pos": "n.f.",
     "translation": ", unpressed wine.",
@@ -374838,6 +378160,15 @@
     "pos": "n.f.",
     "translation": ", roofing, roof.",
     "type": "Base"
+  },
+  {
+    "word": "tokai",
+    "pos": "n.m.",
+    "translation": ", Tokay wine.",
+    "metadata": {
+      "altSpelling": "tokay"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "tôle",
@@ -376304,6 +379635,15 @@
     "type": "Base"
   },
   {
+    "word": "toton",
+    "pos": "n.m.",
+    "translation": ", teetotum; (child) nuncle.",
+    "metadata": {
+      "altSpelling": "touton"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "touage",
     "pos": "n.m.",
     "translation": ", (nav.) towage, towing; warping.",
@@ -376350,6 +379690,15 @@
     "pos": "prep.",
     "translation": ", concerning, respecting, touching, about, with respect to.",
     "type": "Base"
+  },
+  {
+    "word": "touchau",
+    "pos": "n.m.",
+    "translation": ", touch-needle.",
+    "metadata": {
+      "altSpelling": "touchand"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "touche",
@@ -377320,6 +380669,22 @@
     "type": "Base"
   },
   {
+    "word": "tournoiement",
+    "pronunciation": "-noa-mān",
+    "pos": "n.m.",
+    "translation": ", turning round, wheeling round; (vet.) sturdy, turnsick, staggers.",
+    "usage": [
+      {
+        "fr": "Un — de tête",
+        "en": "a swimming in the head, giddiness."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "tournoîment"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "tournois",
     "pos": "adj.",
     "translation": ", of Tours.",
@@ -377733,6 +381098,15 @@
       "plural": "n.p."
     },
     "type": "Base"
+  },
+  {
+    "word": "toute-table",
+    "pos": "n.m.",
+    "translation": ", tables (backgammon).",
+    "metadata": {
+      "altSpelling": "toutes-tables"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "tou-tou",
@@ -380368,6 +383742,22 @@
     "type": "Base"
   },
   {
+    "word": "tréfonds",
+    "pronunciation": "-fon",
+    "pos": "n.m.",
+    "translation": ", subsoil; (fig.) bottom.",
+    "usage": [
+      {
+        "fr": "Savoir le fond et le — d’une affaire",
+        "en": "to know the ins and outs of, to know all about, an affair."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "très-fonds"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "treillage",
     "pos": "n.m.",
     "translation": ", trellis-work; lattice-work (of gardens); fence.",
@@ -381686,6 +385076,21 @@
     "type": "Base"
   },
   {
+    "word": "trin",
+    "pos": "adj.m.",
+    "translation": ", trine.",
+    "usage": [
+      {
+        "fr": "— aspect",
+        "en": "(astron.) trine aspect."
+      }
+    ],
+    "metadata": {
+      "altSpelling": "trine"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "tringa",
     "pos": "n.m.",
     "translation": ", (orni.) tringa.",
@@ -382289,6 +385694,15 @@
     "pos": "n.m.",
     "translation": ", swop, barter, exchange.",
     "type": "Base"
+  },
+  {
+    "word": "trocart",
+    "pos": "n.m.",
+    "translation": ", (surg.) trocar.",
+    "metadata": {
+      "altSpelling": "trois-quarts"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "trochaïque",
@@ -383055,6 +386469,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "trouble",
+    "pos": "n.f.",
+    "translation": ", hoop-net.",
+    "metadata": {
+      "altSpelling": "truble"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "troubleau",
     "pos": "n.m.",
     "translation": ", small hoop-net.",
@@ -383448,6 +386871,15 @@
     "pos": "n.m.",
     "translation": ", Jewing.",
     "type": "Base"
+  },
+  {
+    "word": "truck",
+    "pos": "n.m.",
+    "translation": ", (railways) truck, trolley.",
+    "metadata": {
+      "altSpelling": "truc"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "truculent",
@@ -384304,6 +387736,16 @@
     "pos": "n.f.",
     "translation": ", (chem.) tutty.",
     "type": "Base"
+  },
+  {
+    "word": "tutoiement",
+    "pronunciation": "-toa-mān",
+    "pos": "n.m.",
+    "translation": ", theeing and thouing, saying thou and thee.",
+    "metadata": {
+      "altSpelling": "tutoîment"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "tutoyer",
@@ -385262,6 +388704,16 @@
     "type": "Base"
   },
   {
+    "word": "urane",
+    "pronunciation": "-nio-m",
+    "pos": "n.f.",
+    "translation": ", (min.) uranite, uranium.",
+    "metadata": {
+      "altSpelling": "uranium"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "uranographie",
     "pos": "n.f.",
     "translation": ", uranography.",
@@ -385346,6 +388798,15 @@
     "pos": "n.m.",
     "translation": ", (anat.) ureter.",
     "type": "Base"
+  },
+  {
+    "word": "urètre",
+    "pos": "n.m.",
+    "translation": ", (anat.) urethra.",
+    "metadata": {
+      "altSpelling": "urèthre"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "urgence",
@@ -386748,6 +390209,15 @@
     "type": "Base"
   },
   {
+    "word": "valisnère",
+    "pos": "n.f.",
+    "translation": ", (bot.) frogbit.",
+    "metadata": {
+      "altSpelling": "valisnérie"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "valkyrie",
     "pos": "n.f.",
     "translation": ", Scandinavian myth, valkyrie, goddess, wish-maiden.",
@@ -387276,6 +390746,15 @@
     "pos": "n.f.",
     "translation": ", Spanish measure of length, about a yard.",
     "type": "Base"
+  },
+  {
+    "word": "varec",
+    "pos": "n.m.",
+    "translation": ", (bot.) varec, wrack, sea-wrack, sea-weed; (jur.) wreck (things washed upon the shore by the sea); sunken ship.",
+    "metadata": {
+      "altSpelling": "varech"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "varenne",
@@ -389887,6 +393366,15 @@
     "type": "BaseWithMarker"
   },
   {
+    "word": "vermicel",
+    "pos": "n.m.",
+    "translation": ", vermicelli.",
+    "metadata": {
+      "altSpelling": "vermicelle"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "vermicelier",
     "pos": "n.m.",
     "translation": ", vermicelli manufacturer.",
@@ -390002,6 +393490,15 @@
     "pos": "n.f.",
     "translation": ", worm-hole, rottenness in wood, dry-rot.",
     "type": "Base"
+  },
+  {
+    "word": "vermout",
+    "pos": "n.m.",
+    "translation": ", bitters.",
+    "metadata": {
+      "altSpelling": "vermouth"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "vernaille",
@@ -390200,6 +393697,15 @@
     "pos": "n.f.",
     "translation": ", glass-stand, monteith; (in churches) stained window.",
     "type": "Base"
+  },
+  {
+    "word": "verrine",
+    "pos": "n.f.",
+    "translation": ", glazed box; glass picture frame.",
+    "metadata": {
+      "altSpelling": "verrière"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "verroterie",
@@ -390410,6 +393916,15 @@
     "type": "Base"
   },
   {
+    "word": "versicules",
+    "pos": "n.m.pl.",
+    "translation": ", (fam., jest.) little verses, versicles.",
+    "metadata": {
+      "altSpelling": "versiculets"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "versificateur",
     "pos": "n.m.",
     "translation": ", versifier, poetaster.",
@@ -390551,6 +394066,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "vert d’eau",
+    "pos": "n.m.",
+    "translation": ", sea-green.",
+    "metadata": {
+      "altSpelling": "vert de mer"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "vert-de-gris",
@@ -390747,6 +394271,15 @@
     "pos": "n.f.",
     "translation": ", (falconry) varvel.",
     "type": "Base"
+  },
+  {
+    "word": "verveux",
+    "pos": "n.m.",
+    "translation": "and adj. , hoop-net (for fishing).",
+    "metadata": {
+      "altSpelling": "vervier"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "vésanie",
@@ -393019,6 +396552,15 @@
     "type": "BaseWithFeminine"
   },
   {
+    "word": "violacées",
+    "pos": "n.f.pl.",
+    "translation": ", (bot.) violaceæ.",
+    "metadata": {
+      "altSpelling": "violariées"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "violat",
     "pos": "adj.",
     "translation": ", of violets.",
@@ -393312,6 +396854,16 @@
       "suffix": "-se"
     },
     "type": "BaseWithFeminine"
+  },
+  {
+    "word": "virevau",
+    "pronunciation": "vir-vô",
+    "pos": "n.m.",
+    "translation": ", (nav.) winch.",
+    "metadata": {
+      "altSpelling": "vireveau"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "virevent",
@@ -394452,6 +398004,15 @@
     "pos": "n.m.",
     "translation": ", vizier.",
     "type": "Base"
+  },
+  {
+    "word": "vizirat",
+    "pos": "n.m.",
+    "translation": ", vizierate, viziership.",
+    "metadata": {
+      "altSpelling": "viziriat"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "vocable",
@@ -395857,6 +399418,15 @@
     "type": "Base"
   },
   {
+    "word": "volva",
+    "pos": "n.f.",
+    "translation": ", (bot.) volva, wrapper.",
+    "metadata": {
+      "altSpelling": "volve"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "volvé",
     "pos": "adj.",
     "translation": ", (bot.) having a volva.",
@@ -396238,6 +399808,15 @@
       }
     ],
     "type": "Base"
+  },
+  {
+    "word": "vousseau",
+    "pos": "n.m.",
+    "translation": ", (arch.) wedge, archstone, vault-stone.",
+    "metadata": {
+      "altSpelling": "voussoir"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "voussure",
@@ -396969,6 +400548,15 @@
     "type": "Base"
   },
   {
+    "word": "watergang",
+    "pos": "n.m.",
+    "translation": ", small canal; ditch (in Flanders).",
+    "metadata": {
+      "altSpelling": "watregan"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "wesleyen",
     "pos": "adj.",
     "translation": ", Wesleyan.",
@@ -397482,6 +401070,15 @@
     "type": "Base"
   },
   {
+    "word": "zéphire",
+    "pos": "n.m.",
+    "translation": ", zephyr, gentle breeze.",
+    "metadata": {
+      "altSpelling": "zéphyr"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "zéro",
     "pos": "n.m.",
     "translation": ", nought; cipher; zero (of the thermometer). C’est un — or",
@@ -397604,6 +401201,15 @@
     "type": "Base"
   },
   {
+    "word": "zincage",
+    "pos": "n.m.",
+    "translation": ", zinking, covering with zinc.",
+    "metadata": {
+      "altSpelling": "zingage"
+    },
+    "type": "BaseWithAltSpelling"
+  },
+  {
     "word": "zincographe",
     "pos": "n.m.",
     "translation": ", zincographer.",
@@ -397709,6 +401315,16 @@
       "plural": "—s"
     },
     "type": "Base"
+  },
+  {
+    "word": "zona",
+    "pronunciation": "-tè-r",
+    "pos": "n.m.",
+    "translation": ", (med.) shingles.",
+    "metadata": {
+      "altSpelling": "zoster"
+    },
+    "type": "BaseWithAltSpelling"
   },
   {
     "word": "zone",
