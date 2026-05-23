@@ -1,0 +1,66 @@
+from bs4 import BeautifulSoup, NavigableString
+import os
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
+input_path = os.path.join(script_dir, '..', 'step1_truncate_book', 'fr_en.html')
+output_path = os.path.join(script_dir, 'clean.html')
+
+with open(input_path, 'r', encoding='utf-8') as f:
+    soup = BeautifulSoup(f.read(), 'html.parser')
+
+# Handle <span class="pagenum"> in two ways:
+# 1. If the <p> contains ONLY the pagenum span (no other content), delete the whole <p>
+# 2. If the <p> has other content too, just remove the span tag
+removed_p = 0
+removed_span = 0
+for p in soup.find_all('p'):
+    pagenum_span = p.find('span', class_='pagenum')
+    if not pagenum_span:
+        continue
+    # Check if there's any meaningful content besides the pagenum span
+    pagenum_span.extract()
+    has_other_content = bool(p.find()) or bool(p.get_text(strip=True))
+    if has_other_content:
+        removed_span += 1
+    else:
+        p.decompose()
+        removed_p += 1
+
+print(f"Removed {removed_p} <p> tags (pagenum only).")
+print(f"Removed {removed_span} <span class='pagenum'> tags from mixed <p> tags.")
+
+# Save <p> tags starting with ☉ to a separate file, then remove them
+symbol_entries = []
+removed_symbol = 0
+for p in soup.find_all('p'):
+    if p.get_text(strip=True).startswith('☉'):
+        symbol_entries.append(str(p))
+        p.decompose()
+        removed_symbol += 1
+
+symbol_path = os.path.join(script_dir, 'symbol_entries.html')
+with open(symbol_path, 'w', encoding='utf-8') as f:
+    f.write('\n'.join(symbol_entries))
+
+print(f"Saved {removed_symbol} <p> tags starting with ☉ to {symbol_path}.")
+
+# if a p tag has <i>V.</i>, save such p tags to a separate file, then remove them
+redirect_entries = []
+removed_redirect = 0
+for p in soup.find_all('p'):
+    v_found = any(i_tag.get_text(strip=True) == 'V.' for i_tag in p.find_all('i'))
+    if v_found:
+        redirect_entries.append(str(p))
+        p.decompose()
+        removed_redirect += 1
+
+redirect_path = os.path.join(script_dir, 'redirects.html')
+with open(redirect_path, 'w', encoding='utf-8') as f:
+    f.write('\n'.join(redirect_entries))
+
+print(f"Saved {removed_redirect} <p> tags with <i>V.</i> to {redirect_path}.")
+
+with open(output_path, 'w', encoding='utf-8') as f:
+    f.write(str(soup))
+
+print(f"Saved cleaned HTML to {output_path}")

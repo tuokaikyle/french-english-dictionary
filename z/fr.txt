@@ -1,0 +1,165 @@
+Pattern | Count | Percentage
+----------------------------------------------------------------------
+b-text-i-text | 23975 | 54.25% b-text-i-text-i-text | 4343 | 9.83%
+b-text-b-text-i-text | 3140 | 7.10% b-text-i-text-i-text-i-text | 1570 | 3.55%
+text-b-text-i-text | 1489 | 3.37% i-b-text-i-text | 1146 | 2.59%
+b-text-i-text-i-text-i-text-i-text | 808 | 1.83% b-text-b-text-i-text-i-text |
+739 | 1.67% b-text-i-text-b-text-i-text | 519 | 1.17%
+b-text-i-text-i-text-i-text-i-text-i-text | 450 | 1.02% b-text-i-i-b-text | 426
+| 0.96% span | 394 | 0.89% b-text-i-text-i-text-i-text-i-text-i-text-i-text |
+315 | 0.71% b-i-b-text-i-text | 310 | 0.70% i-b-text-i-text-i-text | 305 | 0.69%
+Pattern | ----------------------------------------------------------------------
+b-text-i-text | 词-分隔-词性-解释 bisquain b-text-i-text-i-text |
+词-分隔-词性-解释-例句-翻译 bataclan b-text-b-text-i-text |
+词-分隔-男女-分隔-词性-解释 bourgeonné b-text-i-text-i-text-i-text |
+词-分隔-词性-解释-例句-翻译-例句-翻译 becasse text-b-text-i-text |
+符号-词-分隔-词性-解释 * bailli i-b-text-i-text | 前缀-词-分隔-词性-解释se
+baigner b-text-i-text-i-text-i-text-i-text | 三例句 balayer
+b-text-b-text-i-text-i-text | 男女 双词性 iti t biberon
+b-text-i-text-b-text-i-text | 两词一行 burgau
+b-text-i-text-i-text-i-text-i-text-i-text | 四例句 budget b-text-i-i-b-text |
+bringuebale span | b-text-i-text-i-text-i-text-i-text-i-text-i-text| 五例句
+bague (bag) b-i-b-text-i-text | bréant or bruant i-b-text-i-text-i-text | se
+borner
+
+<p><b>bisquain</b>, <i>n.m.</i>, sheep’s skin with the wool on.</p>
+
+<p>
+  <b>bataclan</b>, <i>n.m.</i>, uproar, row, shindy. <i>Et tout le —</i>; and
+  the rest of it.
+</p>
+
+<p><b>bourgeonné</b>, <b>-e</b>, <i>part.</i>, budded, pimpled.</p>
+
+<p>
+  <b>becasse</b>, <i>n.f.</i>, woodcock; idiot. <i>Brider la —</i>; to cozen any
+  one. <i>C’est une —</i>; she is a goose.
+</p>
+
+<p>*<b>bailli</b>, <i>n.m.</i>, bailiff.</p>
+
+<p>
+  <i>se</i> <b>baigner</b>, <i>v.r.</i>, to bathe, to wash; to welter (in
+  blood).
+</p>
+
+<p>
+  <b>balayer</b>, <i>v.a.</i>, to sweep, to scour.
+  <i>Sa robe balaie la terre</i>; her gown sweeps the ground.
+  <i>Le vent balaie la plaine</i>; the wind sweeps the plain. <i>— les mers</i>;
+  to scour the seas.
+</p>
+
+<p><b>biberon</b>, <b>-ne</b>, <i>n.m.</i> and <i>n.f.</i>, tippler, toper.</p>
+
+<p>
+  <b>burgau</b>, <i>n.m.</i>, <b>burgaudine</b>, <i>n.f.</i>, burgau; burgau
+  mother of pearl.
+</p>
+
+<p><b>bringuebale</b>, <i>n.f.</i> <i>V.</i> <b>brimbale</b>.</p>
+
+<p>
+  <b>bréant</b> <i>or</i> <b>bruant</b>, <i>n.m.</i>, (orni.) bunting,
+  yellow-hammer.
+</p>
+
+<p>
+  <i>se</i> <b>borner</b>, <i>v.r.</i>, to keep within bounds, to restrain one’s
+  self. <i>Il faut se — à cela</i>; we must be content with that, or not go
+  beyond that.
+</p>
+
+符号代表，解释前可能是逗号，翻译前是分号？ 首星号，圆号 Analyzed 43173
+<p>
+  tags across 468 unique patterns. Pattern | Count | Percentage
+  ----------------------------------------------------------------------
+  b-i-text | 20587 | 47.68% b-i-text-i-text | 3858 | 8.94% b-text-i-text
+  读音括号 | 3422 | 7.93% b-b-i-text 后缀 | 2843 | 6.59% b-i-text-i-text-i-text
+  | 1401 | 3.25% i-b-i-text se | 1127 | 2.61% text-b-i-text *特殊读音 | 1030 |
+  2.39% b-i-text-i-text-i-text-i-text | 735 | 1.70% b-b-i-text-i-text | 680 |
+  1.58% b-text-i-text-i-text | 505 | 1.17% b-i-text-b-i-text 后缀词性不一样 |
+  503 | 1.17% b-i-text-i-text-i-text-i-text-i-text | 412 | 0.95% b-i-i-b-text
+  大v 搞不懂 | 396 | 0.92% i-b-i-text-i-text | 295 | 0.68%
+  b-i-text-i-text-i-text-i-text-i-text-i-text | 291 | 0.67%
+  ---------------------------------------------------------------------- TOP 15
+  SUBTOTAL | 38085 | 88.21% MISSED (remaining patterns) | 5088 | 11.79% (453
+  other unique patterns account for the missed 11.79%) --- One random 'B' word
+  example for each of the top 15 patterns --- Pattern: b-i-text Example:
+  barbichon n.m. , shaggy spaniel puppy.... Pattern: b-i-text-i-text Example:
+  bahut n.m. , trunk, chest, press. En — ; rounded, convex.... Pattern:
+  b-text-i-text Example: briquetage (brik-taj), n.m. , brick-work; imitation
+  brick-work.... Pattern: b-b-i-text Example: Baffin Baie de f. , Baffin’s
+  Bay.... Pattern: b-i-text-i-text-i-text Example: bamboche n.f. , (pop.) puppet
+  show; bit of a thing (person); drinking bout, spree; young bamboo,
+  bamboo-cane. Faire une — ; to have a spree. Faire des... Pattern: i-b-i-text
+  Example: se branler v.r. , to move.... Pattern: text-b-i-text Example: * n.m.
+  , confusion; disorder.... Pattern: b-i-text-i-text-i-text-i-text Example:
+  babel n.f. , Babel, uproar, disorder. Tour de — ; tower of Babel. C’est une
+  vraie tour de — , c’est une — ; it is a perfect tower of Babel, uproar....
+  Pattern: b-b-i-text-i-text Example: bien-disant -e adj. , ( —-—s )
+  well-spoken.... Pattern: b-text-i-text-i-text Example: bouleverser (bool-vèr-)
+  v.a. , to overthrow; to throw down, to subvert; to agitate, to trouble, to
+  throw into commotion; to upset; to unsettle, to unh... Pattern:
+  b-i-text-b-i-text Example: breveté n.m. , -e n.f. , patentee.... Pattern:
+  b-i-text-i-text-i-text-i-text-i-text Example: balancier n.m. , scale-maker;
+  pendulum, balance; (coin.) coining-engine; balancing-pole. Le — d’une horloge
+  ; the pendulum of a clock. Le — d’un tourn... Pattern: b-i-i-b-text Example:
+  bali n.m. V. pali .... Pattern: i-b-i-text-i-text Example: se baisser v.r. ,
+  to stoop; to bow down, to be lowered. Il n’a qu’à — pour en prendre ; he has
+  only to pick and choose.... Pattern:
+  b-i-text-i-text-i-text-i-text-i-text-i-text Example: brave n.m. , brave or
+  courageous man; (b.s.) ruffian, bully. Faux — ; blustering bully. Faire le — ;
+  to play the bully. — à trois poils ; hard-fighter...brouillamini
+</p>
+
+b-i-text | 20587 | 47.68% b-i-text-i-text | 3786 | 8.77% b-i-text-i-text-i-text
+| 1328 | 3.08% b-i-text-i-text-i-text-i-text | 679 | 1.57%
+b-i-text-i-text-i-text-i-text-i-text | 362 | 0.84% b-text-i-text | 3413 | 7.91%
+b-text-i-text-i-text | 494 | 1.14% b-b-i-text | 2843 | 6.59% b-b-i-text-i-text |
+661 | 1.53% b-b-i-text-i-text-i-text | 264 | 0.61% i-b-i-text | 1127 | 2.61%
+i-b-i-text-i-text | 293 | 0.68% text-b-i-text | 1030 | 2.39% b-i-b-i-text | 785
+| 1.82% b-i-i-b | 393 | 0.91%
+
+
+b-i-text                                 | 26317      |     65.30% | bossoir
+b-text-i-text                            | 4043       |     10.03% | brayette
+b-b-i-text                               | 3787       |      9.40% | biscornu
+i-b-i-text                               | 1617       |      4.01% | bercer
+text-b-i-text                            | 1407       |      3.49% | batailler
+b-i-b-i-text                             | 1002       |      2.49% | bêta
+
+b-b-text-i-text                          | 332        |      0.82% | biennal
+text-b-b-i-text                          | 173        |      0.43% | babillard
+--b-i-text-i-i-text                        | 151        |      0.37% | bedaine
+text-b-text-i-text                       | 124        |      0.31% | brouillerie
+b-i-i-text                               | 85         |      0.21% | baleinier
+b-i-text-i-i-i-text                      | 69         |      0.17% | brise-vent
+text-b-i-b-i-text                        | 58         |      0.14% | braillard
+b-i-text-i-text-i-i-text                 | 54         |      0.13% | barbarie
+b-i-b-text-i-text                        | 45         |      0.11% | boulevard
+
+词头
+b 
+bt 
+bb 
+ib 
+tb 
+bib 
+
+b-text-i-text                            | 30957      |     77.03% | baliser
+b-text-b-text-i-text                     | 4223       |     10.51% | barbelé
+i-b-text-i-text                          | 1670       |      4.16% | blouser
+text-b-text-i-text                       | 1540       |      3.83% | bourgogne
+b-text-i-text-b-text-i-text              | 714        |      1.78% | bavard
+=b-i-b-text-i-text                        | 356        |      0.89% | bécard | or
+text-b-text-b-text-i-text                | 181        |      0.45% | bouillonnant
+=b-text-i-text-i-i-text                   | 52         |      0.13% | benêt | 两种词性
+text-b-text-i-text-b-text-i-text         | 48         |      0.12% | baigneu-r 
+text-i-b-text-i-text                     | 45         |      0.11% | barbouiller
+
+b-text-i-i-text                          | 39         |      0.10% | bain-marie ｜ 没有解释
+=b-i-text                                 | 37         |      0.09% | bravo!
+b-text-i-text-i-text-i-i-text            | 34         |      0.08% | brise-vent | 复数
+=b-text-i-text-i-b-text-i-text            | 32         |      0.08% | badian | or
+b-text-i-b-text-i-text                   | 30         |      0.07% | bauque | or
