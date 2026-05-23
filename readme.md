@@ -14,13 +14,13 @@ uv run z/util.py lazarone step3_clean_book/clean.html
 ## partitions
 
 redirects
-old
 
+pronuciation optional? and rename - irregular pronunciation
 suffix 名称
-pronuciation optional?
+old - drop
+复数 - "plural": "—",
+or - altSpelling
+translation has leading , - no more
 
-复数
-or
 两种词性
 没有解释
-translation has leading ,

@@ -196,7 +196,7 @@ def extract_base(seq, start_idx=0):
 
     return {
         'word': word,
-        'pronunciation': pron,
+        'irregular_pronunciation': pron,
         'pos': pos,
         'translation': translation,
         'usage': usage or None,
@@ -225,13 +225,13 @@ def extract_base_with_feminine(seq, start_idx=0):
     # translation + usage + plural from everything after the pos <i>
     translation, usage, plural = extract_translation_and_usage(seq, start_idx + 5)
 
-    metadata = {'suffix': suffix}
+    metadata = {'feminineSuffix': suffix}
     if plural:
         metadata['plural'] = plural
 
     return {
         'word': word,
-        'pronunciation': pron,
+        'irregular_pronunciation': pron,
         'pos': pos,
         'translation': translation,
         'usage': usage or None,
@@ -266,7 +266,7 @@ def extract_base_with_reflexive(seq, start_idx=0):
 
     return {
         'word': word,
-        'pronunciation': pron,
+        'irregular_pronunciation': pron,
         'pos': pos,
         'translation': translation,
         'usage': usage or None,
@@ -326,7 +326,7 @@ def extract_base_with_2gender(seq, start_idx=0):
 
     return {
         'word': word,
-        'pronunciation': pron,
+        'irregular_pronunciation': pron,
         'pos': pos,
         'translation': translation,
         'usage': usage or None,
@@ -394,7 +394,7 @@ def extract_base_with_alt_spelling(seq, start_idx=0):
 
     return {
         'word': word,
-        'pronunciation': pron,
+        'irregular_pronunciation': pron,
         'pos': pos,
         'translation': translation,
         'usage': usage or None,

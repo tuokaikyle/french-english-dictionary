@@ -4,7 +4,7 @@
 // <p><b>ballon</b>, <i>n.m.</i>, balloon; football. <i>Envoyer un — d’essai</i>; to send out a feeler.</p>
 type Base = {
   word: string;
-  pronunciation?: string;
+  irregular_pronunciation?: string;
   pos: string;
   translation: string;
   usage?: { fr: string; en: string }[];
@@ -16,7 +16,7 @@ type Base = {
 // <p><b>barbelé</b>, <b>-e</b>, <i>adj.</i>, bearded, barbed. <i>Flèche —e</i>; barbed arrow.</p>
 type BaseWithFeminine = Base & {
   metadata: {
-    suffix: string;
+    feminineSuffix: string;    // e.g. "-e", "-ve"
   }
 }         
 
