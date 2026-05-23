@@ -29,20 +29,20 @@ for p in soup.find_all('p'):
 print(f"Removed {removed_p} <p> tags (pagenum only).")
 print(f"Removed {removed_span} <span class='pagenum'> tags from mixed <p> tags.")
 
-# Save <p> tags starting with ☉ to a separate file, then remove them
-symbol_entries = []
-removed_symbol = 0
+# Save <p> tags starting with ☉ (obsolete words) to a separate file, then remove them
+old_words = []
+removed_old = 0
 for p in soup.find_all('p'):
     if p.get_text(strip=True).startswith('☉'):
-        symbol_entries.append(str(p))
+        old_words.append(str(p))
         p.decompose()
-        removed_symbol += 1
+        removed_old += 1
 
-symbol_path = os.path.join(script_dir, 'symbol_entries.html')
-with open(symbol_path, 'w', encoding='utf-8') as f:
-    f.write('\n'.join(symbol_entries))
+old_path = os.path.join(script_dir, 'old_words.html')
+with open(old_path, 'w', encoding='utf-8') as f:
+    f.write('\n'.join(old_words))
 
-print(f"Saved {removed_symbol} <p> tags starting with ☉ to {symbol_path}.")
+print(f"Saved {removed_old} <p> tags starting with ☉ to {old_path}.")
 
 # if a p tag has <i>V.</i>, save such p tags to a separate file, then remove them
 redirect_entries = []
