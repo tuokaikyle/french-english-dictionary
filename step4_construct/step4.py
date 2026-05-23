@@ -488,7 +488,7 @@ def main():
         print(f"Matched entries:   {matched}  ({matched/total*100:.1f}%)")
         print(f"Skipped entries:   {skipped}  ({skipped/total*100:.1f}%)")
         print(f"\nBreakdown by type:")
-        for tname in sorted(type_counts, key=type_counts.get, reverse=True):
+        for tname in sorted(type_counts, key=lambda k: type_counts[k], reverse=True):
             print(f"  {tname:<30} {type_counts[tname]:>6}")
         if skipped:
             # Collect skipped patterns for reporting

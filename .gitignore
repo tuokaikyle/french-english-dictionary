@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Generated outputs
+step4_construct/entries.json
+step3_clean_book/clean.html
+step3_clean_book/symbol_entries.html
+step3_clean_book/redirects.html
+step5_evaluate/uncovered.tsv
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/settings.json

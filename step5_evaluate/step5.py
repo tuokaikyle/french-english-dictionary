@@ -106,21 +106,16 @@ for pattern, count in covered_counts.items():
 
 print(f"{'Type':<30} {'Count':>8} {'%':>8}")
 print(f"{'─'*70}")
-for tname in sorted(type_totals, key=type_totals.get, reverse=True):
+for tname in sorted(type_totals, key=lambda k: type_totals[k], reverse=True):
     print(f"{tname:<30} {type_totals[tname]:>8} {type_totals[tname]/total_tags*100:>7.2f}%")
 print(f"{'─'*70}")
 print(f"{'TOTAL':<30} {sum(type_totals.values()):>8} {sum(type_totals.values())/total_tags*100:>7.2f}%")
 
-# ── Uncovered pattern examples ──
-print(f"\n{'─'*70}")
-print(f"TOP 5 UNCOVERED PATTERNS — SAMPLE ENTRIES")
-print(f"{'─'*70}")
-for pattern, _ in uncovered_counts.most_common(5):
-    print(f"\n  {pattern}:")
-    count = 0
+# ── Write uncovered entries to TSV ──
+tsv_path = os.path.join(script_dir, 'uncovered.tsv')
+with open(tsv_path, 'w', encoding='utf-8') as tsv:
+    tsv.write("word\ttag_length\tpattern\tpattern_count\n")
     for p in soup.find_all('p'):
-        if count >= 2:
-            break
         seq = get_child_sequence(p)
         if not seq:
             continue
@@ -130,9 +125,12 @@ for pattern, _ in uncovered_counts.most_common(5):
             if pattern_types and pattern_types[-1] == 'text' and t_norm == 'text':
                 continue
             pattern_types.append(t_norm)
-        if collapse_pattern(pattern_types) == pattern:
-            first_b = p.find('b')
-            word = first_b.get_text(strip=True) if first_b else '?'
-            snippet = p.get_text(strip=True)[:80]
-            print(f"    {word}: {snippet}...")
-            count += 1
+        collapsed = collapse_pattern(pattern_types)
+        if collapsed in PATTERN_MAP:
+            continue
+        first_b = p.find('b')
+        word = first_b.get_text(strip=True) if first_b else '?'
+        tag_length = len(p.get_text(strip=True))
+        tsv.write(f"{word}\t{tag_length}\t{collapsed}\t{uncovered_counts[collapsed]}\n")
+
+print(f"\nWrote uncovered entries to {tsv_path}")
