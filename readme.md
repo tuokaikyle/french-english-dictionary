@@ -7,6 +7,8 @@ uv run step3_clean_book/step3.py
 
 uv run step4_construct/step4.py
 
+uv run step5_evaluate/step5.py
+
 uv run z/util.py lazarone step3_clean_book/clean.html
 
 ## partitions
