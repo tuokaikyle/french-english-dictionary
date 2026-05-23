@@ -19,8 +19,9 @@ pronuciation optional?
 
 复数
 or
-
-不规则动词
+两种词性
+没有解释
+translation has leading ,
 
 {
 "word": "attract-eur",
@@ -30,15 +31,4 @@ or
 "suffix": "-rice"
 },
 "type": "BaseWithFeminine"
-}
-
-    {
-    "word": "réact-eur",
-    "pos": "n.",
-    "translation": "and",
-    "metadata": {
-      "suffix": "-rice"
-    },
-    "type": "BaseWithFeminine"
-
 }

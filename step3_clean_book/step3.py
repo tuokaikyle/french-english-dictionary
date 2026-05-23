@@ -60,6 +60,23 @@ with open(redirect_path, 'w', encoding='utf-8') as f:
 
 print(f"Saved {removed_redirect} <p> tags with <i>V.</i> to {redirect_path}.")
 
+# Convert plural notation <i> tags to <span class="plural">
+# These appear right after the POS <i>, wrapped in parentheses: , (<i>—</i>)
+# From explanation.html: (—), (—s), (n.p.), (n.s.), (lazaroni), etc.
+converted_plural = 0
+for p in soup.find_all('p'):
+    i_tags = p.find_all('i')
+    for i_tag in i_tags[1:]:  # skip the first <i> (it's the POS)
+        prev = i_tag.previous_sibling
+        nxt = i_tag.next_sibling
+        if (isinstance(prev, NavigableString) and prev.string.rstrip().endswith('(') and
+            isinstance(nxt, NavigableString) and nxt.string.lstrip().startswith(')')):
+            i_tag.name = 'span'
+            i_tag['class'] = 'plural'
+            converted_plural += 1
+
+print(f"Converted {converted_plural} plural notation <i> tags to <span class='plural'>.")
+
 with open(output_path, 'w', encoding='utf-8') as f:
     f.write(str(soup))
 

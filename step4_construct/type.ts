@@ -74,4 +74,14 @@ type barbouiller = {
   }
 } & BaseWithReflexive
 
+// b-text-i-text (with plural notation)
+// <p><b>abat-chauvée</b>, <i>n.f.</i>, (<i>n.p.</i>) flock-wool.</p>
+// <p><b>abat-faim</b> (-fin), <i>n.m.</i>, (<i>—</i>) large joint, substantial dish.</p>
+// <p><b>lazarone</b>, <i>n.m.</i>, (<i>lazaroni</i>) lazarone.</p>
+type withPluralNotation = Base & {
+  metadata: {
+    plural: string;    // e.g. "—", "—s", "n.p.", "n.s.", "lazaroni"
+  }
+}
+
 

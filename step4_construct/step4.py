@@ -33,6 +33,9 @@ def get_child_sequence(p):
                 seq.append(('text', text))
         elif child.name in ('b', 'i'):
             seq.append((child.name, child))
+        # <span class="plural"> — plural notation markers from step3.py
+        elif child.name == 'span' and 'plural' in (child.get('class') or []):
+            seq.append(('plural', child))
         # Other tags (e.g. <span>) that might appear as direct children are
         # treated as text by passing their get_text().
         elif child.name is not None:
@@ -97,36 +100,72 @@ def clean_dict(d):
     return result
 
 
-def extract_usage(seq, start_idx):
+def extract_translation_and_usage(seq, start_idx):
     """
-    Extract usage entries from alternating (i, text, ...) sequence.
+    Walk seq from start_idx, collecting translation text and usage entries.
 
-    Real usage entries in this dictionary follow the pattern:
-      <i>French phrase</i>; English translation.
-    The trailing text always starts with ';'.  Pairs whose trailing text
-    does NOT start with ';' are inline <i> tags (e.g. "<i>a</i> from <i>b</i>")
-    and are silently skipped.
+    - Text nodes are appended to the translation.
+    - <i> tags whose trailing text starts with ';' are real usage entries.
+    - <i> tags whose trailing text does NOT start with ';' are inline
+      italics (e.g. parenthetical notes) — their content is merged into
+      the translation string.
+    - <span class="plural"> elements indicate plural notation — extracted
+      separately into metadata; surrounding '(' and ')' are stripped
+      from the translation.
 
-    Returns a list of {fr, en} objects with whitespace normalised.
+    Returns (translation: str, usage: list, plural: str | None).
     """
+    translation_parts = []
     usage = []
+    plural = None
+    strip_next_close_paren = False
     i = start_idx
-    while i + 1 < len(seq):
-        if seq[i][0] == 'i' and seq[i + 1][0] == 'text':
-            # Use get_text().strip() instead of get_text(strip=True) because
-            # strip=True collapses spaces around nested tags (e.g. <span>).
-            fr = normalize_ws(seq[i][1].get_text())
+
+    while i < len(seq):
+        kind, value = seq[i]
+
+        if kind == 'text':
+            text = value.strip()
+            if strip_next_close_paren:
+                text = re.sub(r'^\)\s*', '', text)
+                strip_next_close_paren = False
+            text = normalize_ws(text)
+            if text:
+                translation_parts.append(text)
+            i += 1
+
+        elif kind == 'plural':
+            plural = normalize_ws(value.get_text())
+            # Strip trailing '(' from the last translation part
+            if translation_parts:
+                translation_parts[-1] = translation_parts[-1].rstrip('( ').rstrip()
+            strip_next_close_paren = True
+            i += 1
+
+        elif kind == 'i' and i + 1 < len(seq) and seq[i + 1][0] == 'text':
+            fr = normalize_ws(value.get_text())
             en_raw = seq[i + 1][1].strip()
-            # Only keep usage entries whose en text starts with ';'.
-            # Entries without ';' are inline italics, not real usage.
+
             if en_raw.startswith(';'):
-                en = normalize_ws(en_raw[1:])  # strip leading ';' + normalise
+                # Real usage entry
+                en = normalize_ws(en_raw[1:])
                 if en:
                     usage.append({'fr': fr, 'en': en})
-            i += 2
+                i += 2
+            else:
+                # Inline italic — merge <i> text into translation;
+                # the following text node will be picked up next iteration.
+                translation_parts.append(fr)
+                i += 1
+
         else:
-            break
-    return usage
+            # Stray <i> without trailing text, or unexpected element
+            if kind == 'i':
+                translation_parts.append(normalize_ws(value.get_text()))
+            i += 1
+
+    translation = ' '.join(p for p in translation_parts if p)
+    return translation, usage, plural
 
 
 # ---------------------------------------------------------------------------
@@ -147,13 +186,12 @@ def extract_base(seq, start_idx=0):
     if start_idx + 2 < len(seq) and seq[start_idx + 2][0] == 'i':
         pos = seq[start_idx + 2][1].get_text().strip()
 
-    # translation from text after first i
-    translation = ''
-    if start_idx + 3 < len(seq) and seq[start_idx + 3][0] == 'text':
-        translation = normalize_ws(seq[start_idx + 3][1])
+    # translation + usage + plural from everything after the pos <i>
+    translation, usage, plural = extract_translation_and_usage(seq, start_idx + 3)
 
-    # usage from remaining i-text pairs
-    usage = extract_usage(seq, start_idx + 4)
+    metadata = {}
+    if plural:
+        metadata['plural'] = plural
 
     return {
         'word': word,
@@ -161,6 +199,7 @@ def extract_base(seq, start_idx=0):
         'pos': pos,
         'translation': translation,
         'usage': usage or None,
+        **( {'metadata': metadata} if metadata else {} ),
     }
 
 
@@ -182,12 +221,12 @@ def extract_base_with_feminine(seq, start_idx=0):
     if start_idx + 4 < len(seq) and seq[start_idx + 4][0] == 'i':
         pos = seq[start_idx + 4][1].get_text().strip()
 
-    # translation
-    translation = ''
-    if start_idx + 5 < len(seq) and seq[start_idx + 5][0] == 'text':
-        translation = normalize_ws(seq[start_idx + 5][1])
+    # translation + usage + plural from everything after the pos <i>
+    translation, usage, plural = extract_translation_and_usage(seq, start_idx + 5)
 
-    usage = extract_usage(seq, start_idx + 6)
+    metadata = {'suffix': suffix}
+    if plural:
+        metadata['plural'] = plural
 
     return {
         'word': word,
@@ -195,7 +234,7 @@ def extract_base_with_feminine(seq, start_idx=0):
         'pos': pos,
         'translation': translation,
         'usage': usage or None,
-        'metadata': {'suffix': suffix},
+        'metadata': metadata,
     }
 
 
@@ -217,12 +256,12 @@ def extract_base_with_reflexive(seq, start_idx=0):
     if start_idx + 3 < len(seq) and seq[start_idx + 3][0] == 'i':
         pos = seq[start_idx + 3][1].get_text().strip()
 
-    # translation
-    translation = ''
-    if start_idx + 4 < len(seq) and seq[start_idx + 4][0] == 'text':
-        translation = normalize_ws(seq[start_idx + 4][1])
+    # translation + usage + plural from everything after the pos <i>
+    translation, usage, plural = extract_translation_and_usage(seq, start_idx + 4)
 
-    usage = extract_usage(seq, start_idx + 5)
+    metadata = {'reflexive': reflexive}
+    if plural:
+        metadata['plural'] = plural
 
     return {
         'word': word,
@@ -230,7 +269,7 @@ def extract_base_with_reflexive(seq, start_idx=0):
         'pos': pos,
         'translation': translation,
         'usage': usage or None,
-        'metadata': {'reflexive': reflexive},
+        'metadata': metadata,
     }
 
 
@@ -243,7 +282,9 @@ def extract_base_with_marker(seq, start_idx=0):
 
     # Delegate to Base extraction on remaining sequence
     entry = extract_base(seq, start_idx + 1)
-    entry['metadata'] = {'marker': marker}
+    if 'metadata' not in entry:
+        entry['metadata'] = {}
+    entry['metadata']['marker'] = marker
     return entry
 
 
@@ -272,12 +313,15 @@ def extract_base_with_2gender(seq, start_idx=0):
     if start_idx + 6 < len(seq) and seq[start_idx + 6][0] == 'i':
         fem_pos = seq[start_idx + 6][1].get_text().strip()
 
-    # translation after second i
-    translation = ''
-    if start_idx + 7 < len(seq) and seq[start_idx + 7][0] == 'text':
-        translation = normalize_ws(seq[start_idx + 7][1])
+    # translation + usage + plural from everything after the second (feminine) pos <i>
+    translation, usage, plural = extract_translation_and_usage(seq, start_idx + 7)
 
-    usage = extract_usage(seq, start_idx + 8)
+    metadata = {
+        'feminineSuffix': fem_suffix,
+        'femininePos': fem_pos,
+    }
+    if plural:
+        metadata['plural'] = plural
 
     return {
         'word': word,
@@ -285,10 +329,7 @@ def extract_base_with_2gender(seq, start_idx=0):
         'pos': pos,
         'translation': translation,
         'usage': usage or None,
-        'metadata': {
-            'feminineSuffix': fem_suffix,
-            'femininePos': fem_pos,
-        },
+        'metadata': metadata,
     }
 
 
@@ -374,8 +415,16 @@ def main():
         if not seq:
             continue
 
-        types_only = [t for t, _ in seq]
-        collapsed = collapse_pattern(types_only)
+        # Build pattern types for matching: treat 'plural' as 'text',
+        # and merge consecutive text nodes into one.
+        pattern_types = []
+        for t, _ in seq:
+            t_norm = 'text' if t == 'plural' else t
+            if pattern_types and pattern_types[-1] == 'text' and t_norm == 'text':
+                continue  # merge consecutive text
+            pattern_types.append(t_norm)
+
+        collapsed = collapse_pattern(pattern_types)
 
         if collapsed in PATTERN_MAP:
             type_name, extract_fn = PATTERN_MAP[collapsed]
@@ -412,7 +461,13 @@ def main():
                 seq = get_child_sequence(p)
                 if not seq:
                     continue
-                collapsed = collapse_pattern([t for t, _ in seq])
+                pattern_types = []
+                for t, _ in seq:
+                    t_norm = 'text' if t == 'plural' else t
+                    if pattern_types and pattern_types[-1] == 'text' and t_norm == 'text':
+                        continue
+                    pattern_types.append(t_norm)
+                collapsed = collapse_pattern(pattern_types)
                 if collapsed not in PATTERN_MAP:
                     skipped_patterns[collapsed] = skipped_patterns.get(collapsed, 0) + 1
             print(f"\nTop skipped patterns:")
