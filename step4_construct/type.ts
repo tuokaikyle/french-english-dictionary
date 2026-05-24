@@ -93,7 +93,8 @@ type BaseWithAltSpelling = Base & {
   }
 }
 
-type Other = {
+type Unmatched = {
   word: string;
   text: string;
+  type: 'unmatched';
 }
