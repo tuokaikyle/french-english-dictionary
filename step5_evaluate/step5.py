@@ -111,10 +111,13 @@ for tname in sorted(type_totals, key=lambda k: type_totals[k], reverse=True):
 print(f"{'─'*70}")
 print(f"{'TOTAL':<30} {sum(type_totals.values()):>8} {sum(type_totals.values())/total_tags*100:>7.2f}%")
 
-# ── Write uncovered entries to TSV ──
+# ── Write uncovered entries to TSV + HTML ──
 tsv_path = os.path.join(script_dir, 'uncovered.tsv')
+html_path = os.path.join(script_dir, 'uncovered.html')
+uncovered_tags = []
+
 with open(tsv_path, 'w', encoding='utf-8') as tsv:
-    tsv.write("word\ttag_length\tpattern\tpattern_count\n")
+    rows = []
     for p in soup.find_all('p'):
         seq = get_child_sequence(p)
         if not seq:
@@ -131,6 +134,20 @@ with open(tsv_path, 'w', encoding='utf-8') as tsv:
         first_b = p.find('b')
         word = first_b.get_text(strip=True) if first_b else '?'
         tag_length = len(p.get_text(strip=True))
-        tsv.write(f"{word}\t{tag_length}\t{collapsed}\t{uncovered_counts[collapsed]}\n")
+        rows.append((uncovered_counts[collapsed], word, tag_length, collapsed, p))
 
-print(f"\nWrote uncovered entries to {tsv_path}")
+    # Sort by tag_length descending
+    rows.sort(key=lambda r: r[2], reverse=True)
+
+    with open(tsv_path, 'w', encoding='utf-8') as tsv:
+        tsv.write("word\ttag_length\tpattern\tpattern_count\n")
+        for pattern_count, word, tag_length, collapsed, p in rows:
+            tsv.write(f"{word}\t{tag_length}\t{collapsed}\t{pattern_count}\n")
+            uncovered_tags.append(p)
+
+with open(html_path, 'w', encoding='utf-8') as f:
+    for p in uncovered_tags:
+        f.write(str(p) + '\n')
+
+print(f"\nWrote {len(uncovered_tags)} uncovered entries to {tsv_path}")
+print(f"Wrote {len(uncovered_tags)} uncovered <p> tags to {html_path}")
