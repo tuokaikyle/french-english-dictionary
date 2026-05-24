@@ -558,7 +558,7 @@
     "word": "dire",
     "irregular_pronunciation": "disant, dit",
     "pos": "v.a.",
-    "translation": "to tell, to say, to speak, to state, to write, to relate; to think; to believe; to express; to name, to decree. Le cœur vous en dit-il? are you agreeable or game? Est-ce à — que? does it follow that? Que veut — cela?qu’est-ce que cela veut —? what is the meaning of that?",
+    "translation": "to tell, to say, to speak, to state, to write, to relate; to think; to believe; to express; to name, to decree",
     "usage": [
       {
         "fr": "— d’avance",
@@ -686,7 +686,7 @@
   {
     "word": "en",
     "pos": "pron., m.f.sing. and pl.",
-    "translation": "of him, of her, of it, its, of them, their; from him, from her, from it, from them; by him, by her, by it, by them; about him, about her, about it, about them; thence, from thence; some of it, any. Avez-vous de l’argent? have you any money? Qu’— dites-vous? what do you say to it? — voulez-vous? will you have any? Voulez-vous — être? will you make one of us?",
+    "translation": "of him, of her, of it, its, of them, their; from him, from her, from it, from them; by him, by her, by it, by them; about him, about her, about it, about them; thence, from thence; some of it, any",
     "usage": [
       {
         "fr": "J’— ai",
@@ -782,7 +782,7 @@
   {
     "word": "chou",
     "pos": "n.m.",
-    "translation": "cabbage; colewort; puff-paste; kale; darling, dear; bow, rosette. —-palmiste , ; palm-cabbage. —-navet , ; rape-colewort. —-rave , ; turnip-cabbage.",
+    "translation": "cabbage; colewort; puff-paste; kale; darling, dear; bow, rosette",
     "usage": [
       {
         "fr": "— cabus",
@@ -875,6 +875,10 @@
       {
         "fr": "Bête comme un —",
         "en": "as stupid as an owl."
+      },
+      {
+        "fr": "—-palmiste",
+        "en": "; palm-cabbage. —-navet , ; rape-colewort. —-rave , ; turnip-cabbage."
       }
     ],
     "metadata": {
@@ -885,7 +889,7 @@
   {
     "word": "dieu",
     "pos": "n.m.",
-    "translation": "God. a hospital. Bon —!mon —! good God! good heavens! dear me! goodness me! —!grand —! good God!",
+    "translation": "God. a hospital",
     "usage": [
       {
         "fr": "— tout-puissant",
@@ -974,7 +978,7 @@
   {
     "word": "nôtre",
     "pos": "possessive pron.m.f.",
-    "translation": "ours. Celui-là est-il des —s? is that man one of our people? Ne serez-vous pas des —s? won’t you make one of us, or join our party?",
+    "translation": "ours",
     "usage": [
       {
         "fr": "C’est votre ami et le —",
@@ -991,6 +995,10 @@
       {
         "fr": "Voilà leur maison, celle-ci est la —",
         "en": "that is their house, this one is ours."
+      },
+      {
+        "fr": "Celui-là est-il des —s? is that man one of our people? Ne serez-vous pas des —s? won’t you make one of us",
+        "en": "or join our party?"
       }
     ],
     "metadata": {
@@ -1002,7 +1010,7 @@
   {
     "word": "juste",
     "pos": "adj.",
-    "translation": "just, equitable, legitimate, lawful, appropriate; apposite; right; upright, righteous; true, apt, fit, proper, exact; tight. — Dieu!— ciel! good God! just heaven!",
+    "translation": "just, equitable, legitimate, lawful, appropriate; apposite; right; upright, righteous; true, apt, fit, proper, exact; tight",
     "usage": [
       {
         "fr": "Un homme —",
@@ -1078,11 +1086,15 @@
   {
     "word": "tonnerre",
     "pos": "n.m.",
-    "translation": "thunder, thunderbolt; thundering noise. —!int. , by jingo! bedad! by Jove!",
+    "translation": "thunder, thunderbolt; thundering noise",
     "usage": [
       {
         "fr": "Coup de —, éclat de —",
         "en": "clap of thunder, peal of thunder."
+      },
+      {
+        "fr": "—!int.",
+        "en": "by jingo! bedad! by Jove!"
       }
     ],
     "type": "Base (other_consecutive_i.html)"

@@ -165,6 +165,27 @@ def extract_translation_and_usage(seq, start_idx):
             i += 1
 
     translation = ' '.join(p for p in translation_parts if p)
+
+    # --- Post-process: extract inline usage that bled into translation ---
+    # Some entries have usage examples embedded in the last text node,
+    # e.g. "...glosses. — à ses fins , to attain one's ends."
+    # The headword placeholder — (em-dash) marks the start of usage.
+    if '—' in translation:
+        dash_idx = translation.index('—')
+        before_dash = translation[:dash_idx]
+        # Find the last sentence boundary ( . or ; ) before the dash
+        last_dot = before_dash.rfind('. ')
+        last_semi = before_dash.rfind('; ')
+        split_at = max(last_dot, last_semi)
+        if split_at > 0:
+            extra = translation[split_at + 1:].strip().lstrip('.; ')
+            translation = translation[:split_at].rstrip(';. ')
+            # Try to split French, English on ', '
+            if extra and ', ' in extra:
+                fr, _, en = extra.partition(', ')
+                if fr.strip() and en.strip():
+                    usage.append({'fr': fr.strip(), 'en': en.strip()})
+
     translation = translation.lstrip(', ')  # strip structural comma after pos
     return translation, usage, plural
 
