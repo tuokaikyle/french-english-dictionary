@@ -2,7 +2,8 @@
 step5.py — Evaluate step4 coverage: which collapsed patterns are handled,
 which are not, and how entries distribute across types.
 
-Usage: uv run step5_evaluate/step5.py
+Usage: uv run step5_evaluate/step5.py [input.html]
+       If no input is given, defaults to step3_clean_book/clean.html.
 """
 
 import sys
@@ -21,11 +22,19 @@ from step4 import (
 )
 
 # ---------------------------------------------------------------------------
-# 1. Analyse clean.html — same pattern-building as step4 main loop
+# 1. Parse input — accept optional path, default to clean.html
 # ---------------------------------------------------------------------------
 
-clean_html = os.path.join(script_dir, '..', 'step3_clean_book', 'clean.html')
-with open(clean_html, 'r', encoding='utf-8') as f:
+if len(sys.argv) > 1:
+    input_html = sys.argv[1]
+    # Output TSV/HTML next to the input file
+    out_dir = os.path.dirname(os.path.abspath(input_html)) or "."
+else:
+    input_html = os.path.join(script_dir, '..', 'step3_clean_book', 'clean.html')
+    out_dir = script_dir
+
+print(f"Analyzing: {input_html}")
+with open(input_html, 'r', encoding='utf-8') as f:
     soup = BeautifulSoup(f.read(), 'html.parser')
 
 covered_counts = Counter()
@@ -112,8 +121,8 @@ print(f"{'─'*70}")
 print(f"{'TOTAL':<30} {sum(type_totals.values()):>8} {sum(type_totals.values())/total_tags*100:>7.2f}%")
 
 # ── Write uncovered entries to TSV + HTML ──
-tsv_path = os.path.join(script_dir, 'uncovered.tsv')
-html_path = os.path.join(script_dir, 'uncovered.html')
+tsv_path = os.path.join(out_dir, 'uncovered.tsv')
+html_path = os.path.join(out_dir, 'uncovered.html')
 uncovered_tags = []
 
 with open(tsv_path, 'w', encoding='utf-8') as tsv:

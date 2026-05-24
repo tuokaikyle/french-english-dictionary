@@ -18,7 +18,7 @@ args = parser.parse_args()
 if args.input:
     fr_en_path = os.path.abspath(args.input)
 else:
-    fr_en_path = os.path.join(script_dir, '..', 'step1_truncate_book', 'fr_en.html')
+    fr_en_path = os.path.join(script_dir, '..', 'step1_truncate_book', 'truncated', 'fr_en.html')
 
 print(f"Reading from: {os.path.normpath(fr_en_path)}\n")
 

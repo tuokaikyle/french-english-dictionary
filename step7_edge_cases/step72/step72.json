@@ -1,0 +1,3089 @@
+[
+  {
+    "word": "le le , pron.m. , la la , f. , les",
+    "text": "le,pron.m.,la,f.,les,pl.m.f., him, her, it, them; so.Je les vois; I see them.Je le vois; I see him, it.Il l’aime; he loves him, it.Je l’aime; I love her.Donnez-le-moi; give it me.La voici; here she is.Je suis enrhumée, mes femmes le sont aussi; I have got a cold, so have my maids.",
+    "type": "Unmatched (multiplePos.html)"
+  },
+  {
+    "word": "lequel lequel , pron.m. , laquelle laquelle , f. , lesquels lesquels , pl.m. , lesquelles",
+    "text": "lequel,pron.m.,laquelle,f.,lesquels,pl.m.,lesquelles,pl.f., who, whom, that, which; (interrogatively) which one, which.Lequel, laquelle, vous plaît davantage?which pleases you best?Lequel, laquelle, préférez-vous?which one do you prefer?",
+    "type": "Unmatched (multiplePos.html)"
+  },
+  {
+    "word": "personne",
+    "pos": "pron.m.",
+    "translation": "nobody, no man, none, no one; any body, any one. or would succeed in it.",
+    "usage": [
+      {
+        "fr": "Il n’y a — à la maison",
+        "en": "there is nobody at home."
+      },
+      {
+        "fr": "Je doute que — y réussisse",
+        "en": "I doubt whether any one will"
+      }
+    ],
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "stagiaire",
+    "pos": "n. and adj.m.",
+    "translation": "licentiate in law going through his stage. or probationer. adj. , attending terms, going through his course.",
+    "usage": [
+      {
+        "fr": "Avocat —",
+        "en": "licentiate in law (not admitted to the bar)"
+      }
+    ],
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "il il , pron.m. , he; it, there; pl. ils",
+    "text": "il,pron.m., he; it, there;pl.ils, they.— me parle; he speaks to me.— fait froid; it is cold.— y a des gens; there are persons, people.— s’éleva un murmure; a murmur arose.",
+    "type": "Unmatched (multiplePos.html)"
+  },
+  {
+    "word": "converse",
+    "pos": "n. and adj.f.",
+    "translation": "(log.) converse; (math.) inverted.",
+    "usage": [
+      {
+        "fr": "Proposition —",
+        "en": "(log.) converse proposition."
+      },
+      {
+        "fr": "Proposition —",
+        "en": "(math.) inverted proposition."
+      }
+    ],
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "crénelé",
+    "pos": "part.adj.",
+    "translation": "(her.) embattled; loop-holed; indented, notched; (of wheels) cogged; (of coins) milled; (bot.) denticulated, crenated.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (multiplePos.html)"
+  },
+  {
+    "word": "négrier",
+    "pos": "n. and adj.m.",
+    "translation": "slave-ship, slaver; slave-dealer.",
+    "usage": [
+      {
+        "fr": "Capitaine —",
+        "en": "captain of a slave-ship."
+      },
+      {
+        "fr": "Bâtiment —",
+        "en": "slave-ship."
+      },
+      {
+        "fr": "Marchand —",
+        "en": "slave-dealer."
+      }
+    ],
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "reposé",
+    "pos": "part.adj.",
+    "translation": "rested, refreshed; quiet, calm, cool, fresh.",
+    "usage": [
+      {
+        "fr": "À tête —e",
+        "en": "coolly, deliberately, at leisure."
+      },
+      {
+        "fr": "Vin —",
+        "en": "wine that has settled."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (multiplePos.html)"
+  },
+  {
+    "word": "anticipé",
+    "pos": "part.adj.",
+    "translation": "anticipated.",
+    "usage": [
+      {
+        "fr": "Joie —e",
+        "en": "foretaste of joy."
+      },
+      {
+        "fr": "Connaissance —e",
+        "en": "foreknowledge."
+      },
+      {
+        "fr": "Une vieillesse —e",
+        "en": "a premature old age."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (multiplePos.html)"
+  },
+  {
+    "word": "timbré",
+    "pos": "part.adj.",
+    "translation": "stamped.",
+    "usage": [
+      {
+        "fr": "Papier —",
+        "en": "stamped paper, summons, writ."
+      },
+      {
+        "fr": "Esprit, cerveau —",
+        "en": "crack-brained person."
+      },
+      {
+        "fr": "Il est —",
+        "en": "he is cracked."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (multiplePos.html)"
+  },
+  {
+    "word": "salope",
+    "pos": "n. and adj.f.",
+    "translation": "slut; disorderly woman; slovenly, sluttish. mud-boat.",
+    "usage": [
+      {
+        "fr": "C’est une vraie —",
+        "en": "she is a perfect slut."
+      },
+      {
+        "fr": "Marie-—",
+        "en": "("
+      }
+    ],
+    "metadata": {
+      "plural": "—s-—s"
+    },
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "travaillé",
+    "pos": "part.adj.",
+    "translation": "worked, wrought, labored; elaborate, (fig.) laboring (under), a prey (to).",
+    "usage": [
+      {
+        "fr": "— à jour",
+        "en": "open-worked."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (multiplePos.html)"
+  },
+  {
+    "word": "preux",
+    "pos": "n. and adj.m.",
+    "translation": "valiant knight, gallant knight; worthy; gallant, doughty, valiant, stout, worthy.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "succursale",
+    "pos": "n. and adj.f.",
+    "translation": "(eccl.) chapel of ease, branch establishment, auxiliary branch; branch-bank.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "couturier",
+    "pos": "n. and adj.m.",
+    "translation": "(anat.) sartorious muscle; tailor’s muscle; sempster, sewer; ladies’ tailor.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "rongeur",
+    "pos": "n. and adj.m.",
+    "translation": "(mam.) rodent; gnawing, biting; corroding; consuming.",
+    "usage": [
+      {
+        "fr": "Ver —",
+        "en": "never-dying worm."
+      }
+    ],
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "voyer",
+    "pos": "n. and adj.m.",
+    "translation": "surveyor of roads, inspector of highways; relating, pertaining, to roads.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "toc!",
+    "text": "toc!int. and n.m., rap, knock (at a door); sham,orimitation, jewelry; paste; brummagem goods.",
+    "type": "Unmatched (multiplePos.html)"
+  },
+  {
+    "word": "fat",
+    "irregular_pronunciation": "fat",
+    "pos": "n. and adj.m.",
+    "translation": "fop, coxcomb; foppish.",
+    "usage": [
+      {
+        "fr": "En —",
+        "en": "foppishly."
+      },
+      {
+        "fr": "C’est un —",
+        "en": "he is a coxcomb."
+      }
+    ],
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "murmurateur",
+    "pos": "n. and adj.m.",
+    "translation": "murmurer, grumbler; discontented, murmuring, grumbling person.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "sterling",
+    "pos": "n. and adj.m., invariable",
+    "translation": "sterling.",
+    "usage": [
+      {
+        "fr": "Monnaie —",
+        "en": "sterling."
+      },
+      {
+        "fr": "Livre —",
+        "en": "pound sterling."
+      }
+    ],
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "officiant",
+    "pos": "n. and adj.m.",
+    "translation": "officiating priest, officiating clergyman; officiating.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "verglacé",
+    "pos": "part.adj.",
+    "translation": "covered with rime, coated over with frost, frozen over.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (multiplePos.html)"
+  },
+  {
+    "word": "scarlatine",
+    "pos": "n. and adj.f.",
+    "translation": "(med.) scarlatina; scarlet.",
+    "usage": [
+      {
+        "fr": "Fièvre —",
+        "en": "scarlet fever."
+      }
+    ],
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "versé",
+    "pos": "part.adj.",
+    "translation": "poured, overturned; (fig.) versed, skilled, conversant.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (multiplePos.html)"
+  },
+  {
+    "word": "personnée",
+    "pos": "n. and adj.f.",
+    "translation": "(bot.) personate, masked flower; personate, masked.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "craché",
+    "pos": "part.adj.Tout —, toute —e",
+    "translation": "; the very image of; the dead spit of.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (multiplePos.html)"
+  },
+  {
+    "word": "recruteur",
+    "pos": "n. and adj.m.",
+    "translation": "recruiter; recruiting, recruiting officer.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "repris de justice",
+    "pos": "n. and adj.m.",
+    "translation": "liberated convict, old offender.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "tentat-eur",
+    "pos": "n.m., adj.",
+    "translation": "tempter, temptress, tempting.",
+    "metadata": {
+      "feminineSuffix": "-rice",
+      "femininePos": "n.f."
+    },
+    "type": "BaseWith2GenderNoun (multiplePos.html)"
+  },
+  {
+    "word": "présumé",
+    "pos": "part.adj.",
+    "translation": "presumed, supposed, conjectured, reputed.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "dévoyé",
+    "pos": "n.adj.",
+    "translation": "misled; stray sheep; wanderer from the fold.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "rousseau",
+    "pos": "n. and adj.m.",
+    "translation": "(fam.) red-haired fellow; red-haired.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "réflecteur",
+    "pos": "n. and adj.m.",
+    "translation": "reflector; reflective, reflecting.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "tourang-eau",
+    "pos": "n.adj.",
+    "translation": "of Touraine; native of Touraine.",
+    "metadata": {
+      "feminineSuffix": "-elle"
+    },
+    "type": "BaseWithFeminine (multiplePos.html)"
+  },
+  {
+    "word": "répartiteur",
+    "pos": "n. and adj.m.",
+    "translation": "assessor; assessing (of taxes).",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "songeur",
+    "pos": "n. and adj.m.",
+    "translation": "(l.u.) dreamer; thoughtful, dreamy.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "cathédrale",
+    "pos": "n. and adj.f.",
+    "translation": "cathedral; cathedral church.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "prétexte",
+    "pos": "n. and adj.f.",
+    "translation": "(Rom. antiq.) prætexta, tunic.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "liliacée",
+    "pos": "n. and adj.f.",
+    "translation": "liliaceous plant; liliaceous.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "malvacée",
+    "pos": "n. and adj.f.",
+    "translation": "malvaceous plant; malvaceous.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "benêt",
+    "pos": "n. and adj.m.",
+    "translation": "booby, fool, simpleton; silly.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "mené",
+    "pos": "part.adj.",
+    "translation": "led.",
+    "usage": [
+      {
+        "fr": "— par sa femme",
+        "en": "henpecked."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (multiplePos.html)"
+  },
+  {
+    "word": "rotateur",
+    "pos": "n. and adj.m.",
+    "translation": "(anat.) rotator; rotatory.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "picholine",
+    "pos": "n. and adj.f.",
+    "translation": "pickled olive; pickled.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "navigateur",
+    "pos": "n. and adj.m.",
+    "translation": "navigator; seafaring.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "convoyeur",
+    "pos": "n. and adj.m.",
+    "translation": "(nav.) convoy (ship).",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "mise",
+    "pos": "part.adj.",
+    "translation": "put; dressed, clad, attired.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "crémaster",
+    "pos": "n. and adj.m.",
+    "translation": "(anat.) cremaster.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "fléchisseur",
+    "pos": "n. and adj.m.",
+    "translation": "(anat.) flexor.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "névritique",
+    "pos": "n. and adj.m.",
+    "translation": "(med.) neurotic.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "pronateur",
+    "pos": "n. and adj.m.",
+    "translation": "(anat.) pronator.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "dorien",
+    "irregular_pronunciation": "-in",
+    "pos": "n. and adj.m.",
+    "translation": "Dorian; Doric.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "palatale",
+    "pos": "n. and adj.f.",
+    "translation": "(gram.) palatal.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "radouci",
+    "pos": "part.adj.",
+    "translation": "softened, subdued.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "trigame",
+    "pos": "n.adj.",
+    "translation": "trigamous; trigamist.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "hébreu",
+    "pos": "n. and adj.m.",
+    "translation": "Hebrew; Hebraic.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "laquelle",
+    "pos": "pron.f.",
+    "translation": "which, who, that.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "suffragant",
+    "pos": "n. and adj.m.",
+    "translation": "suffragan.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "gentil",
+    "irregular_pronunciation": "-ti",
+    "pos": "n. and adj.m.",
+    "translation": "Gentile.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "phrasé",
+    "pos": "part.adj.",
+    "translation": "phrased.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (multiplePos.html)"
+  },
+  {
+    "word": "nervin",
+    "pos": "n. and adj.m.",
+    "translation": "nervine.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "onciale",
+    "pos": "n. and adj.f.",
+    "translation": "uncial.",
+    "type": "Base (multiplePos.html)"
+  },
+  {
+    "word": "dire",
+    "irregular_pronunciation": "disant, dit",
+    "pos": "v.a.",
+    "translation": "to tell, to say, to speak, to state, to write, to relate; to think; to believe; to express; to name, to decree. Le cœur vous en dit-il? are you agreeable or game? Est-ce à — que? does it follow that? Que veut — cela?qu’est-ce que cela veut —? what is the meaning of that?",
+    "usage": [
+      {
+        "fr": "— d’avance",
+        "en": "to say beforehand."
+      },
+      {
+        "fr": "— entre les dents",
+        "en": "to mutter between one’s teeth."
+      },
+      {
+        "fr": "Dites votre avis",
+        "en": "give your opinion."
+      },
+      {
+        "fr": "Dis-je",
+        "en": "said I."
+      },
+      {
+        "fr": "On dit",
+        "en": "it is said."
+      },
+      {
+        "fr": "On le dit parti",
+        "en": "he is said to have left."
+      },
+      {
+        "fr": "— du bien ou du mal de quelqu’un",
+        "en": "to speak well or ill of anyone."
+      },
+      {
+        "fr": "— des injures à quelqu’un",
+        "en": "to call any one names."
+      },
+      {
+        "fr": "— des duretés",
+        "en": "to say harsh things."
+      },
+      {
+        "fr": "— quelque chose à l’oreille",
+        "en": "to whisper anything."
+      },
+      {
+        "fr": "Si le cœur vous en dit",
+        "en": "if you feel so minded."
+      },
+      {
+        "fr": "Pour tout —",
+        "en": "in a word."
+      },
+      {
+        "fr": "Pour mieux —",
+        "en": "or rather."
+      },
+      {
+        "fr": "Soit dit entre nous",
+        "en": "between ourselves."
+      },
+      {
+        "fr": "Cela va sans —",
+        "en": "that is understood, that goes without saying, of course, that is a matter of course."
+      },
+      {
+        "fr": "C’est-à-dire",
+        "en": "that is to say."
+      },
+      {
+        "fr": "Pour ainsi —",
+        "en": "so to speak."
+      },
+      {
+        "fr": "Ce n’est pas à — que",
+        "en": "it does not follow that."
+      },
+      {
+        "fr": "— la messe",
+        "en": "to say mass."
+      },
+      {
+        "fr": "Je ne sais que — de tout cela",
+        "en": "I do not know what to think of all that."
+      },
+      {
+        "fr": "Faire — à quelqu’un",
+        "en": "to make any one say; to send word to anyone."
+      },
+      {
+        "fr": "Tout est dit",
+        "en": "all is over; there’s an end of it."
+      },
+      {
+        "fr": "Cela ne dit rien",
+        "en": "that is nothing to the point."
+      },
+      {
+        "fr": "Cela soit dit en passant",
+        "en": "but that by the way."
+      },
+      {
+        "fr": "C’est tout —",
+        "en": "I needn’t say more!"
+      },
+      {
+        "fr": "Cela vous plaît à —",
+        "en": "you are pleased to say so."
+      },
+      {
+        "fr": "Quand je vous le disais",
+        "en": "or"
+      },
+      {
+        "fr": "je vous le disais bien",
+        "en": "or"
+      },
+      {
+        "fr": "je vous l’avais bien dit",
+        "en": "didn’t I tell you so! or, what did I tell you."
+      },
+      {
+        "fr": "Trouver à —",
+        "en": "to find amiss, to find fault."
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "en",
+    "pos": "pron., m.f.sing. and pl.",
+    "translation": "of him, of her, of it, its, of them, their; from him, from her, from it, from them; by him, by her, by it, by them; about him, about her, about it, about them; thence, from thence; some of it, any. Avez-vous de l’argent? have you any money? Qu’— dites-vous? what do you say to it? — voulez-vous? will you have any? Voulez-vous — être? will you make one of us?",
+    "usage": [
+      {
+        "fr": "J’— ai",
+        "en": "I have some."
+      },
+      {
+        "fr": "Vous — parlez toujours",
+        "en": "you are always speaking of him, of it."
+      },
+      {
+        "fr": "Il — est mort un",
+        "en": "one of them is dead."
+      },
+      {
+        "fr": "J’— suis bien aise",
+        "en": "I am very glad of it."
+      },
+      {
+        "fr": "J’— suis fâché",
+        "en": "I am sorry for it."
+      },
+      {
+        "fr": "J’— suis surpris",
+        "en": "I wonder at it."
+      },
+      {
+        "fr": "Je n’— ai point",
+        "en": "I have none."
+      },
+      {
+        "fr": "Donnez m’—",
+        "en": "give me some."
+      },
+      {
+        "fr": "C’est un bœuf, j’— vois les cornes",
+        "en": "it is an ox, I see its horns."
+      },
+      {
+        "fr": "Si vous voulez voir de beaux tableaux, il — a",
+        "en": "if you wish to see fine pictures, he has some."
+      },
+      {
+        "fr": "Il — est des femmes comme des enfants",
+        "en": "it is with women as with children."
+      },
+      {
+        "fr": "Il — est de cela comme de la plupart des choses",
+        "en": "it is with that as with most other things."
+      },
+      {
+        "fr": "Après cela ils — vinrent aux mains",
+        "en": "after that they came to blows."
+      },
+      {
+        "fr": "— vouloir à quelqu’un",
+        "en": "to have a grudge against any one."
+      },
+      {
+        "fr": "S’— aller",
+        "en": "to go away."
+      },
+      {
+        "fr": "S’— retourner",
+        "en": "to return."
+      },
+      {
+        "fr": "C’— est fait",
+        "en": "it is all over."
+      },
+      {
+        "fr": "Il s’— faut de beaucoup",
+        "en": "you are a long way off."
+      },
+      {
+        "fr": "Il ne sait où il — est",
+        "en": "he knows not how far he has got."
+      },
+      {
+        "fr": "Il — tient",
+        "en": "he is caught."
+      },
+      {
+        "fr": "Parlez-lui-—",
+        "en": "speak to him of it."
+      },
+      {
+        "fr": "Il veut — découdre",
+        "en": "he wants to fight it out."
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "chou",
+    "pos": "n.m.",
+    "translation": "cabbage; colewort; puff-paste; kale; darling, dear; bow, rosette. —-palmiste , ; palm-cabbage. —-navet , ; rape-colewort. —-rave , ; turnip-cabbage.",
+    "usage": [
+      {
+        "fr": "— cabus",
+        "en": "headed-cabbage."
+      },
+      {
+        "fr": "— marin",
+        "en": "sea-kale, wort, sea-cabbage."
+      },
+      {
+        "fr": "— pommé",
+        "en": "white-headed cabbage."
+      },
+      {
+        "fr": "— non pommé",
+        "en": "bore-kale, brown-kale."
+      },
+      {
+        "fr": "Filet à —",
+        "en": "cabbage-net."
+      },
+      {
+        "fr": "Rejet de —",
+        "en": "cabbage-sprout."
+      },
+      {
+        "fr": "Pomme de —",
+        "en": "cabbage-head."
+      },
+      {
+        "fr": "Tige, trognon, de —",
+        "en": "cabbage-stalk."
+      },
+      {
+        "fr": "— crépu",
+        "en": "Scotch kale."
+      },
+      {
+        "fr": "— de Milan",
+        "en": "savoy."
+      },
+      {
+        "fr": "—x verts, jeunes —x",
+        "en": "sprouts."
+      },
+      {
+        "fr": "—x blancs",
+        "en": "white-heart cabbages."
+      },
+      {
+        "fr": "—x brocolis",
+        "en": "broccoli."
+      },
+      {
+        "fr": "— oléifère",
+        "en": "colza."
+      },
+      {
+        "fr": "— de chien",
+        "en": "dog’s cabbage."
+      },
+      {
+        "fr": "—!—-là!—-pille!",
+        "en": "(hunt.) at it! go it!"
+      },
+      {
+        "fr": "Des —x et des raves",
+        "en": "ducks and drakes."
+      },
+      {
+        "fr": "— pour —",
+        "en": "taking one thing and another."
+      },
+      {
+        "fr": "Il en fait ses —x gras",
+        "en": "he feathers his nest with it."
+      },
+      {
+        "fr": "Il s’entend à cela comme à ramer des —x",
+        "en": "he knows nothing at all about it."
+      },
+      {
+        "fr": "Aller planter ses —x",
+        "en": "to retire into private life."
+      },
+      {
+        "fr": "Mon petit —",
+        "en": "my little darling."
+      },
+      {
+        "fr": "Bête comme un —",
+        "en": "as stupid as an owl."
+      }
+    ],
+    "metadata": {
+      "plural": "—x-—s"
+    },
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "dieu",
+    "pos": "n.m.",
+    "translation": "God. a hospital. Bon —!mon —! good God! good heavens! dear me! goodness me! —!grand —! good God!",
+    "usage": [
+      {
+        "fr": "— tout-puissant",
+        "en": "Almighty God."
+      },
+      {
+        "fr": "Le — des armées",
+        "en": "the Lord of Hosts."
+      },
+      {
+        "fr": "Le bon —",
+        "en": "God Almighty; the host."
+      },
+      {
+        "fr": "Croire en —",
+        "en": "to believe in God."
+      },
+      {
+        "fr": "Porter le bon — à un malade",
+        "en": "to carry the host to a sick person."
+      },
+      {
+        "fr": "La Fête-Dieu",
+        "en": "Corpus Christi-day."
+      },
+      {
+        "fr": "Un homme de —",
+        "en": "a godly man."
+      },
+      {
+        "fr": "Un Hôtel-Dieu",
+        "en": "("
+      },
+      {
+        "fr": "— vous bénisse",
+        "en": "God bless you."
+      },
+      {
+        "fr": "S’il plaît à —, avec l’aide de —, — aidant",
+        "en": "God willing, God helping."
+      },
+      {
+        "fr": "— le veuille, plût à —",
+        "en": "God grant it, would to God."
+      },
+      {
+        "fr": "— m’en garde, — m’en préserve, à — ne plaise",
+        "en": "God forbid."
+      },
+      {
+        "fr": "— merci, grâces à —",
+        "en": "thank God."
+      },
+      {
+        "fr": "Jurer ses grands dieux",
+        "en": "to swear by all that is sacred."
+      },
+      {
+        "fr": "Au nom de —",
+        "en": "in God’s name."
+      },
+      {
+        "fr": "Pour l’amour de —",
+        "en": "for God’s sake, out of charity, for charity’s sake."
+      },
+      {
+        "fr": "Les dieux du paganisme",
+        "en": "the heathen gods."
+      }
+    ],
+    "metadata": {
+      "plural": "—s-—"
+    },
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "beau beau , bel bel , belle",
+    "text": "beau,bel,belle,adv.De plus belle; with renewed ardor, worse than ever.Tout beau; gently, not so fast.Avoir beau faire; to try in vain.J’ai beau faire; it is in vain that I try.Avoir beau dire; to speak in vain.J’ai beau dire; it is useless for me to speak.Bel et bien; entirely, quite, altogether.Bel et bon; all very fine.Voir tout en beau; to see everything through rose-colored spectacles.Faire le beau; (of dogs) to beg.Jouer la belle; to play the rubber.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "celui-là celui-là , celle-là celle-là , sing. , ceux-là ceux-là , celles-là",
+    "text": "celui-là,celle-là,sing.,ceux-là,celles-là,pl., demonst. pron.; that, those.Aimez-vous mieux celui-ci?do you like this best?Celui-là n’est pas si beau; that one is not so fine.Celui-ci est meilleur que celui-là; this is better than that. [Celui-cirelates to an object near the speaker;celui-là, to an object distant from him; or after two nouns already expressed,celui-cirefers to the last,celui-làto the first mentioned.]",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "nôtre",
+    "pos": "possessive pron.m.f.",
+    "translation": "ours. Celui-là est-il des —s? is that man one of our people? Ne serez-vous pas des —s? won’t you make one of us, or join our party?",
+    "usage": [
+      {
+        "fr": "C’est votre ami et le —",
+        "en": "it is your friend and ours."
+      },
+      {
+        "fr": "Le —",
+        "en": "our own, ours."
+      },
+      {
+        "fr": "Les —s",
+        "en": "our people, our relations, our friends."
+      },
+      {
+        "fr": "Voilà leur maison, celle-ci est la —",
+        "en": "that is their house, this one is ours."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "le",
+      "plural": "nôtres"
+    },
+    "type": "BaseWithFeminine (other_consecutive_i.html)"
+  },
+  {
+    "word": "juste",
+    "pos": "adj.",
+    "translation": "just, equitable, legitimate, lawful, appropriate; apposite; right; upright, righteous; true, apt, fit, proper, exact; tight. — Dieu!— ciel! good God! just heaven!",
+    "usage": [
+      {
+        "fr": "Un homme —",
+        "en": "a righteous man."
+      },
+      {
+        "fr": "Vos souliers sont trop —s",
+        "en": "your shoes are too tight."
+      },
+      {
+        "fr": "Ma montre est —",
+        "en": "my watch is right."
+      },
+      {
+        "fr": "Au plus — prix",
+        "en": "at the lowest figure."
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "mon mon , possessive adj.m. , ma ma , f. , mes",
+    "text": "mon,possessive adj.m.,ma,f.,mes,pl.m.f., my.Mon père, ma mère et mes enfants; my father, mother, and children.Mon âme; my soul.Mon unique ressource; my only resource.Mon bon et digne ami; my good and worthy friend. [Monis used instead ofma(in the feminine) before a vowel or silenth.]",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "ce ce , cet cet , m. , cette cette , f. , ces",
+    "text": "ce,cet,m.,cette,f.,ces,pl., demonst. adj., this, these; that, those.Ce livre; thisorthat book.Ce héros; thisorthat hero.Cet arbre; thisorthat tree.Cet homme; thisorthat man.Cette femme; thisorthat woman.Ces livres; theseorthose books.Ce livre-ci; this book.Ce livre-là; that book.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "autant mieux autant mieux ord’ autant plus",
+    "text": "d’autant mieuxord’autant plus(adverb. phrase), the more so, so much the more so, the rather, especially.Je l’estime d’autant plus qu’il est pauvre; I esteem him the more because he is poor.Je l’en aime d’autant mieux; I love her all the more for it.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "gare!",
+    "text": "gare!int., make way; take care; look out; beware!— de là!clear the way there!— là!look out there!— de devant!make way before!— l’eau!— l’eau là-bas!take care below!— le fouet!— le bâton!beware of the rod! beware of the stick!Crier —!to give warning.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "ton ton , m. , ta ta , f. , tes",
+    "text": "ton,m.,ta,f.,tes,pl.m.f., possessive adj., thy, your.— frère, ta sœur et tes cousins; thy brother, sister, and cousins.— âme; thy soul. [Tonis used for thef.before a vowel or silenth.]",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "fur",
+    "pos": "n.m.À — et à mesure, au — et à mesure",
+    "translation": "; in proportion, gradually as, as fast as.",
+    "usage": [
+      {
+        "fr": "On le paye au — et à mesure de l’ouvrage",
+        "en": "he is paid in proportion to the quantity of work done."
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "adieu adieu , adv. , adieu, farewell, good-bye. Dire —, faire ses adieux à",
+    "text": "adieu,adv., adieu, farewell, good-bye.Dire —, faire ses adieuxà; to bid adieu.Sans —; without bidding you adieu, without saying good-bye.— va!(nav.) about ship!",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "celui celui , m. , celle celle , f. , ceux ceux , celles",
+    "text": "celui,m.,celle,f.,ceux,celles,pl., demonst. pron., he, him; she, her, they, them; that, those.Ceux qui ont vécu avant nous; those who lived before us.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "pincette pincette , n.f., or pincettes",
+    "text": "pincette,n.f., orpincettes,n.f.pl., tongs, tweezers, nippers.On ne le toucherait pas avec des —s; a person would not touch him with a pair of tongs.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "tonnerre",
+    "pos": "n.m.",
+    "translation": "thunder, thunderbolt; thundering noise. —!int. , by jingo! bedad! by Jove!",
+    "usage": [
+      {
+        "fr": "Coup de —, éclat de —",
+        "en": "clap of thunder, peal of thunder."
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "vôtre vôtre , possessive pron.m. , la vôtre la vôtre , f. , les vôtres",
+    "text": "levôtre,possessive pron.m.,la vôtre,f.,les vôtres,pl.m.f., yours.Il a pris ses livres et les —s; he has taken his books and yours.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "jectisses",
+    "pos": "adj.f.pl.Terres —",
+    "translation": "; made earth, loose soil; rubbish.",
+    "usage": [
+      {
+        "fr": "Pierres —",
+        "en": "(mas.) stones small enough to be placed by hand."
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "indispensable",
+    "pos": "adj.",
+    "translation": "indispensable. or strictly necessary; the needful.",
+    "usage": [
+      {
+        "fr": "n.m.L’—",
+        "en": "the strict necessities, the indispensable"
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "percée percée , n.f., or percé",
+    "text": "percée,n.f., orpercé,n.m., opening, cutting (in a wood), vista, glade.Faire une — dans; to hew a passage through.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "vanne",
+    "pos": "n.f.",
+    "translation": "water-gate, sluice, sluice-gate; paddle-door.",
+    "usage": [
+      {
+        "fr": "adj.Eaux —s",
+        "en": "waste waters (from factories, etc.)."
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "cyrillien",
+    "pos": "adj.Alphabet —",
+    "translation": "; the Slavonic alphabet invented in the 9th century by St. Cyrillus.",
+    "metadata": {
+      "altSpelling": "cyrillique"
+    },
+    "type": "BaseWithAltSpelling (other_consecutive_i.html)"
+  },
+  {
+    "word": "amphictyonide",
+    "pos": "adj.Ville —",
+    "translation": "; a town having the right of sending a deputy to the Amphictyonic council.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "votre",
+    "pos": "possessive adj.m.f.",
+    "translation": "your.",
+    "usage": [
+      {
+        "fr": "— serviteur",
+        "en": "your servant. Vos parents; your relations."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "vos",
+      "femininePos": "pl."
+    },
+    "type": "BaseWith2GenderNoun (other_consecutive_i.html)"
+  },
+  {
+    "word": "ajourner ajourner , v.n., s’ ajourner",
+    "text": "ajourner,v.n., s’ajourner,v.r., to adjourn, to be adjourned, to put off, to defer, to summons.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "gigogne",
+    "pos": "n.f.Mère —",
+    "translation": "; woman with many children.",
+    "usage": [
+      {
+        "fr": "La mère —",
+        "en": "the old woman who lived “in a shoe.”"
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "chasse-cousins",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) paltry dinner, bad wine; cold shoulder, poor reception.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "thoracique thoracique or ☉ thorachique",
+    "text": "thoraciqueor☉thorachique,n.m. and adj., (med.) pectoral; thoracic.Canal —; thoracic duct.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "chauffe-chemise chauffe-chemise , n.m. , ( —, or—-—s ) or chauffe-linge",
+    "text": "chauffe-chemise,n.m., (—, or—-—s)orchauffe-linge,n.m., (—) clothes-horse, linen-warmer.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "attrape",
+    "pos": "n.m.— nigaud",
+    "translation": "; fool-trap.",
+    "usage": [
+      {
+        "fr": "— mouche",
+        "en": "catch-fly."
+      },
+      {
+        "fr": "C’est un — tout",
+        "en": "he is a grabber."
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "bénéficiaire",
+    "pos": "adj.Héritier —",
+    "translation": "; heir liable to no debts above the value of the assets.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "marinière",
+    "pos": "n.f.Nager à la —",
+    "translation": "; to swim on the side; (cook.) “marinière” fashion.",
+    "metadata": {
+      "reflexive": "à la"
+    },
+    "type": "BaseWithReflexive (other_consecutive_i.html)"
+  },
+  {
+    "word": "minimâ",
+    "pos": "adv.Appel à —",
+    "translation": "; (jur.) appeal by the crown when a sentence is too lenient.",
+    "metadata": {
+      "reflexive": "à"
+    },
+    "type": "BaseWithReflexive (other_consecutive_i.html)"
+  },
+  {
+    "word": "cogne-fétu",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) (pop.) great worker, little doer; fussy-do-nothing.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker (other_consecutive_i.html)"
+  },
+  {
+    "word": "mafflé mafflé , -e -e , or mafflu mafflu , -e",
+    "text": "mafflé,-e,ormafflu,-e,n. and adj., (fam., l.u.) chub-cheeked person; chub-cheeked.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "coulis",
+    "pos": "adj.m.Vent —",
+    "translation": "; wind that comes through cracks and chinks, draught of air.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-vaisselle",
+    "pos": "n.m.",
+    "translation": "( —, or—s-— ) gentleman of the ewry, yeoman of the scullery.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "recuit recuit , n.m., or recuite",
+    "text": "recuit,n.m., orrecuite,n.f., annealing (of metals, glass); reheating (liquids).",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "tilleu-r tilleu-r , n.m. , -se -se , n.f., or teilleu-r teilleu-r , -se",
+    "text": "*tilleu-r,n.m.,-se,n.f., orteilleu-r,-se, (agri.) stripper, scutcher (of hemp).",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "désenrhumer",
+    "pos": "v.a.",
+    "translation": "to cure of a cold.",
+    "usage": [
+      {
+        "fr": "v.n.Ne pas —",
+        "en": "to be never without a cold."
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-magasin",
+    "pos": "n.m.",
+    "translation": "( —, or—s-—s ) warehouse-keeper, warehouseman, store-keeper.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "ressuscitation ressuscitation , n.f., or ressuscitement",
+    "text": "ressuscitation,n.f., orressuscitement,n.m., resuscitation, revival, renewal.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "attrape-parterre",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) (l.u.) clap-trap for the pit, clap-trap.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "celui-ci celui-ci , celle-ci celle-ci , sing. , ceux-ci ceux-ci , celles-ci",
+    "text": "celui-ci,celle-ci,sing.,ceux-ci,celles-ci,pl., demonst. pron.; this, these.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "pétaud",
+    "pos": "n.m.C’est la cour du roi —",
+    "translation": "; it is Bedlam broken loose; Dover court.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "bain-marie",
+    "pos": "n.m.Cuire au —",
+    "translation": "; to cook in a vessel immersed in boiling water.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "chasse-chien",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) beadle; keeper employed to drive away dogs.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "content",
+    "pos": "n.m.Tout son —",
+    "translation": "; one’s fill; all one wants, as much as one likes.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "courée courée , n.f., or courai",
+    "text": "courée,n.f., orcourai,n.m., (nav.) stuff to pay a ship’s bottom, grading.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "guide-main",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) (of the piano-forte) chiroplast, hand-guide.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "chartron",
+    "pos": "n.m.Faire",
+    "translation": "or",
+    "usage": [
+      {
+        "fr": "former le —",
+        "en": "to stand in a row near the footlights."
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "eux",
+    "pos": "pron.m.pl.",
+    "translation": "they; them.",
+    "usage": [
+      {
+        "fr": "—-mêmes",
+        "en": "themselves."
+      },
+      {
+        "fr": "Entre —",
+        "en": "between them."
+      }
+    ],
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "vicairie vicairie , n.f., or vicariat",
+    "text": "vicairie,n.f., orvicariat,n.m., curacy, curateship, vicarage, living.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-chiourme",
+    "pos": "n.m.",
+    "translation": "( —, or—s-— ) overseer of convict-gangs; warder.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-meuble",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) store-room, repository, lumber-room.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "asclépiade asclépiade , n.f., or asclépias",
+    "text": "asclépiade,n.f., orasclépias,n.m., (bot.) asclepias, swallow-wort.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "cache-peigne",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) head-ornament to conceal the comb.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-boutique",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) unsaleable goods, old shopkeeper.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "prusse",
+    "pos": "n.f.Pour le roi de —",
+    "translation": "; to no purpose, in vain, for nothing.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "gratte-papier",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) scribbling drudge, quill driver.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "inconstant",
+    "pos": "n.m.f.L’—, l’—e",
+    "translation": "; the fickle man, the fickle woman.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-malade",
+    "pos": "n.m.f.",
+    "translation": "( —, or—s-—s ) nurse, sick nurse, attendant.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "mouchard mouchard , n.m., or mouche",
+    "text": "mouchard,n.m., ormouche, (l.u.)n.f., spy, police-spy, informer.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "bandière",
+    "pos": "n.f.Front de —",
+    "translation": "; front line of battle; ☉banner, flag.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "larmières larmières , n.f.pl., or larmiers",
+    "text": "larmières,n.f.pl., orlarmiers,n.m.pl., tear-pit (of the stag).",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "renfler renfler , v.n., se renfler",
+    "text": "renfler,v.n., serenfler,v.r., to swell, to swell out; to rise.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "crépitation crépitation , n.f., or crépitement",
+    "text": "crépitation,n.f., orcrépitement,n.m., crepitation, crackling.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "rouvieux",
+    "pos": "n. and adj.m.",
+    "translation": "(vet.) mange; mangy.",
+    "metadata": {
+      "altSpelling": "roux-vieux",
+      "plural": "n.p."
+    },
+    "type": "BaseWithAltSpelling (other_consecutive_i.html)"
+  },
+  {
+    "word": "émerisé",
+    "pos": "adj.Papier —",
+    "translation": "; emery paper.",
+    "usage": [
+      {
+        "fr": "Toile —e",
+        "en": "emery cloth."
+      }
+    ],
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (other_consecutive_i.html)"
+  },
+  {
+    "word": "perce-mousse perce-mousse , n.f., or perce-neige",
+    "text": "perce-mousse,n.f., orperce-neige,n.f., (—) (bot.) snow-drop.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "casse-cou",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) break-neck; (man.) rough-rider.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-pêche",
+    "pos": "n.m.",
+    "translation": "( —, or—s-—s ) river-keeper, water-bailiff.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "salicor salicor , n.m., or salicorne",
+    "text": "salicor,n.m., orsalicorne,n.f., (bot.) glasswort, saltwort.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "attrape-lourdaud",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) clap-trap; catch-penny.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-feu",
+    "pos": "n.m.",
+    "translation": "( —, or—-—x ) fire-guard; fender; match-tub.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-marteau",
+    "pos": "n.m.",
+    "translation": "( —, or—s-—x ) (forestry) hammer-keeper.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "surge",
+    "pos": "adj.Laine —",
+    "translation": "; raw, unwashed wool; wool in the yolk.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "chasse-poignée",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) cutler’s tool, driver.",
+    "metadata": {
+      "marker": "*"
+    },
+    "type": "BaseWithMarker (other_consecutive_i.html)"
+  },
+  {
+    "word": "chasse-coquins",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) beggar-driver, beadle.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "chevaucher",
+    "pos": "v.a.— le vent",
+    "translation": "; to beat up against the wind.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "guide-chaîne",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) (horl.) guard, ratchet.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "préjudiciaux",
+    "pos": "adj.m.pl.Frais —",
+    "translation": "; (jur.) previous costs.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "grillet",
+    "pos": "n.m., or",
+    "translation": "(her.) hawk’s bell.",
+    "metadata": {
+      "feminineSuffix": "grillette",
+      "femininePos": "n.f.",
+      "marker": "*"
+    },
+    "type": "baigneur (other_consecutive_i.html)"
+  },
+  {
+    "word": "grippe-sou",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) pinch-penny; curmudgeon.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "cache-entrée",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) drop (of a key-hole).",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "chasse-roue",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) spur-post; guard-iron.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "décuvage décuvage , n.m., or décuvaison",
+    "text": "décuvage,n.m., ordécuvaison,n.f., tunning (of wine).",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-vente",
+    "pos": "n.m.",
+    "translation": "( —, or—s-— ) wood-merchant’s agent.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "titane titane , n.m., or titanium",
+    "text": "titane,n.m., ortitanium(-om),n.m., (chem.) titanium.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "casse-mottes",
+    "pos": "n.m.",
+    "translation": "( plur.— ) (agri.) clod-breaker.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "coupe-racines",
+    "pos": "n.m.",
+    "translation": "( plur.— ) (agri.) root-cutter.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "déplantage déplantage , n.m., or déplantation",
+    "text": "déplantage,n.m., ordéplantation,n.f., displanting.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "sextil",
+    "irregular_pronunciation": "sèks-",
+    "pos": "adj.Aspect —",
+    "translation": "; (astrol.) sextile.",
+    "metadata": {
+      "feminineSuffix": "-e"
+    },
+    "type": "BaseWithFeminine (other_consecutive_i.html)"
+  },
+  {
+    "word": "joseph",
+    "pos": "n.m.— papier",
+    "translation": "; silver-paper, tissue-paper.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "vidamé vidamé , n.m., or vidamie",
+    "text": "vidamé,n.m., orvidamie,n.f., dignity of a vidame.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "casse-lunettes",
+    "pos": "n.m.",
+    "translation": "( plur.— ) (bot.) eyebright.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "coqueret coqueret , n.m., or coquerelle",
+    "text": "coqueret,n.m., orcoquerelle,n.f., winter-cherry.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-barrière",
+    "pos": "n.m.f.",
+    "translation": "( —, or—s-—s ) gate-keeper.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-étalon",
+    "pos": "n.m.",
+    "translation": "( —, or—s-—s ) stallion-keeper.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "able able , n.m., or ablette",
+    "text": "able,n.m., orablette,n.f., (fish) ablet, bleak.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "arase",
+    "pos": "n.f.Pierres d’—",
+    "translation": "; leveling course (mas.).",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "audiencier",
+    "pos": "adj.m.Huissier —",
+    "translation": "; crier of a court.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "coupe-légumes",
+    "pos": "n.m.",
+    "translation": "( plur.— ) vegetable-cutter.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "énervation énervation , n.f., or énervement",
+    "text": "énervation,n.f., orénervement,n.m., enervation.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "désenrouer",
+    "pos": "v.n.Ne pas —",
+    "translation": "; to be always hoarse.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "casse-noisettes",
+    "pos": "n.m.",
+    "translation": "( plur.— ) nut-crackers.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "ferrant",
+    "pos": "adj.Maréchal —",
+    "translation": "; farrier; shoe-smith.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "brise-vent",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) (gard.) screen.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "chasse-mulet",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) miller’s man.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "créditeur",
+    "pos": "adj.Compte —",
+    "translation": "; creditor’s account.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-chasse",
+    "pos": "n.m.",
+    "translation": "( —, or—s-—s ) game-keeper.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "abêter abêter , v.n., s’ abêtir",
+    "text": "abêter,v.n., s’abêtir,v.r., to grow stupid.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "chiffonni-er chiffonni-er , n.m., or -ère",
+    "text": "chiffonni-er,n.m., or-ère,n.f., chiffonier.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "jacquart",
+    "pos": "n.m.Métier à la —",
+    "translation": "; Jacquart loom.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "nivereau nivereau , n.m., or niverolle",
+    "text": "nivereau,n.m., orniverolle,n.f., snow-bird.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "pretantaine",
+    "pos": "n.f.Courir la —",
+    "translation": "; to gad about.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "strige strige , n.f., or stryge",
+    "text": "strige,n.f., orstryge,n.m., vampire, ghost.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "badian badian , n.m., or badiane",
+    "text": "badian,n.m., orbadiane,n.f., aniseed-tree.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "coupe-bourgeons",
+    "pos": "n.m.",
+    "translation": "( plur.— ) vine-grub.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-bois",
+    "pos": "n.m.",
+    "translation": "( —, or—s-— ) wood-steward.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "capuce capuce , n.f., or capuchon",
+    "text": "capuce,n.f., orcapuchon,n.m., hood, cowl.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "chauffe-lit",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) bed-warmer.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "choucas choucas , n.m., or chouchette",
+    "text": "choucas,n.m., orchouchette,n.f., jackdaw.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "essaie-plume",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) pen-wiper.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "alpiou",
+    "pos": "n.m.Faire un —",
+    "translation": "; to stake double.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-nappe",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) table-mat.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "cubage cubage , n.m., or cubature",
+    "text": "cubage,n.m., orcubature,n.f., cubature.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "guide-âne",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) guide-book.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "jardon jardon , n.m., or jarde",
+    "text": "jardon,n.m., orjarde,n.f., (vet.) curb.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "aumailles",
+    "pos": "adj.Bêtes —",
+    "translation": "; horned cattle.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "garde-cendre",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) fender.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "universaux universaux , n.m.pl. of universel",
+    "text": "universaux,n.m.pl.ofuniversel,n., q.v.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "poulinière",
+    "pos": "n.f.Jument —",
+    "translation": "; brood mare.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "bohé",
+    "pos": "n. and adj.m.",
+    "translation": "bohea tea.",
+    "metadata": {
+      "altSpelling": "bohea"
+    },
+    "type": "BaseWithAltSpelling (other_consecutive_i.html)"
+  },
+  {
+    "word": "essuie-main",
+    "pos": "n.m.",
+    "translation": "( —, or—-—s ) towel.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "luminade",
+    "pos": "n.f.À la —",
+    "translation": "; by torchlight.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "gommeux",
+    "pos": "n.m.Petit —",
+    "translation": "; fop, coxcomb.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "malai malai or malais malais , -e",
+    "text": "malaiormalais,-e,n. and adj., Malay.",
+    "type": "Unmatched (other_consecutive_i.html)"
+  },
+  {
+    "word": "archal",
+    "pos": "n.m.Fil d’—",
+    "translation": "; iron wire.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "nord",
+    "pos": "adj.Pôle —",
+    "translation": "; North pole.",
+    "type": "Base (other_consecutive_i.html)"
+  },
+  {
+    "word": "beau beau or bel bel , belle",
+    "text": "beauorbel,belle,adj., [belbefore nouns singular beginning with a vowel orhmute], beautiful, fine, lovely, handsome; fair; smart, spruce; glorious; lofty, noble; seemly, becoming.Une belle journée; a fine day.C’est un beau parleur; he is a fine-spoken man.Se faire beau; to make one’s self smart.Comme vous voilà beau aujourd’hui!how spruce you are to-day!Une belle femme; a handsome woman.De beaux traits; handsome features.Un beau teint; a fair complexion.Le beau sexe; the fair sex.Le temps se met au beau; the weather is clearing up.À beau jeu, beau retour; one good turn deserves another.Donner beau jeu à quelqu’un; to give any one good cards, to give any one fair play.Avoir beau jeu; to have good cards, to have fair play.Prendre sa belle; to seize the opportunity.Faire un beau coup; to make a lucky hit.Une belle âme; a lofty soul.Il fait beau se promener aujourd’hui; it is fine weather for walking to-day.Il en fait de belles; he is going on at a fine rate, playing fine tricks.Il m’en a compté de belles; he told me a lot of lies.Il m’en a compté de belles sur votre compte; he abused you right and left to me.Belle demande!a fine request to make!Il l’a échappé belle; he has had a narrow escape of it.Charles le Bel; (of France) Charles the Fair.Philippe le Bel; (of France) Philip the Fair.Philippe le Beau; (of Spain) Philip the Handsome.Le beau monde; the fashionable world.Mourir de sa belle mort; to die a natural death.Au beau milieu; in the very middle.La belle plume fait le bel oiseau; fine feathers make fine birds.Déchirer à belles dents; to criticize mercilessly, to rend any one.Il fera beau quand j’y retournera; it will be a long day before I go there again.Être dans de beaux draps; to be in a pretty pickle.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "nouveau nouveau , nouvel nouvel , adj.m. , nouvelle",
+    "text": "nouveau,nouvel,adj.m.,nouvelle,f., new, recent, novel, fresh, further; new-fangled, modern, new-fashioned; inexperienced, green.Le nouvel an; the new year.De —le date; recently.De —le mode; new-fashioned.Recommencer sur nouveaux frais; to begin anew,orall over again.Un homme —; an upstart.Un habit —; a coat of a new fashion.Un nouvel habit; a freshoranother coat.— venu; newly-come.Un — venu; a new-comer;des nouveaux venus; new-comers;une nouvelle venue; new-comer (female);des nouvelles venues; new-comers (females).— débarqué; (fig.) person just come up from the country. [Nouvel is used for themasculinebefore a vowel or anhmute.]",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "ce qui ce qui , que que , dont dont , à quoi",
+    "text": "ce qui,que,dont,à quoi; that, which, what, of what, to what.Je ne sais ce que nous deviendrons; I do not know what will become of us.Ce qui se passe; what happens.Ce que je vous dit; what I tell you.Faites ce dont je vous ai parlé; do what I told you of.Ce qui réussit est toujours approuvé; what meets with success always meets with approbation.C’est ce que je disais; it is what I said.Ce que j’ai vu de beau; the fine things I saw.Tout ce qu’on fait de mauvais; all the mischief that is done.Savez-vous à quoi il pense?do you know what he is thinking of?",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "éloigner",
+    "text": "s’*éloigner,v.r., to go away, to remove, to recede; to forsake; to withdraw; to ramble; to digress; to swerve; to deviate; to be different, to differ from, to dislike; (paint.) to appear in the distance; to be alienated, to be wanting, to fall off, to fail.Ne vous éloignez pas; don’t go far.S’— de son devoir; to deviate from one’s duty.S’— de son sujet; to digress from one’s subject.Cette opinion s’éloigne de la mienne; that opinion differs from mine.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "heurter",
+    "text": "se†heurter,v.r., to strike, to hit, one’s self; to strike against one another, to run foul of each other; to come across one another; to come into collision; to jostle one another; to clash.Se — à la tête; to strike one’s head.Les boucs se heurtent de leurs têtes; goats butt at one another with their heads.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "fou fou or fol fol , folle",
+    "text": "fouorfol,folle,adj., mad, foolish, wild, insane, senseless, frolicsome; playful; excessively fond; distracting (of pain); excessive.Un fol espoir; a foolish hope.Devenir —; to go mad.Être — de; to be mad for; to be passionately fond of.Que vous êtes —!how foolish you are!— à lier; raving, mad.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "mou mou , mol mol , adj.m. , molle",
+    "text": "mou,mol,adj.m.,molle,f., soft, mellow; weak; slack, feeble, nerveless, flabby; inactive; sluggish; tame, effeminate, careless, luxurious.Cire molle; soft wax.Poires molles; mellow pears.Style mou; nerveless style.Mer molle; (nav.) slack water. [Molis used in the masc. before a vowel orhmute.]",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "vieux vieux , vieil vieil , adj.m. , vieille",
+    "text": "vieux,vieil,adj.m.,vieille,f., old; aged, advanced in years; ancient, venerable.Un vieux soldat; an old soldier.Un vieil arbre; an old tree.Un vieil harpagon; an old miser.Une vieille femme; an old woman. [Vieilmay be used instead ofvieuxbefore a vowel or a silenth.]",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "abreuver abreuver de",
+    "text": "s’abreuverde,v.r., (of animals) to go to water; to drink plentifully; to be steeped in.S’— de larmes; to shed copious tears.S’— de douleurs; to be filled with grief; to drain to the dregs the cup of sorrow.Un cœur abreuvé de fiel; a heart steeped in gall.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "assujettir assujettir , or assujétir",
+    "text": "assujettir,orassujétir,v.a., to subdue, to enthrall, to bring under, into, subjection; to subject, to tie down; to oblige; to fix, to fasten, to wedge in.— ses passions; to master one’s passions.S’— à quelque chose; to tie one’s self down to a thing.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "occuper occuper à à (habitual) or de",
+    "text": "s’occuperà(habitual)orde(particular),v.r., to occupy one’s self; to be busy, to apply one’s self, to attend to, to trouble one’s self about.S’— à lire; to be busy reading.Je m’occupe de votre affaire; I am looking afterorattending to your business.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "fier fier ( à",
+    "text": "sefier(à),v.r., to trust to; to rely, to depend upon; to put one’s trust in.Je me fie à vous; I trust to you.Je me fie sur vous; I depend on you.Fiez-vous-y; (iron.) do not trust to that.Bien fou qui s’y fie; more fool he who relies upon it.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "?",
+    "text": "Remark.—The French sayquatre à cinq lieues, because leagues are things which may be divided into fractions; but, in speaking of things which cannot be divided,oumust be used. For instance,Quatre ou cinq personnes; four or five persons.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "diable!",
+    "text": "diable!int., the devil, the deuce, confound it! hang it!Comment —!how the devil!Que — avez-vous?what the devil is the matter with you?À quoi — s’amuse-t-il?what the deuce is he about?De quoi — se mêle-t-il?why the deuce does he meddle?",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "brouiller",
+    "text": "se*brouiller,v.r., to be out, to put one’s self out, to confound one’s self; to fall out with any one.Le temps se brouille; the weather is spoiling.Se — avec la justice; to fall foul of the law, to fall into the clutches of the law.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "point point , adv. , no, not; not at all; none ( more emphatic than pas",
+    "text": "point,adv., no, not; not at all; none (more emphatic thanpas).Je ne l’ai — vu; I have not seen him.Il n’a — d’argent; he has no money at all.— du tout; not at all.— d’amitié sans vertu; there can be no friendship without virtue.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "son son , sa sa , ses",
+    "text": "son,sa,ses,adj., his, her, its, one’s.Son frère, sa sœur et ses enfants; his brother, sister, and children.Son âme; his, her, soul. [Sonis used for thefem.instead ofsawhen the word following begins with a vowel or a silenth.]",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "assouvir assouvir , v.a. , to glut, to satiate, to cloy, to surfeit, to gratify. — ses passions ; to gratify one’s passions. — sa faim ; to satiate one’s hunger. s’ assouvir",
+    "text": "assouvir,v.a., to glut, to satiate, to cloy, to surfeit, to gratify.— ses passions; to gratify one’s passions.— sa faim; to satiate one’s hunger.s’assouvir,v.r., to be satiated, glutted, surfeited, cloyed, gratified.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "piano piano ( —s ) or piano-forte piano-forte ( —s-— ) or forte-piano",
+    "text": "piano(—s)orpiano-forte(—s-—)orforte-piano(—-—s),n.m., piano-forte.— à queue; grand piano.— carré; square piano, cottage piano.— droit; uprightorcottage piano.Jouer du —; to play on the piano.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "dia!",
+    "text": "dia!int., hoi (to make horses turn to the left).Il n’entend ni à — ni à hurhau; there is no making him hear reason.L’un tire à — et l’autre à hurhau; they pull different ways.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hausser",
+    "text": "se†hausser,v.r., to be raised; to rise, to raise one’s self; to clear up (of the weather); to increase; (com.) to rise.Se — sur la pointe des pieds; to stand upon tip-toe.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "rafle rafle , raffe raffe , or râpe",
+    "text": "rafle,raffe,orrâpe,n.f., grape-stalk stripped of all its fruit; (dice) pair-royal.Faire —; (fam.) to sweep off the stakes; to sweep off everything, to make a clean sweep.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "dépouiller",
+    "text": "se*dépouiller,v.r., to shed its skin (of insects and animals); to molt; to divest one’s self of; to strip one’s self of; to throw off; to dispense with; to renounce.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "aigrette",
+    "text": "aigretten.f., egret, aigret; aigrette, tuft, or plume (of feathers, diamonds); (bot.) egret, (milit.) tuft; horn (of the owl); crest (of the peacock).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hérisser",
+    "text": "se†hérisser,v.r., to stand on end, to stand erect; to bristle, to bristle up; to be bristling with, to be armed; to be covered, to be studded (with).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "vrac vrac , vrague vrague , or vraque",
+    "text": "vrac,vrague,orvraque,n.m., (nav.) disorder.En —; pell-mell, unpacked, loose, in bulk.Charger en —; (nav.) to load with a loose cargo,orcargo in bulk.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "quoi!",
+    "text": "quoi!int., what! how!—, vous avez fait cela?what! have you done that?— donc, vous osez me résister en face!how then! dare you resist me openly?",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "chicaneu-r chicaneu-r , n.m. , -se -se , n.f. , chicani-er chicani-er , n.m. , -ère",
+    "text": "chicaneu-r,n.m.,-se,n.f.,chicani-er,n.m.,-ère,n.f., andadj., chicaner, caviler, pettifogger, wrangler; litigious, caviling, wrangling.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tiens! tiens! or tenez!",
+    "text": "tiens!ortenez!int., expressing astonishment,orto call the attention of the hearer; look! look here! look there! hold! now then! there!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "orchidées orchidées or orchide orchide or orchie",
+    "text": "orchidéesororchideororchie(-ki-),n.f.pl., (bot.) orchidaceæ, (bot.) orchid, orchis, fool-stone, bee-flower, gnat-flower.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "coïonnerie coïonnerie (ko-io-n-rî) or couillonnerie couillonnerie , couillonnade",
+    "text": "coïonnerie(ko-io-n-rî)orcouillonnerie,couillonnade,n.f., (l.ex.) dastardliness, a mean, low action; gammon, humbug.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "croquante croquante , n.f. , crisp-tart; almond-cake. à la croque-au-sel",
+    "text": "croquante,n.f., crisp-tart; almond-cake.à lacroque-au-sel,adv., with salt only; (fig.) as easily as possible.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "excrémenteu-x excrémenteu-x , -se -se , or excrémentiel excrémentiel , -le -le , or excrémentitiel excrémentitiel , -le",
+    "text": "excrémenteu-x,-se,orexcrémentiel,-le,orexcrémentitiel,-le,adj., excrementitious, excremental, excrementitial.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "méfier méfier ( de",
+    "text": "seméfier(de),v.r., to mistrust, to distrust, to suspect; to beware, to mind; to be on one’s guard (against).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "varietur",
+    "text": "nevarietur(né varié-tur), (jur.) in order that no change may be made; “final edition” of an author’s works.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hâter",
+    "text": "se†hâter,v.r., to make haste, to hurry, to hurry one’s self.Hâtez-vous de partir; make haste and get away.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "crépin",
+    "text": "saint-crépin,n.m., Saint Crispin; kit (of a journeyman shoemaker).Perdre son saint-—; to lose one’s all.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "refrogné refrogné , -e -e , or renfrogné renfrogné , -e",
+    "text": "refrogné,-e,orrenfrogné,-e,part., frowning, scowling, gruff, surly, sullen.Air —; scowling, sullen look.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tille tille or teille",
+    "text": "*tilleorteille,n.f., bast of the lime-tree; cabin, cuddy (of an undecked vessel); ax-hammer; hemp-harl.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "sévir sévir , v.n. , ( contre",
+    "text": "sévir,v.n., (contre) to use with rigor, to be severe; to deal rigorously with; to rage (of war, etc.).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "saille!",
+    "text": "*saille!archaic 2d pers. sing. of the imperative of the verb saillir, (nav.) haul! (word of command).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hasarder",
+    "text": "se†hasarder,v.r., to hazard, to venture, to risk.Se — à faire une chose; to venture to do a thing.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "fi!",
+    "text": "fi!int., fie! fie.— donc; fie! for shame.Faire — d’une chose; to turn up one’s nose at anything.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "fleurer fleurer , v.n. , to smell, to exhale. Cela fleure bon ; that smells nice. (pop.) for flairer flairer , or sentir",
+    "text": "fleurer,v.n., to smell, to exhale.Cela fleure bon; that smells nice. (pop.)forflairer,orsentir.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "le le , art.m. , la la , f. , les",
+    "text": "le,art.m.,la,f.,les,pl.m.f., the.La nuit; in the, during the night.Le coquin!what a scoundrel!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "trouvère trouvère or ☉ trouveur",
+    "text": "trouvèreor☉trouveur,n.m., Trouvère, northern bard (name of old poets of the North of France).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "margot margot , n.f. , magpie, mag; talkative woman, chatterbox; dim. of Marguerite",
+    "text": "margot,n.f., magpie, mag; talkative woman, chatterbox; dim. ofMarguerite, Madge, Meg, Peggy.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "entre-colonne entre-colonne , n.f. , ( —-—s ) or entre-colonnement",
+    "text": "entre-colonne,n.f., (—-—s)orentre-colonnement,n.m., (—-—s) (arch.) intercolumniation.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "sacramental sacramental , -e -e , or sacramentel sacramentel , -le",
+    "text": "sacramental,-e,orsacramentel,-le,adj., sacramental.Mots sacramentaux; decisive words.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hussarde",
+    "text": "à la†hussarde,adv., like hussars; by rapine, by pillage.Bottes à la —; riding-boots.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "vileté vileté (vil-té) or vilité",
+    "text": "vileté(vil-té)orvilité,n.f., cheapness, low price; unimportance, baseness, meanness.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "encoignure encoignure or encognure",
+    "text": "*encoignureorencognure(an-ko-gnur),n.f., corner; angle (of a street); corner-piece.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "têt têt (tè) or test",
+    "text": "têt(tè)ortest(tèst),n.m., (chem., metal.) test, cupel, potsherd, broken glass, etc.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "vagabonder vagabonder or ☉ vagabonner",
+    "text": "vagabonderor☉vagabonner,v.n., to be a vagabond, to wander, to roam, to tramp about.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "palsambleu! palsambleu! par la sambleu!",
+    "text": "palsambleu!par la sambleu!int., zounds! forsooth! (an oath peculiar to Louis XI.).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "charivariseur charivariseur , charivarieur charivarieur , or charivariste",
+    "text": "charivariseur,charivarieur,orcharivariste,n.m., mock-musician; rioter, roysterer.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "déci",
+    "text": "déci, particle used in French weights and measures, deci (one-tenth of the unit).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "pou-de-soie pou-de-soie , n.m. , ( —x-— ) or poult-de-soie",
+    "text": "pou-de-soie,n.m., (—x-—)orpoult-de-soie,n.m., (—s-—) (silk) paduasoy; stout silk.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "prrr!",
+    "text": "prrr!int., not I! not a bit of it! don’t you wish you may get it! whistle for it!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "récrémenteu-x récrémenteu-x , -se -se , or récrémentitiel récrémentitiel , -le",
+    "text": "récrémenteu-x,-se,orrécrémentitiel,-le,adj., (med.) recremental, recrementitious.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "accoster accoster de",
+    "text": "s’accosterde,v.r., to keep company with, to make acquaintance with, to frequent.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "onirocritie onirocritie (-cri-ci) or onirocritique",
+    "text": "onirocritie(-cri-ci)oronirocritique,n.f., interpretation of dreams, oneiroscopy.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "saigner",
+    "text": "se*saigner,v.r., to bleed one’s self, to drain one’s self; to make a sacrifice.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "déca",
+    "text": "déca(particle used in French weights and measures) deca (ten times the unit).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "unisexué unisexué , -e -e (-ni-cèksué), or unisexuel unisexuel , -le",
+    "text": "unisexué,-e(-ni-cèksué),orunisexuel,-le(-ni-cèksu-èl),adj., (bot.) unisexual.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "graini-er graini-er or graineti-er graineti-er , n.m. , -ère",
+    "text": "graini-erorgraineti-er,n.m.,-ère,n.f., seedsman, seedswoman, corn-chandler.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "manioc manioc , manihot manihot , or manioque",
+    "text": "manioc,manihot,ormanioque,n.m., (bot.) manioc, cassado, tapioca, cassava.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "teter teter (té-) or téter",
+    "text": "teter(té-)ortéter,v.n., to suck.Donner à — à; to give suck to, to suckle.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "exsangue exsangue , exsanguin exsanguin , -e",
+    "text": "exsangue,exsanguin,-e,adj., bloodless, anæmic; weak, feeble, spiritless.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "peste!",
+    "text": "peste!int., plague on it! the deuce! by Jove! hang it! bless me! indeed!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "gras-fondu gras-fondu , n.m. , ( n.p. ) or gras-fondure",
+    "text": "gras-fondu,n.m., (n.p.)orgras-fondure,n.f., (n.p.) (vet) molten grease.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "refrognement refrognement or renfrognement",
+    "text": "*refrognementorrenfrognement,n.m., frown, scowl, knitting of the brows.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "houspiller",
+    "text": "*se†houspiller,v.r., to tug, to maul, to worry each other; to wrangle.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "trucheman trucheman (trush-mān) or truchement",
+    "text": "trucheman(trush-mān)ortruchement,n.m., interpreter; dragoman, drogman.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "quiconque",
+    "text": "quiconque(ki-kōnk), pron., whoever, whosoever; whomsoever, whichever.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "réal réal , n.m. ( réaux ), or réale",
+    "text": "réal,n.m.(réaux),orréale,n.f.(réales), real (Spanish coin = 5 cents).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "appariement appariement , or apparîment",
+    "text": "appariement,orapparîment,n.m., pairing, matching; coupling, mating.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "bief bief (bié), or biez",
+    "text": "bief(bié),orbiez(bié),n.m., mill-course, mill-race; reach (canals).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "musi-f musi-f or mussi-f mussi-f , -ve",
+    "text": "musi-formussi-f,-ve,adj., (chem.) mosaic.Or —; mosaic-gold, ormolu.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tiller tiller or teiller",
+    "text": "*tillerorteiller,v.a., (agri.) to peel, to strip, to scutch (hemp).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "becqueter becqueter or béqueter",
+    "text": "sebecqueterorbéqueter,v.r., to peck one another; to beak; to bill.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "dîné dîné , or dîner",
+    "text": "dîné,ordîner,n.m., dinner, dinner-party.L’heure du —; dinner-time.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "sacramentalement sacramentalement (-tal-mān) or sacramentellement",
+    "text": "sacramentalement(-tal-mān)orsacramentellement,adv., sacramentally.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "accorde!",
+    "text": "accorde!int.(nav.) now! (order given to rowers to pull together).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "confortant confortant , -e -e , or confortati-f confortati-f , -ve",
+    "text": "confortant,-e,orconfortati-f,-ve,adj., strengthening, comforting.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "sororal sororal , -e -e , or sororial sororial , -e",
+    "text": "sororal,-e,orsororial,-e,adj., of a sister, sisterly, of sisters.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "archipompe archipompe , or arche-de-pompe",
+    "text": "archipompe,orarche-de-pompe,n.f., (—s-—) (nav.) well, well-pump.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "fichtre!",
+    "text": "fichtre!int., (pop.) the deuce! the devil; hang it! confound it!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "époullin époullin , espolin espolin , or espoulin",
+    "text": "époullin,espolin,orespoulin,n.m., (manu.) small shuttle, spool.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "papilionacé papilionacé , -e -e , or * papillonacé papillonacé , -e",
+    "text": "papilionacé,-e, or *papillonacé,-e,adj., (bot.) papilionaceous.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "refrogner refrogner or se renfrogner",
+    "text": "serefrognerorserenfrogner,v.r., to frown, to knit one’s brows.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tesson tesson (tè-) or têt",
+    "text": "tesson(tè-)ortêt(tè),n.m., potsherd, fragment of broken glass.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "belvéder belvéder (-dère), or belvédère",
+    "text": "belvéder(-dère),orbelvédère,n.m., turret, terrace, belvidere.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "bohème bohème , n.m.f. , bohémien bohémien , n.m. , -ne",
+    "text": "bohème,n.m.f.,bohémien,n.m.,-ne,n.f., gipsy, bohemian, tramp.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tillage tillage or teillage",
+    "text": "*tillageorteillage,n.m., (agri.) stripping, scutching (hemp).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "agnus agnus , or agnus-Dei",
+    "text": "agnus,oragnus-Dei,n.m., (—) (c.rel.) Agnus-Dei, Lamb of God.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "branche-ursine branche-ursine , or branc-ursine",
+    "text": "branche-ursine,orbranc-ursine,n.f., (—) (bot.) brank-ursine.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "épargner",
+    "text": "s’*épargner,v.r., to spare one’s self; to spare one another.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "lithargé lithargé , -e -e , or lithargyré lithargyré , -e",
+    "text": "lithargé,-e,orlithargyré,-e,adj., adulterated with litharge.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "serrette serrette (sè-rèt) or sarrette",
+    "text": "serrette(sè-rèt)orsarrette,n.f., (bot.) serratula, saw-wort.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "bécabunga bécabunga , or beccabunga",
+    "text": "bécabunga,orbeccabunga,n.m., (bot.) beccabunga, brook-lime.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "pellée pellée , pellerée pellerée , pelletée",
+    "text": "pellée,pellerée,pelletée(pèl-rée, pèl-tée),n.f., shovelful.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "veillote veillote or veillotte",
+    "text": "*veilloteorveillotte,n.f., hay-cock; (bot.) meadow-saffron.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "vinetier vinetier (vi-n-tié) or vinettier",
+    "text": "vinetier(vi-n-tié)orvinettier(-nè-tié),n.m., barberry-tree.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "guinde guinde , n.f. , guinda guinda , guindeau",
+    "text": "guinde,n.f.,guinda,guindeau,n.m., (nav.) windlass, hoist.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "?",
+    "text": "[All words in which thehis aspirated, are marked thus †.]",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "pelu pelu , -e -e , adj. , hairy. [Only used in patte-pelu",
+    "text": "pelu,-e,adj., hairy. [Only used inpatte-pelu, which see.]",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "toutenague toutenague (toot-nag), or tintenague",
+    "text": "toutenague(toot-nag),ortintenague,n.f., (metal.) tutenag.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hisser",
+    "text": "se†hisser,v.r., to raiseorlift one’s self up, to get up.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hyperborée hyperborée or hyperboréen hyperboréen , -ne",
+    "text": "hyperboréeorhyperboréen,-ne(-in, -èn),adj., hyperborean.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "vasculaire vasculaire or (l.u.) vasculeu-x vasculeu-x , -se",
+    "text": "vasculaireor(l.u.)vasculeu-x,-se,adj., (anat.) vascular.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hola!",
+    "text": "†hola!int., holla! hoa! (nav.) holloa! ho, there! stop!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "lenticulaire lenticulaire or lenticulé lenticulé , -e",
+    "text": "lenticulaireorlenticulé,-e,adj., lenticular, lentiform.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "érucage érucage , érucago érucago , or érucague",
+    "text": "érucage,érucago,orérucague(-kag),n.f., (bot.) rocket.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "gano",
+    "text": "gano(ombre), let me have the deal, “I have the king.”",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hymen hymen (i-mèn) or hyménée",
+    "text": "hymen(i-mèn)orhyménée,n.m., Hymen; marriage, wedlock.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tamisaille tamisaille or tamise",
+    "text": "*tamisailleortamise,n.f., (nav.) sweep of the tiller.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tarare!",
+    "text": "tarare!int., pshaw! fiddlestick!—-ponpon!(l.u.) brag!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tortille tortille or tortillère",
+    "text": "*tortilleortortillère,n.f., serpentineorwinding walk.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "corbleu!",
+    "text": "corbleu!int.By the Powers! Zounds! By Jove! Hang it!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "délégant délégant or délégat-eur délégat-eur , n.m. , -e -e , -rice",
+    "text": "délégantordélégat-eur,n.m.,-e,-rice,n.f., delegator.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "déshabiller",
+    "text": "se*déshabiller(dé-za-),v.r., to undress one’s self.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "saint-simonien saint-simonien , n.m. -ne",
+    "text": "saint-simonien,n.m.-ne,n.f., (—-—s) Saint-Simonian.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "senegrain senegrain , senègre senègre , or senegré",
+    "text": "senegrain,senègre,orsenegré,n.m., (bot.) fenugreek.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "ouais!",
+    "text": "ouais!int., heyday! whish! dear me! bless my soul!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "ure ure , aurochs aurochs , or urus",
+    "text": "ure,aurochs,orurus,n.m., (mam.) ure, ure-ox, urus.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "diachylon diachylon , or diachylum",
+    "text": "diachylon,ordiachylum,n.m., diachylon, diachylum.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "squirreu-x squirreu-x , -se -se , or squirrheu-x squirrheu-x , -se",
+    "text": "squirreu-x,-se,orsquirrheu-x,-se,adj., scirrhous.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tamaris tamaris , tamarisc tamarisc , or tamarix",
+    "text": "tamaris,tamarisc,ortamarix,n.m., (bot.) tamarisk.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "trille trille , or tril",
+    "text": "*trille,ortril,n.m., (mus.) quaver, trill, shake.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "uranie",
+    "text": "uranie, (astron.) Urania; (bot.) traveler’s tree.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "cafetan cafetan , or caftan",
+    "text": "cafetan,orcaftan,n.m., caftan (Turkish garment).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "?",
+    "text": "*sefendiller,v.r., to slit; to chink; to crack.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "o!",
+    "text": "o!int., O! oh!Les — de Noël; Christmas anthems.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "rencogner",
+    "text": "se*rencogner,v.r., to hideorcrouch in a corner.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "fabricien fabricien (-si-in) or fabricier",
+    "text": "fabricien(-si-in)orfabricier,n.m., vestry-man.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "flétan flétan , flételet flételet , or flétau",
+    "text": "flétan,flételet,orflétau,n.m., (ich.) halibut.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "moitié moitié , de moitié de moitié , à moitié",
+    "text": "moitié,de moitié,à moitié,adv., half, by half.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "bestiaux bestiaux (-tiô), n.m. (plural of bétail",
+    "text": "bestiaux(-tiô),n.m.(plural ofbétail), cattle.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "harpailler",
+    "text": "*se†harpailler,v.r., to wrangle, to squabble.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "embu embu , -e -e , part. of emboire",
+    "text": "embu,-e,part.ofemboire, soaked in, dried in.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "foarre foarre , foerre foerre , fouarre",
+    "text": "foarre,foerre,fouarre,n.m., straw (of oats).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "havir",
+    "text": "se†havir,v.r., to scorch, to burn (of meat).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hublot hublot or hulot",
+    "text": "†hublotorhulot,n.m., (nav.) small port-hole.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "p.",
+    "text": "p.(initial letter of Père), father (priest).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hutter",
+    "text": "se†hutter,v.r., to make a hut, to lodge in.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "rabdomancie rabdomancie or ☉ rabdomance",
+    "text": "rabdomancieor☉rabdomance,n.f., rhabdomancy.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "sapotier sapotier or * sapotillier",
+    "text": "sapotieror*sapotillier,n.m., sapota (tree).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hémi",
+    "text": "hémi, a prefix from Greek ἡμί, half, semi.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hottereau hottereau or † hotteret",
+    "text": "†hottereauor†hotteret,n.m., garden-basket.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "roman roman , -e -e , or romance",
+    "text": "roman,-e,orromance,adj., Romanic, Romance.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tramail tramail or trémail",
+    "text": "*tramailortrémail,n.m., trammel, drag-net.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "st!",
+    "text": "st!int., here, come here! hi! hoy! I say!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "avecque avecque , prep. , obsolete spelling of avec",
+    "text": "avecque,prep., obsolete spelling ofavec.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "belle belle , belif belif , or bellif",
+    "text": "belle,belif,orbellif,n.m., (her.) gules.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "ho!",
+    "text": "†ho!int., ho! hoa! oh! hoy! (nav.) ahoy!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "mirlirot mirlirot , n.m. , corruption of mélilot",
+    "text": "mirlirot,n.m., corruption ofmélilot,q.v.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "patatras!",
+    "text": "patatras!int., crack! thump! slap! bang!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "redondant redondant or rédondant rédondant , -e",
+    "text": "redondantorrédondant,-e,adj., redundant.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "sapote sapote or * sapotille",
+    "text": "sapoteor*sapotille,n.f., sapota (fruit).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "test test (tèst) or têt",
+    "text": "test(tèst)ortêt(tè),n.m., (zöol.) shell.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "bourdaine bourdaine , or bourgène",
+    "text": "bourdaine,orbourgène,n.f., black alder.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "bran!",
+    "text": "bran!int.(l.ex.)— de lui!a fig for him!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hai!",
+    "text": "†hai!int., hey! well! indeed! bless me!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "harper",
+    "text": "se†harper,v.r., to grapple one another.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "heu!",
+    "text": "heu!int., alas! lackaday! hey! ah! aye!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "houper",
+    "text": "se†houper,v.r., to shout to each other.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "p.",
+    "text": "p.(initial letter of Pour), (com.) per.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "phil- phil- or philo-",
+    "text": "phil-orphilo-, a prefix from Gr. φίλος.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "teter teter (té-) or téter",
+    "text": "teter(té-)ortéter,v.a., to suck (milk).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "bravo!",
+    "text": "bravo!adv., bravo! well done! capital!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "mozarabe mozarabe , or mozarabique",
+    "text": "mozarabe,ormozarabiqueadj., muzarabic.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "arnica arnica , or arnique",
+    "text": "arnica,orarnique,n.f., (bot.) arnica.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "ferme!",
+    "text": "ferme!int., cheer up! courage! go it!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hue!",
+    "text": "†hue!int., gee! gee up! to the right.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tribunat",
+    "text": "tribunatn.m., tribuneship; tribunate.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "yeux yeux , n.m.pl. , eyes ( plur. of œil",
+    "text": "yeux,n.m.pl., eyes (plur.ofœil,q.v.).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "archi",
+    "text": "archi, prefix from Gr. ἂρχειν, arch.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "mde.",
+    "text": "mde., (ab. of Marchande) shopkeeper.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "b-fa-si",
+    "text": "b-fa-si, (mus.) B; (vocal mus.) si.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "cafier cafier , or caféier",
+    "text": "cafier,orcaféier,n.m., coffee-tree.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "ct ct (ab. of courant",
+    "text": "ct(ab. ofcourant), inst. (instant).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "d.m.",
+    "text": "d.m.(ab. for Docteur Médecin), M.D.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hâler",
+    "text": "se†hâler,v.r., to become sun-burnt.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "henriade henriade ( La",
+    "text": "henriade(La), Voltaire’s epic poem.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hydr hydr , hydro",
+    "text": "hydr,hydro, prefix from Greek ὕδωρ.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "piperesse piperesse , (st.e.) fem. of pipeur",
+    "text": "piperesse, (st.e.)fem.ofpipeur,q.v.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "bauque bauque , or baugue",
+    "text": "bauque,orbaugue,n.f., grass-wrack.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "érigne érigne or érine",
+    "text": "*érigneorérine,n.f., (surg.) hook.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "gastro",
+    "text": "gastro, a prefix from Gr., gastro.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "haïe!",
+    "text": "†haïe!int., (carter’s cry) gee ho!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "md.",
+    "text": "md., (ab. of Marchand) shopkeeper.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "pent pent , penta",
+    "text": "pent,penta, prefix from Gr. πέντε.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "vignot vignot or vigneau",
+    "text": "*vignotorvigneau,n.m., periwinkle.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "cᵗᵉˢˢᵉ cᵗᵉˢˢᵉ (ab. of comtesse",
+    "text": "cᵗᵉˢˢᵉ(ab. ofcomtesse), countess.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "iléon",
+    "text": "iléonorileum,n.m., (anat.) ileum.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "pseudo",
+    "text": "pseudo, a prefix from Gr. ψεῦδος.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "cathédra",
+    "text": "excathédra, with high authority.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "proto",
+    "text": "proto, a prefix from Gr. πρῶτος.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "parbleu!",
+    "text": "parbleu!int., zounds! forsooth!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "poly-",
+    "text": "poly-, a prefix from Gr. πολύς.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tétra",
+    "text": "tétra, a prefix from Gr. τετρα.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "cⁱᵉ.",
+    "text": "cⁱᵉ., (ab.) Co. (for Company).",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "corymbé corymbé , -e",
+    "text": "corymbé,-e, (bot.) corymbiate.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "mono",
+    "text": "mono, a prefix from Gr. μόνος.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "vélaut!",
+    "text": "vélaut!int., (hunt.) tally-ho.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hahé!",
+    "text": "†hahé!int., (hunt.) tally-ho!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hé!",
+    "text": "†hé!int., ho! ah! hey! I say!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "siroco siroco or ☉ siroc",
+    "text": "sirocoor☉siroc,n.m., Sirocco.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "néo",
+    "text": "néo, a prefix from Gr. νέος.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "pan!",
+    "text": "pan!int., slap! flap! smack!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hare!",
+    "text": "†hare!int., (hunt.) halloo!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "o.",
+    "text": "o.(ab. of Ouest), W., West.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "paix!",
+    "text": "paix!int., peace! be quiet!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "turlututu!",
+    "text": "turlututu!int., hush! hush!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "décatissage",
+    "text": "décatissagen.m., sponging.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "chᵉʳ.",
+    "text": "chᵉʳ., ab. for Chevalier.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "qu’",
+    "text": "qu’, contraction of Que.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "cᵗᵉ cᵗᵉ (ab. of comte",
+    "text": "cᵗᵉ(ab. ofcomte), earl.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "pouah!",
+    "text": "pouah!int., faugh! ugh!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tête-bleu!",
+    "text": "tête-bleu!int., zounds!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "tête-dieu!",
+    "text": "tête-dieu!int., zounds!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hom!",
+    "text": "†hom!int., hum! humph!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "mame mame (pop.), for madame",
+    "text": "mame(pop.), formadame.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "ventrebleu!",
+    "text": "ventrebleu!int.zounds!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "ex",
+    "text": "ex(èks), (prefix) ex.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hein!",
+    "text": "hein!int., hey! what!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hélas!",
+    "text": "hélas!int., alas! ah!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "morbleu!",
+    "text": "morbleu!int., zounds!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "aulx aulx (ô), pl. of ail",
+    "text": "aulx(ô),pl.ofail.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "ha!",
+    "text": "†ha!int., ah! ha!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "hem!",
+    "text": "†hem!int., hem!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "oh!",
+    "text": "oh!int., O! ho!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "d’ d’ , ab. of de",
+    "text": "d’, ab. ofde.",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "ouf!",
+    "text": "ouf!int., oh!",
+    "type": "Unmatched (uncovered.html)"
+  },
+  {
+    "word": "a",
+    "text": "a, has.",
+    "type": "Unmatched (uncovered.html)"
+  }
+]

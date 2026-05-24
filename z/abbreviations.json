@@ -1,0 +1,587 @@
+[
+  {
+    "abbr": "a.",
+    "english": "active",
+    "french": "actif"
+  },
+  {
+    "abbr": "ab.",
+    "english": "abbreviation",
+    "french": "abréviation"
+  },
+  {
+    "abbr": "Acad.",
+    "english": "Academy",
+    "french": "Académie"
+  },
+  {
+    "abbr": "adj.",
+    "english": "adjective",
+    "french": "adjectif"
+  },
+  {
+    "abbr": "adject.",
+    "english": "adjectively",
+    "french": "adjectivement"
+  },
+  {
+    "abbr": "adv.",
+    "english": "adverb",
+    "french": "adverbe"
+  },
+  {
+    "abbr": "agri.",
+    "english": "agriculture",
+    "french": "agriculture"
+  },
+  {
+    "abbr": "alch.",
+    "english": "alchemy",
+    "french": "alchimie"
+  },
+  {
+    "abbr": "alg.",
+    "english": "algebra",
+    "french": "algèbre"
+  },
+  {
+    "abbr": "anat.",
+    "english": "anatomy",
+    "french": "anatomie"
+  },
+  {
+    "abbr": "antiq.",
+    "english": "antiquity",
+    "french": "antiquité"
+  },
+  {
+    "abbr": "arch.",
+    "english": "architecture",
+    "french": "architecture"
+  },
+  {
+    "abbr": "arith.",
+    "english": "arithmetic",
+    "french": "arithmétique"
+  },
+  {
+    "abbr": "art.",
+    "english": "article",
+    "french": "article"
+  },
+  {
+    "abbr": "artil.",
+    "english": "artillery",
+    "french": "artillerie"
+  },
+  {
+    "abbr": "astrol.",
+    "english": "astrology",
+    "french": "astrologie"
+  },
+  {
+    "abbr": "astron.",
+    "english": "astronomy",
+    "french": "astronomie"
+  },
+  {
+    "abbr": "auxil.",
+    "english": "auxiliary",
+    "french": "auxiliaire"
+  },
+  {
+    "abbr": "bookbind.",
+    "english": "bookbinding",
+    "french": "reliure"
+  },
+  {
+    "abbr": "bot.",
+    "english": "botany",
+    "french": "botanique"
+  },
+  {
+    "abbr": "b.s.",
+    "english": "bad sense",
+    "french": "mauvaise part"
+  },
+  {
+    "abbr": "carp.",
+    "english": "carpentry",
+    "french": "charpenterie"
+  },
+  {
+    "abbr": "chem.",
+    "english": "chemistry",
+    "french": "chimie"
+  },
+  {
+    "abbr": "coin.",
+    "english": "coining",
+    "french": "monnayage"
+  },
+  {
+    "abbr": "com.",
+    "english": "commerce",
+    "french": "commerce"
+  },
+  {
+    "abbr": "conch.",
+    "english": "conchology",
+    "french": "conchologie"
+  },
+  {
+    "abbr": "conj.",
+    "english": "conjunction",
+    "french": "conjonction"
+  },
+  {
+    "abbr": "cook.",
+    "english": "cookery",
+    "french": "cuisine"
+  },
+  {
+    "abbr": "c.rel.",
+    "english": "catholic religion",
+    "french": "religion catholique"
+  },
+  {
+    "abbr": "dy.",
+    "english": "dyeing",
+    "french": "teinture"
+  },
+  {
+    "abbr": "ecc.",
+    "english": "ecclesiastical",
+    "french": "ecclésiastique"
+  },
+  {
+    "abbr": "engr.",
+    "english": "engraving",
+    "french": "gravure"
+  },
+  {
+    "abbr": "ent.",
+    "english": "entomology",
+    "french": "entomologie"
+  },
+  {
+    "abbr": "exc.",
+    "english": "exclamation",
+    "french": "exclamation"
+  },
+  {
+    "abbr": "f.",
+    "english": "feminine",
+    "french": "féminin"
+  },
+  {
+    "abbr": "fam.",
+    "english": "familiar",
+    "french": "familier"
+  },
+  {
+    "abbr": "fenc.",
+    "english": "fencing",
+    "french": "escrime"
+  },
+  {
+    "abbr": "fig.",
+    "english": "figuratively",
+    "french": "au figuré"
+  },
+  {
+    "abbr": "fin.",
+    "english": "finance",
+    "french": "finances"
+  },
+  {
+    "abbr": "fort.",
+    "english": "fortification",
+    "french": "fortification"
+  },
+  {
+    "abbr": "foss.",
+    "english": "fossils",
+    "french": "fossiles"
+  },
+  {
+    "abbr": "gard.",
+    "english": "gardening",
+    "french": "jardinage"
+  },
+  {
+    "abbr": "geog.",
+    "english": "geography",
+    "french": "géographie"
+  },
+  {
+    "abbr": "geol.",
+    "english": "geology",
+    "french": "géologie"
+  },
+  {
+    "abbr": "geom.",
+    "english": "geometry",
+    "french": "géométrie"
+  },
+  {
+    "abbr": "gold.",
+    "english": "goldsmith’s work",
+    "french": "orfèvrerie"
+  },
+  {
+    "abbr": "gram.",
+    "english": "grammar",
+    "french": "grammaire"
+  },
+  {
+    "abbr": "her.",
+    "english": "heraldry",
+    "french": "blason"
+  },
+  {
+    "abbr": "hist.",
+    "english": "history",
+    "french": "histoire"
+  },
+  {
+    "abbr": "horl.",
+    "english": "horology",
+    "french": "horlogerie"
+  },
+  {
+    "abbr": "hort.",
+    "english": "horticulture",
+    "french": "horticulture"
+  },
+  {
+    "abbr": "hunt.",
+    "english": "hunting",
+    "french": "chasse"
+  },
+  {
+    "abbr": "hydr.",
+    "english": "hydraulics",
+    "french": "hydraulique"
+  },
+  {
+    "abbr": "ich.",
+    "english": "ichthyology",
+    "french": "ichtyologie"
+  },
+  {
+    "abbr": "imp.",
+    "english": "impersonal",
+    "french": "impersonne"
+  },
+  {
+    "abbr": "indecl.",
+    "english": "indeclinable",
+    "french": "invariable"
+  },
+  {
+    "abbr": "int.",
+    "english": "interjection",
+    "french": "interjection"
+  },
+  {
+    "abbr": "iron.",
+    "english": "ironically",
+    "french": "ironiquement"
+  },
+  {
+    "abbr": "jest.",
+    "english": "jestingly",
+    "french": "par plaisanterie"
+  },
+  {
+    "abbr": "jur.",
+    "english": "jurisprudence",
+    "french": "jurisprudence"
+  },
+  {
+    "abbr": "l.ex.",
+    "english": "low expression",
+    "french": "terme bas"
+  },
+  {
+    "abbr": "lit.",
+    "english": "literature",
+    "french": "littérature"
+  },
+  {
+    "abbr": "log.",
+    "english": "logic",
+    "french": "logique"
+  },
+  {
+    "abbr": "l.u.",
+    "english": "little used",
+    "french": "peu usité"
+  },
+  {
+    "abbr": "m.",
+    "english": "masculine",
+    "french": "masculin"
+  },
+  {
+    "abbr": "mam.",
+    "english": "mammalogy",
+    "french": "mammalogie"
+  },
+  {
+    "abbr": "man.",
+    "english": "manege",
+    "french": "manège"
+  },
+  {
+    "abbr": "manu.",
+    "english": "manufacture",
+    "french": "manufactures"
+  },
+  {
+    "abbr": "mas.",
+    "english": "masonry",
+    "french": "maçonnerie"
+  },
+  {
+    "abbr": "math.",
+    "english": "mathematics",
+    "french": "mathématiques"
+  },
+  {
+    "abbr": "mec.",
+    "english": "mechanics",
+    "french": "mécanique"
+  },
+  {
+    "abbr": "med.",
+    "english": "medicine",
+    "french": "médecine"
+  },
+  {
+    "abbr": "metal.",
+    "english": "metallurgy",
+    "french": "métallurgie"
+  },
+  {
+    "abbr": "milit.",
+    "english": "military art",
+    "french": "art militaire"
+  },
+  {
+    "abbr": "min.",
+    "english": "mineralogy",
+    "french": "minéralogie"
+  },
+  {
+    "abbr": "mol.",
+    "english": "mollusk",
+    "french": "mollusque"
+  },
+  {
+    "abbr": "mus.",
+    "english": "music",
+    "french": "musique"
+  },
+  {
+    "abbr": "myth.",
+    "english": "mythology",
+    "french": "mythologie"
+  },
+  {
+    "abbr": "n.",
+    "english": "noun-substantive",
+    "french": "nom substantif"
+  },
+  {
+    "abbr": "nav.",
+    "english": "navy",
+    "french": "marine"
+  },
+  {
+    "abbr": "opt.",
+    "english": "optics",
+    "french": "optique"
+  },
+  {
+    "abbr": "orni.",
+    "english": "ornithology",
+    "french": "ornithologie"
+  },
+  {
+    "abbr": "paint.",
+    "english": "painting",
+    "french": "peinture"
+  },
+  {
+    "abbr": "part.",
+    "english": "participle",
+    "french": "participe"
+  },
+  {
+    "abbr": "pers.",
+    "english": "person",
+    "french": "personne"
+  },
+  {
+    "abbr": "persp.",
+    "english": "perspective",
+    "french": "perspective"
+  },
+  {
+    "abbr": "pharm.",
+    "english": "pharmacy",
+    "french": "pharmacie"
+  },
+  {
+    "abbr": "philos.",
+    "english": "philosophy",
+    "french": "philosophie"
+  },
+  {
+    "abbr": "phys.",
+    "english": "natural philosophy (physics)",
+    "french": "physique"
+  },
+  {
+    "abbr": "pl.",
+    "english": "plural",
+    "french": "pluriel"
+  },
+  {
+    "abbr": "poet.",
+    "english": "poetry",
+    "french": "poésie"
+  },
+  {
+    "abbr": "pol.",
+    "english": "politics",
+    "french": "politique"
+  },
+  {
+    "abbr": "pop.",
+    "english": "popular",
+    "french": "populaire"
+  },
+  {
+    "abbr": "prep.",
+    "english": "preposition",
+    "french": "préposition"
+  },
+  {
+    "abbr": "print.",
+    "english": "printing",
+    "french": "imprimerie"
+  },
+  {
+    "abbr": "pron.",
+    "english": "pronoun",
+    "french": "pronom"
+  },
+  {
+    "abbr": "prov.",
+    "english": "proverbially",
+    "french": "proverbialement"
+  },
+  {
+    "abbr": "r.",
+    "english": "reflected",
+    "french": "réfléchi"
+  },
+  {
+    "abbr": "rel.",
+    "english": "religion",
+    "french": "religion"
+  },
+  {
+    "abbr": "rhet.",
+    "english": "rhetoric",
+    "french": "rhétorique"
+  },
+  {
+    "abbr": "sculpt.",
+    "english": "sculpture",
+    "french": "sculpture"
+  },
+  {
+    "abbr": "sing.",
+    "english": "singular",
+    "french": "singulier"
+  },
+  {
+    "abbr": "st.e.",
+    "english": "elevated style",
+    "french": "style soutenu"
+  },
+  {
+    "abbr": "subst.",
+    "english": "substantively",
+    "french": "substantivement"
+  },
+  {
+    "abbr": "surg.",
+    "english": "surgery",
+    "french": "chirurgie"
+  },
+  {
+    "abbr": "tech.",
+    "english": "technology",
+    "french": "technologie"
+  },
+  {
+    "abbr": "thea.",
+    "english": "theater",
+    "french": "théâtre"
+  },
+  {
+    "abbr": "theol.",
+    "english": "theology",
+    "french": "théologie"
+  },
+  {
+    "abbr": "triv.",
+    "english": "trivial",
+    "french": "trivial"
+  },
+  {
+    "abbr": "v.",
+    "english": "verb",
+    "french": "verbe"
+  },
+  {
+    "abbr": "v.a.",
+    "english": "verb active",
+    "french": "verbe actif"
+  },
+  {
+    "abbr": "vet.",
+    "english": "veterinary art",
+    "french": "art vétérinaire"
+  },
+  {
+    "abbr": "v.imp.",
+    "english": "verb impersonal",
+    "french": "verbe impersonnel"
+  },
+  {
+    "abbr": "v.n.",
+    "english": "verb neuter",
+    "french": "verbe neutre"
+  },
+  {
+    "abbr": "v.r.",
+    "english": "verb reflected",
+    "french": "verbe réfléchi"
+  },
+  {
+    "abbr": "V.",
+    "english": "vide",
+    "french": "voir"
+  },
+  {
+    "abbr": "zoöl.",
+    "english": "zoölogy",
+    "french": "zoologie"
+  }
+]

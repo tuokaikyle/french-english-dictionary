@@ -3,8 +3,8 @@ step6_2.py — Try to fit all <p> tags from all three sections into step4 patter
               Unmatched entries go to a single leftover HTML file.
 
 Inputs:
-  step6_other_sections/proper_names.html
-  step6_other_sections/geographical_names.html
+  step1_truncate_book/truncated/proper_names.html
+  step1_truncate_book/truncated/geographical_names.html
   step6_other_sections/redirects_flat.html
 
 Outputs:
@@ -92,8 +92,8 @@ def main():
 
     # ── Three input files ──────────────────────────────────────────────
     html_files = [
-        (os.path.join(script_dir, 'proper_names.html'),    'proper_names'),
-        (os.path.join(script_dir, 'geographical_names.html'), 'geographical'),
+        (os.path.join(script_dir, '..', 'step1_truncate_book', 'truncated', 'proper_names.html'),    'proper_names'),
+        (os.path.join(script_dir, '..', 'step1_truncate_book', 'truncated', 'geographical_names.html'), 'geographical'),
         (os.path.join(script_dir, 'redirects_flat.html'),  'redirects'),
     ]
 

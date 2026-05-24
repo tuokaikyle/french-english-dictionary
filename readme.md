@@ -11,6 +11,8 @@ uv run step5_evaluate/step5.py
 
 uv run z/util.py lazarone step3_clean_book/clean.html
 
+uv run z/util.py --abbrs
+
 redirects
 
 pronuciation optional? and rename - irregular pronunciation
@@ -32,3 +34,5 @@ Complicated pattern words
 附录三 OCABULARY OF PROPER NAMES. INCLUDING THOSE OF HISTORY AND MYTHOLOGY. (Aaron (aarōn), m., Aaron.) - (Zosime, m., Zosimus.)
 附录四 VOCABULARY OF ANCIENT AND MODERN GEOGRAPHICAL NAMES. (Abdère, f., Abdera.) - (Zollverein, Le, m., the Zollverein.)
 附录五 TABLE OF IRREGULAR AND DEFECTIVE VERBS.
+
+pos is an array?

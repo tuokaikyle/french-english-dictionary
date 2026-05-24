@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup, NavigableString
 import os
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
-input_path = os.path.join(script_dir, '..', 'step1_truncate_book', 'fr_en.html')
+input_path = os.path.join(script_dir, '..', 'step1_truncate_book', 'truncated', 'fr_en.html')
 output_path = os.path.join(script_dir, 'clean.html')
 
 with open(input_path, 'r', encoding='utf-8') as f:
